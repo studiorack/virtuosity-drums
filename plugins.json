@@ -1,0 +1,41 @@
+{
+  "plugins": [
+    {
+      "author": "Versilian Studios",
+      "homepage": "https://vis.versilstudios.com/virtuosity-drums.html",
+      "name": "Virtuosity Drums",
+      "description": "Contemporary Jazz drum kit library, performed with sticks, recorded at Virtuosity Musical Instruments in Boston, MA.",
+      "tags": [
+        "Instrument",
+        "Drums",
+        "Jazz",
+        "sfz"
+      ],
+      "version": "0.9.22",
+      "id": "virtuosity-drums",
+      "date": "2021-11-08T07:00:00.000Z",
+      "files": {
+        "audio": {
+          "name": "virtuosity-drums.flac",
+          "size": 821118
+        },
+        "image": {
+          "name": "virtuosity-drums.jpg",
+          "size": 73357
+        },
+        "linux": {
+          "name": "virtuosity-drums.zip",
+          "size": 618693714
+        },
+        "mac": {
+          "name": "virtuosity-drums.zip",
+          "size": 618693714
+        },
+        "win": {
+          "name": "virtuosity-drums.zip",
+          "size": 618693714
+        }
+      }
+    }
+  ]
+}
