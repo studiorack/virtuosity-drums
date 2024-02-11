@@ -1,0 +1,584 @@
+elements:
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: ../Samples/perc/oh/woodblock/woodblock_hi_vl1_rr1.ogg
+      - type: element
+        name: opcode
+        attributes:
+          name: hivel
+          value: '21'
+      - type: element
+        name: opcode
+        attributes:
+          name: amp_velcurve_21
+          value: '1'
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: ../Samples/perc/oh/woodblock/woodblock_hi_vl1_rr2.ogg
+      - type: element
+        name: opcode
+        attributes:
+          name: hivel
+          value: '21'
+      - type: element
+        name: opcode
+        attributes:
+          name: seq_position
+          value: '2'
+      - type: element
+        name: opcode
+        attributes:
+          name: amp_velcurve_21
+          value: '1'
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: ../Samples/perc/oh/woodblock/woodblock_hi_vl1_rr3.ogg
+      - type: element
+        name: opcode
+        attributes:
+          name: hivel
+          value: '21'
+      - type: element
+        name: opcode
+        attributes:
+          name: seq_position
+          value: '3'
+      - type: element
+        name: opcode
+        attributes:
+          name: amp_velcurve_21
+          value: '1'
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: ../Samples/perc/oh/woodblock/woodblock_hi_vl1_rr4.ogg
+      - type: element
+        name: opcode
+        attributes:
+          name: hivel
+          value: '21'
+      - type: element
+        name: opcode
+        attributes:
+          name: seq_position
+          value: '4'
+      - type: element
+        name: opcode
+        attributes:
+          name: amp_velcurve_21
+          value: '1'
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: ../Samples/perc/oh/woodblock/woodblock_hi_vl2_rr1.ogg
+      - type: element
+        name: opcode
+        attributes:
+          name: lovel
+          value: '22'
+      - type: element
+        name: opcode
+        attributes:
+          name: hivel
+          value: '42'
+      - type: element
+        name: opcode
+        attributes:
+          name: amp_velcurve_42
+          value: '1'
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: ../Samples/perc/oh/woodblock/woodblock_hi_vl2_rr2.ogg
+      - type: element
+        name: opcode
+        attributes:
+          name: lovel
+          value: '22'
+      - type: element
+        name: opcode
+        attributes:
+          name: hivel
+          value: '42'
+      - type: element
+        name: opcode
+        attributes:
+          name: seq_position
+          value: '2'
+      - type: element
+        name: opcode
+        attributes:
+          name: amp_velcurve_42
+          value: '1'
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: ../Samples/perc/oh/woodblock/woodblock_hi_vl2_rr3.ogg
+      - type: element
+        name: opcode
+        attributes:
+          name: lovel
+          value: '22'
+      - type: element
+        name: opcode
+        attributes:
+          name: hivel
+          value: '42'
+      - type: element
+        name: opcode
+        attributes:
+          name: seq_position
+          value: '3'
+      - type: element
+        name: opcode
+        attributes:
+          name: amp_velcurve_42
+          value: '1'
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: ../Samples/perc/oh/woodblock/woodblock_hi_vl2_rr4.ogg
+      - type: element
+        name: opcode
+        attributes:
+          name: lovel
+          value: '22'
+      - type: element
+        name: opcode
+        attributes:
+          name: hivel
+          value: '42'
+      - type: element
+        name: opcode
+        attributes:
+          name: seq_position
+          value: '4'
+      - type: element
+        name: opcode
+        attributes:
+          name: amp_velcurve_42
+          value: '1'
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: ../Samples/perc/oh/woodblock/woodblock_hi_vl3_rr1.ogg
+      - type: element
+        name: opcode
+        attributes:
+          name: lovel
+          value: '43'
+      - type: element
+        name: opcode
+        attributes:
+          name: hivel
+          value: '63'
+      - type: element
+        name: opcode
+        attributes:
+          name: amp_velcurve_63
+          value: '1'
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: ../Samples/perc/oh/woodblock/woodblock_hi_vl3_rr2.ogg
+      - type: element
+        name: opcode
+        attributes:
+          name: lovel
+          value: '43'
+      - type: element
+        name: opcode
+        attributes:
+          name: hivel
+          value: '63'
+      - type: element
+        name: opcode
+        attributes:
+          name: seq_position
+          value: '2'
+      - type: element
+        name: opcode
+        attributes:
+          name: amp_velcurve_63
+          value: '1'
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: ../Samples/perc/oh/woodblock/woodblock_hi_vl3_rr3.ogg
+      - type: element
+        name: opcode
+        attributes:
+          name: lovel
+          value: '43'
+      - type: element
+        name: opcode
+        attributes:
+          name: hivel
+          value: '63'
+      - type: element
+        name: opcode
+        attributes:
+          name: seq_position
+          value: '3'
+      - type: element
+        name: opcode
+        attributes:
+          name: amp_velcurve_63
+          value: '1'
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: ../Samples/perc/oh/woodblock/woodblock_hi_vl3_rr4.ogg
+      - type: element
+        name: opcode
+        attributes:
+          name: lovel
+          value: '43'
+      - type: element
+        name: opcode
+        attributes:
+          name: hivel
+          value: '63'
+      - type: element
+        name: opcode
+        attributes:
+          name: seq_position
+          value: '4'
+      - type: element
+        name: opcode
+        attributes:
+          name: amp_velcurve_63
+          value: '1'
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: ../Samples/perc/oh/woodblock/woodblock_hi_vl4_rr1.ogg
+      - type: element
+        name: opcode
+        attributes:
+          name: lovel
+          value: '64'
+      - type: element
+        name: opcode
+        attributes:
+          name: hivel
+          value: '84'
+      - type: element
+        name: opcode
+        attributes:
+          name: amp_velcurve_84
+          value: '1'
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: ../Samples/perc/oh/woodblock/woodblock_hi_vl4_rr2.ogg
+      - type: element
+        name: opcode
+        attributes:
+          name: lovel
+          value: '64'
+      - type: element
+        name: opcode
+        attributes:
+          name: hivel
+          value: '84'
+      - type: element
+        name: opcode
+        attributes:
+          name: seq_position
+          value: '2'
+      - type: element
+        name: opcode
+        attributes:
+          name: amp_velcurve_84
+          value: '1'
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: ../Samples/perc/oh/woodblock/woodblock_hi_vl4_rr3.ogg
+      - type: element
+        name: opcode
+        attributes:
+          name: lovel
+          value: '64'
+      - type: element
+        name: opcode
+        attributes:
+          name: hivel
+          value: '84'
+      - type: element
+        name: opcode
+        attributes:
+          name: seq_position
+          value: '3'
+      - type: element
+        name: opcode
+        attributes:
+          name: amp_velcurve_84
+          value: '1'
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: ../Samples/perc/oh/woodblock/woodblock_hi_vl4_rr4.ogg
+      - type: element
+        name: opcode
+        attributes:
+          name: lovel
+          value: '64'
+      - type: element
+        name: opcode
+        attributes:
+          name: hivel
+          value: '84'
+      - type: element
+        name: opcode
+        attributes:
+          name: seq_position
+          value: '4'
+      - type: element
+        name: opcode
+        attributes:
+          name: amp_velcurve_84
+          value: '1'
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: ../Samples/perc/oh/woodblock/woodblock_hi_vl5_rr1.ogg
+      - type: element
+        name: opcode
+        attributes:
+          name: lovel
+          value: '85'
+      - type: element
+        name: opcode
+        attributes:
+          name: hivel
+          value: '105'
+      - type: element
+        name: opcode
+        attributes:
+          name: amp_velcurve_105
+          value: '1'
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: ../Samples/perc/oh/woodblock/woodblock_hi_vl5_rr2.ogg
+      - type: element
+        name: opcode
+        attributes:
+          name: lovel
+          value: '85'
+      - type: element
+        name: opcode
+        attributes:
+          name: hivel
+          value: '105'
+      - type: element
+        name: opcode
+        attributes:
+          name: seq_position
+          value: '2'
+      - type: element
+        name: opcode
+        attributes:
+          name: amp_velcurve_105
+          value: '1'
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: ../Samples/perc/oh/woodblock/woodblock_hi_vl5_rr3.ogg
+      - type: element
+        name: opcode
+        attributes:
+          name: lovel
+          value: '85'
+      - type: element
+        name: opcode
+        attributes:
+          name: hivel
+          value: '105'
+      - type: element
+        name: opcode
+        attributes:
+          name: seq_position
+          value: '3'
+      - type: element
+        name: opcode
+        attributes:
+          name: amp_velcurve_105
+          value: '1'
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: ../Samples/perc/oh/woodblock/woodblock_hi_vl5_rr4.ogg
+      - type: element
+        name: opcode
+        attributes:
+          name: lovel
+          value: '85'
+      - type: element
+        name: opcode
+        attributes:
+          name: hivel
+          value: '105'
+      - type: element
+        name: opcode
+        attributes:
+          name: seq_position
+          value: '4'
+      - type: element
+        name: opcode
+        attributes:
+          name: amp_velcurve_105
+          value: '1'
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: ../Samples/perc/oh/woodblock/woodblock_hi_vl6_rr1.ogg
+      - type: element
+        name: opcode
+        attributes:
+          name: lovel
+          value: '106'
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: ../Samples/perc/oh/woodblock/woodblock_hi_vl6_rr2.ogg
+      - type: element
+        name: opcode
+        attributes:
+          name: lovel
+          value: '106'
+      - type: element
+        name: opcode
+        attributes:
+          name: seq_position
+          value: '2'
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: ../Samples/perc/oh/woodblock/woodblock_hi_vl6_rr3.ogg
+      - type: element
+        name: opcode
+        attributes:
+          name: lovel
+          value: '106'
+      - type: element
+        name: opcode
+        attributes:
+          name: seq_position
+          value: '3'
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: ../Samples/perc/oh/woodblock/woodblock_hi_vl6_rr4.ogg
+      - type: element
+        name: opcode
+        attributes:
+          name: lovel
+          value: '106'
+      - type: element
+        name: opcode
+        attributes:
+          name: seq_position
+          value: '4'
+

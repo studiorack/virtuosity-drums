@@ -1,0 +1,55 @@
+<?xml version="1.0"?>
+<region>
+	<opcode name="sample" value="../Samples/perc/close/belltree/BellTree_Stroke_rr1_Close.ogg" />
+	<opcode name="seq_length" value="11" />
+</region>
+<region>
+	<opcode name="sample" value="../Samples/perc/close/belltree/BellTree_Stroke_rr10_Close.ogg" />
+	<opcode name="seq_length" value="11" />
+	<opcode name="seq_position" value="2" />
+</region>
+<region>
+	<opcode name="sample" value="../Samples/perc/close/belltree/BellTree_Stroke_rr11_Close.ogg" />
+	<opcode name="seq_length" value="11" />
+	<opcode name="seq_position" value="3" />
+</region>
+<region>
+	<opcode name="sample" value="../Samples/perc/close/belltree/BellTree_Stroke_rr2_Close.ogg" />
+	<opcode name="seq_length" value="11" />
+	<opcode name="seq_position" value="4" />
+</region>
+<region>
+	<opcode name="sample" value="../Samples/perc/close/belltree/BellTree_Stroke_rr3_Close.ogg" />
+	<opcode name="seq_length" value="11" />
+	<opcode name="seq_position" value="5" />
+</region>
+<region>
+	<opcode name="sample" value="../Samples/perc/close/belltree/BellTree_Stroke_rr4_Close.ogg" />
+	<opcode name="seq_length" value="11" />
+	<opcode name="seq_position" value="6" />
+</region>
+<region>
+	<opcode name="sample" value="../Samples/perc/close/belltree/BellTree_Stroke_rr5_Close.ogg" />
+	<opcode name="seq_length" value="11" />
+	<opcode name="seq_position" value="7" />
+</region>
+<region>
+	<opcode name="sample" value="../Samples/perc/close/belltree/BellTree_Stroke_rr6_Close.ogg" />
+	<opcode name="seq_length" value="11" />
+	<opcode name="seq_position" value="8" />
+</region>
+<region>
+	<opcode name="sample" value="../Samples/perc/close/belltree/BellTree_Stroke_rr7_Close.ogg" />
+	<opcode name="seq_length" value="11" />
+	<opcode name="seq_position" value="9" />
+</region>
+<region>
+	<opcode name="sample" value="../Samples/perc/close/belltree/BellTree_Stroke_rr8_Close.ogg" />
+	<opcode name="seq_length" value="11" />
+	<opcode name="seq_position" value="10" />
+</region>
+<region>
+	<opcode name="sample" value="../Samples/perc/close/belltree/BellTree_Stroke_rr9_Close.ogg" />
+	<opcode name="seq_length" value="11" />
+	<opcode name="seq_position" value="11" />
+</region>

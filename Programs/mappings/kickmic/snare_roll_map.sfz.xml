@@ -1,0 +1,34 @@
+<?xml version="1.0"?>
+<region>
+	<opcode name="sample" value="../Samples/kickmic/snare/kickmic_snare_roll_vl1.ogg" />
+	<opcode name="xfin_locc1" value="1" />
+	<opcode name="xfin_hicc1" value="25" />
+	<opcode name="xfout_locc1" value="26" />
+	<opcode name="xfout_hicc1" value="51" />
+</region>
+<region>
+	<opcode name="sample" value="../Samples/kickmic/snare/kickmic_snare_roll_vl2.ogg" />
+	<opcode name="xfin_locc1" value="25" />
+	<opcode name="xfin_hicc1" value="51" />
+	<opcode name="xfout_locc1" value="52" />
+	<opcode name="xfout_hicc1" value="76" />
+</region>
+<region>
+	<opcode name="sample" value="../Samples/kickmic/snare/kickmic_snare_roll_vl3.ogg" />
+	<opcode name="xfin_locc1" value="52" />
+	<opcode name="xfin_hicc1" value="76" />
+	<opcode name="xfout_locc1" value="77" />
+	<opcode name="xfout_hicc1" value="102" />
+</region>
+<region>
+	<opcode name="sample" value="../Samples/kickmic/snare/kickmic_snare_roll_vl4.ogg" />
+	<opcode name="xfin_locc1" value="77" />
+	<opcode name="xfin_hicc1" value="101" />
+	<opcode name="xfout_locc1" value="103" />
+	<opcode name="xfout_hicc1" value="127" />
+</region>
+<region>
+	<opcode name="sample" value="../Samples/kickmic/snare/kickmic_snare_roll_vl5.ogg" />
+	<opcode name="xfin_locc1" value="102" />
+	<opcode name="xfin_hicc1" value="127" />
+</region>

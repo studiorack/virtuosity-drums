@@ -1,0 +1,123 @@
+elements:
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: ../Samples/perc/room/shaker/LShaker_Shake1U_rr1_Far.ogg
+      - type: element
+        name: opcode
+        attributes:
+          name: seq_length
+          value: '7'
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: ../Samples/perc/room/shaker/LShaker_Shake1U_rr2_Far.ogg
+      - type: element
+        name: opcode
+        attributes:
+          name: seq_length
+          value: '7'
+      - type: element
+        name: opcode
+        attributes:
+          name: seq_position
+          value: '2'
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: ../Samples/perc/room/shaker/LShaker_Shake1U_rr3_Far.ogg
+      - type: element
+        name: opcode
+        attributes:
+          name: seq_length
+          value: '7'
+      - type: element
+        name: opcode
+        attributes:
+          name: seq_position
+          value: '3'
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: ../Samples/perc/room/shaker/LShaker_Shake1U_rr4_Far.ogg
+      - type: element
+        name: opcode
+        attributes:
+          name: seq_length
+          value: '7'
+      - type: element
+        name: opcode
+        attributes:
+          name: seq_position
+          value: '4'
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: ../Samples/perc/room/shaker/LShaker_Shake1U_rr5_Far.ogg
+      - type: element
+        name: opcode
+        attributes:
+          name: seq_length
+          value: '7'
+      - type: element
+        name: opcode
+        attributes:
+          name: seq_position
+          value: '5'
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: ../Samples/perc/room/shaker/LShaker_Shake1U_rr6_Far.ogg
+      - type: element
+        name: opcode
+        attributes:
+          name: seq_length
+          value: '7'
+      - type: element
+        name: opcode
+        attributes:
+          name: seq_position
+          value: '6'
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: ../Samples/perc/room/shaker/LShaker_Shake1U_rr7_Far.ogg
+      - type: element
+        name: opcode
+        attributes:
+          name: seq_length
+          value: '7'
+      - type: element
+        name: opcode
+        attributes:
+          name: seq_position
+          value: '7'
+

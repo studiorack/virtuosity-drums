@@ -1,0 +1,30 @@
+<?xml version="1.0"?>
+<region>
+	<opcode name="sample" value="../Samples/perc/close/whistle/Close_BallWhistle_Short-001.ogg" />
+	<opcode name="seq_length" value="6" />
+</region>
+<region>
+	<opcode name="sample" value="../Samples/perc/close/whistle/Close_BallWhistle_Short-002.ogg" />
+	<opcode name="seq_length" value="6" />
+	<opcode name="seq_position" value="2" />
+</region>
+<region>
+	<opcode name="sample" value="../Samples/perc/close/whistle/Close_BallWhistle_Short-003.ogg" />
+	<opcode name="seq_length" value="6" />
+	<opcode name="seq_position" value="3" />
+</region>
+<region>
+	<opcode name="sample" value="../Samples/perc/close/whistle/Close_BallWhistle_Short-004.ogg" />
+	<opcode name="seq_length" value="6" />
+	<opcode name="seq_position" value="4" />
+</region>
+<region>
+	<opcode name="sample" value="../Samples/perc/close/whistle/Close_BallWhistle_Short-005.ogg" />
+	<opcode name="seq_length" value="6" />
+	<opcode name="seq_position" value="5" />
+</region>
+<region>
+	<opcode name="sample" value="../Samples/perc/close/whistle/Close_BallWhistle_Short-006.ogg" />
+	<opcode name="seq_length" value="6" />
+	<opcode name="seq_position" value="6" />
+</region>

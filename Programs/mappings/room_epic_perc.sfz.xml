@@ -1,0 +1,2168 @@
+<?xml version="1.0"?>
+<master>
+	<opcode name="ampeg_release" value="0.8" />
+	<opcode name="amp_veltrack" value="100" />
+	<opcode name="amp_velcurve_1" value="0.4" />
+	<opcode name="key" value="54" />
+</master>
+<region>
+	<opcode name="sample" value="../Samples/perc/room/tambourine/Tamb1_Shake_rr1_Far.ogg" />
+	<opcode name="seq_length" value="10" />
+</region>
+<region>
+	<opcode name="sample" value="../Samples/perc/room/tambourine/Tamb1_Shake_rr2_Far.ogg" />
+	<opcode name="seq_length" value="10" />
+	<opcode name="seq_position" value="2" />
+</region>
+<region>
+	<opcode name="sample" value="../Samples/perc/room/tambourine/Tamb1_Shake_rr3_Far.ogg" />
+	<opcode name="seq_length" value="10" />
+	<opcode name="seq_position" value="3" />
+</region>
+<region>
+	<opcode name="sample" value="../Samples/perc/room/tambourine/Tamb1_Shake_rr4_Far.ogg" />
+	<opcode name="seq_length" value="10" />
+	<opcode name="seq_position" value="4" />
+</region>
+<region>
+	<opcode name="sample" value="../Samples/perc/room/tambourine/Tamb1_Shake_rr5_Far.ogg" />
+	<opcode name="seq_length" value="10" />
+	<opcode name="seq_position" value="5" />
+</region>
+<region>
+	<opcode name="sample" value="../Samples/perc/room/tambourine/Tamb1_Shake_rr6_Far.ogg" />
+	<opcode name="seq_length" value="10" />
+	<opcode name="seq_position" value="6" />
+</region>
+<region>
+	<opcode name="sample" value="../Samples/perc/room/tambourine/Tamb1_Shake_rr7_Far.ogg" />
+	<opcode name="seq_length" value="10" />
+	<opcode name="seq_position" value="7" />
+</region>
+<region>
+	<opcode name="sample" value="../Samples/perc/room/tambourine/Tamb1_Shake_rr8_Far.ogg" />
+	<opcode name="seq_length" value="10" />
+	<opcode name="seq_position" value="8" />
+</region>
+<region>
+	<opcode name="sample" value="../Samples/perc/room/tambourine/Tamb1_Shake_rr9_Far.ogg" />
+	<opcode name="seq_length" value="10" />
+	<opcode name="seq_position" value="9" />
+</region>
+<region>
+	<opcode name="sample" value="../Samples/perc/room/tambourine/Tamb1_Shake_rr10_Far.ogg" />
+	<opcode name="seq_length" value="10" />
+	<opcode name="seq_position" value="10" />
+</region>
+<master>
+	<opcode name="ampeg_release" value="0.6" />
+	<opcode name="amp_veltrack" value="100" />
+	<opcode name="amp_velcurve_1" value="0.4" />
+	<opcode name="key" value="56" />
+</master>
+<region>
+	<opcode name="sample" value="../Samples/perc/room/cowbell/Cowbell1_Normal_v1_rr1_Far.ogg" />
+	<opcode name="hivel" value="42" />
+	<opcode name="seq_length" value="7" />
+	<opcode name="amp_velcurve_42" value="1" />
+</region>
+<region>
+	<opcode name="sample" value="../Samples/perc/room/cowbell/Cowbell1_Normal_v1_rr2_Far.ogg" />
+	<opcode name="hivel" value="42" />
+	<opcode name="seq_length" value="7" />
+	<opcode name="seq_position" value="2" />
+	<opcode name="amp_velcurve_42" value="1" />
+</region>
+<region>
+	<opcode name="sample" value="../Samples/perc/room/cowbell/Cowbell1_Normal_v1_rr3_Far.ogg" />
+	<opcode name="hivel" value="42" />
+	<opcode name="seq_length" value="7" />
+	<opcode name="seq_position" value="3" />
+	<opcode name="amp_velcurve_42" value="1" />
+</region>
+<region>
+	<opcode name="sample" value="../Samples/perc/room/cowbell/Cowbell1_Normal_v1_rr4_Far.ogg" />
+	<opcode name="hivel" value="42" />
+	<opcode name="seq_length" value="7" />
+	<opcode name="seq_position" value="4" />
+	<opcode name="amp_velcurve_42" value="1" />
+</region>
+<region>
+	<opcode name="sample" value="../Samples/perc/room/cowbell/Cowbell1_Normal_v1_rr5_Far.ogg" />
+	<opcode name="hivel" value="42" />
+	<opcode name="seq_length" value="7" />
+	<opcode name="seq_position" value="5" />
+	<opcode name="amp_velcurve_42" value="1" />
+</region>
+<region>
+	<opcode name="sample" value="../Samples/perc/room/cowbell/Cowbell1_Normal_v1_rr6_Far.ogg" />
+	<opcode name="hivel" value="42" />
+	<opcode name="seq_length" value="7" />
+	<opcode name="seq_position" value="6" />
+	<opcode name="amp_velcurve_42" value="1" />
+</region>
+<region>
+	<opcode name="sample" value="../Samples/perc/room/cowbell/Cowbell1_Normal_v1_rr7_Far.ogg" />
+	<opcode name="hivel" value="42" />
+	<opcode name="seq_length" value="7" />
+	<opcode name="seq_position" value="7" />
+	<opcode name="amp_velcurve_42" value="1" />
+</region>
+<region>
+	<opcode name="sample" value="../Samples/perc/room/cowbell/Cowbell1_Normal_v2_rr1_Far.ogg" />
+	<opcode name="lovel" value="43" />
+	<opcode name="hivel" value="84" />
+	<opcode name="seq_length" value="7" />
+	<opcode name="amp_velcurve_84" value="1" />
+</region>
+<region>
+	<opcode name="sample" value="../Samples/perc/room/cowbell/Cowbell1_Normal_v2_rr2_Far.ogg" />
+	<opcode name="lovel" value="43" />
+	<opcode name="hivel" value="84" />
+	<opcode name="seq_length" value="7" />
+	<opcode name="seq_position" value="2" />
+	<opcode name="amp_velcurve_84" value="1" />
+</region>
+<region>
+	<opcode name="sample" value="../Samples/perc/room/cowbell/Cowbell1_Normal_v2_rr3_Far.ogg" />
+	<opcode name="lovel" value="43" />
+	<opcode name="hivel" value="84" />
+	<opcode name="seq_length" value="7" />
+	<opcode name="seq_position" value="3" />
+	<opcode name="amp_velcurve_84" value="1" />
+</region>
+<region>
+	<opcode name="sample" value="../Samples/perc/room/cowbell/Cowbell1_Normal_v2_rr4_Far.ogg" />
+	<opcode name="lovel" value="43" />
+	<opcode name="hivel" value="84" />
+	<opcode name="seq_length" value="7" />
+	<opcode name="seq_position" value="4" />
+	<opcode name="amp_velcurve_84" value="1" />
+</region>
+<region>
+	<opcode name="sample" value="../Samples/perc/room/cowbell/Cowbell1_Normal_v2_rr5_Far.ogg" />
+	<opcode name="lovel" value="43" />
+	<opcode name="hivel" value="84" />
+	<opcode name="seq_length" value="7" />
+	<opcode name="seq_position" value="5" />
+	<opcode name="amp_velcurve_84" value="1" />
+</region>
+<region>
+	<opcode name="sample" value="../Samples/perc/room/cowbell/Cowbell1_Normal_v2_rr6_Far.ogg" />
+	<opcode name="lovel" value="43" />
+	<opcode name="hivel" value="84" />
+	<opcode name="seq_length" value="7" />
+	<opcode name="seq_position" value="6" />
+	<opcode name="amp_velcurve_84" value="1" />
+</region>
+<region>
+	<opcode name="sample" value="../Samples/perc/room/cowbell/Cowbell1_Normal_v2_rr7_Far.ogg" />
+	<opcode name="lovel" value="43" />
+	<opcode name="hivel" value="84" />
+	<opcode name="seq_length" value="7" />
+	<opcode name="seq_position" value="7" />
+	<opcode name="amp_velcurve_84" value="1" />
+</region>
+<region>
+	<opcode name="sample" value="../Samples/perc/room/cowbell/Cowbell1_Normal_v3_rr1_Far.ogg" />
+	<opcode name="lovel" value="85" />
+	<opcode name="seq_length" value="7" />
+</region>
+<region>
+	<opcode name="sample" value="../Samples/perc/room/cowbell/Cowbell1_Normal_v3_rr2_Far.ogg" />
+	<opcode name="lovel" value="85" />
+	<opcode name="seq_length" value="7" />
+	<opcode name="seq_position" value="2" />
+</region>
+<region>
+	<opcode name="sample" value="../Samples/perc/room/cowbell/Cowbell1_Normal_v3_rr3_Far.ogg" />
+	<opcode name="lovel" value="85" />
+	<opcode name="seq_length" value="7" />
+	<opcode name="seq_position" value="3" />
+</region>
+<region>
+	<opcode name="sample" value="../Samples/perc/room/cowbell/Cowbell1_Normal_v3_rr4_Far.ogg" />
+	<opcode name="lovel" value="85" />
+	<opcode name="seq_length" value="7" />
+	<opcode name="seq_position" value="4" />
+</region>
+<region>
+	<opcode name="sample" value="../Samples/perc/room/cowbell/Cowbell1_Normal_v3_rr5_Far.ogg" />
+	<opcode name="lovel" value="85" />
+	<opcode name="seq_length" value="7" />
+	<opcode name="seq_position" value="5" />
+</region>
+<region>
+	<opcode name="sample" value="../Samples/perc/room/cowbell/Cowbell1_Normal_v3_rr6_Far.ogg" />
+	<opcode name="lovel" value="85" />
+	<opcode name="seq_length" value="7" />
+	<opcode name="seq_position" value="6" />
+</region>
+<region>
+	<opcode name="sample" value="../Samples/perc/room/cowbell/Cowbell1_Normal_v3_rr7_Far.ogg" />
+	<opcode name="lovel" value="85" />
+	<opcode name="seq_length" value="7" />
+	<opcode name="seq_position" value="7" />
+</region>
+<master>
+	<opcode name="ampeg_release" value="0.8" />
+	<opcode name="amp_veltrack" value="100" />
+	<opcode name="amp_velcurve_1" value="0.4" />
+	<opcode name="key" value="58" />
+</master>
+<region>
+	<opcode name="sample" value="../Samples/perc/room/vibraslap/Vibraslap1_1_Hit_1_70_rr1_Far.ogg" />
+	<opcode name="hivel" value="63" />
+	<opcode name="seq_length" value="8" />
+	<opcode name="amp_velcurve_63" value="1" />
+</region>
+<region>
+	<opcode name="sample" value="../Samples/perc/room/vibraslap/Vibraslap1_1_Hit_1_70_rr2_Far.ogg" />
+	<opcode name="hivel" value="63" />
+	<opcode name="seq_length" value="8" />
+	<opcode name="seq_position" value="2" />
+	<opcode name="amp_velcurve_63" value="1" />
+</region>
+<region>
+	<opcode name="sample" value="../Samples/perc/room/vibraslap/Vibraslap1_1_Hit_1_70_rr3_Far.ogg" />
+	<opcode name="hivel" value="63" />
+	<opcode name="seq_length" value="8" />
+	<opcode name="seq_position" value="3" />
+	<opcode name="amp_velcurve_63" value="1" />
+</region>
+<region>
+	<opcode name="sample" value="../Samples/perc/room/vibraslap/Vibraslap1_1_Hit_1_70_rr4_Far.ogg" />
+	<opcode name="hivel" value="63" />
+	<opcode name="seq_length" value="8" />
+	<opcode name="seq_position" value="4" />
+	<opcode name="amp_velcurve_63" value="1" />
+</region>
+<region>
+	<opcode name="sample" value="../Samples/perc/room/vibraslap/Vibraslap1_1_Hit_1_70_rr5_Far.ogg" />
+	<opcode name="hivel" value="63" />
+	<opcode name="seq_length" value="8" />
+	<opcode name="seq_position" value="5" />
+	<opcode name="amp_velcurve_63" value="1" />
+</region>
+<region>
+	<opcode name="sample" value="../Samples/perc/room/vibraslap/Vibraslap1_1_Hit_1_70_rr6_Far.ogg" />
+	<opcode name="hivel" value="63" />
+	<opcode name="seq_length" value="8" />
+	<opcode name="seq_position" value="6" />
+	<opcode name="amp_velcurve_63" value="1" />
+</region>
+<region>
+	<opcode name="sample" value="../Samples/perc/room/vibraslap/Vibraslap1_1_Hit_1_70_rr7_Far.ogg" />
+	<opcode name="hivel" value="63" />
+	<opcode name="seq_length" value="8" />
+	<opcode name="seq_position" value="7" />
+	<opcode name="amp_velcurve_63" value="1" />
+</region>
+<region>
+	<opcode name="sample" value="../Samples/perc/room/vibraslap/Vibraslap1_1_Hit_1_70_rr8_Far.ogg" />
+	<opcode name="hivel" value="63" />
+	<opcode name="seq_length" value="8" />
+	<opcode name="seq_position" value="8" />
+	<opcode name="amp_velcurve_63" value="1" />
+</region>
+<region>
+	<opcode name="sample" value="../Samples/perc/room/vibraslap/Vibraslap1_1_Hit_71_127_rr1_Far.ogg" />
+	<opcode name="lovel" value="64" />
+	<opcode name="seq_length" value="8" />
+</region>
+<region>
+	<opcode name="sample" value="../Samples/perc/room/vibraslap/Vibraslap1_1_Hit_71_127_rr2_Far.ogg" />
+	<opcode name="lovel" value="64" />
+	<opcode name="seq_length" value="8" />
+	<opcode name="seq_position" value="2" />
+</region>
+<region>
+	<opcode name="sample" value="../Samples/perc/room/vibraslap/Vibraslap1_1_Hit_71_127_rr3_Far.ogg" />
+	<opcode name="lovel" value="64" />
+	<opcode name="seq_length" value="8" />
+	<opcode name="seq_position" value="3" />
+</region>
+<region>
+	<opcode name="sample" value="../Samples/perc/room/vibraslap/Vibraslap1_1_Hit_71_127_rr4_Far.ogg" />
+	<opcode name="lovel" value="64" />
+	<opcode name="seq_length" value="8" />
+	<opcode name="seq_position" value="4" />
+</region>
+<region>
+	<opcode name="sample" value="../Samples/perc/room/vibraslap/Vibraslap1_1_Hit_71_127_rr5_Far.ogg" />
+	<opcode name="lovel" value="64" />
+	<opcode name="seq_length" value="8" />
+	<opcode name="seq_position" value="5" />
+</region>
+<region>
+	<opcode name="sample" value="../Samples/perc/room/vibraslap/Vibraslap1_1_Hit_71_127_rr6_Far.ogg" />
+	<opcode name="lovel" value="64" />
+	<opcode name="seq_length" value="8" />
+	<opcode name="seq_position" value="6" />
+</region>
+<region>
+	<opcode name="sample" value="../Samples/perc/room/vibraslap/Vibraslap1_1_Hit_71_127_rr7_Far.ogg" />
+	<opcode name="lovel" value="64" />
+	<opcode name="seq_length" value="8" />
+	<opcode name="seq_position" value="7" />
+</region>
+<region>
+	<opcode name="sample" value="../Samples/perc/room/vibraslap/Vibraslap1_1_Hit_71_127_rr8_Far.ogg" />
+	<opcode name="lovel" value="64" />
+	<opcode name="seq_length" value="8" />
+	<opcode name="seq_position" value="8" />
+</region>
+<master>
+	<opcode name="ampeg_release" value="0.4" />
+	<opcode name="amp_veltrack" value="100" />
+	<opcode name="amp_velcurve_1" value="0.4" />
+	<opcode name="key" value="60" />
+	<opcode name="volume" value="3" />
+</master>
+<region>
+	<opcode name="sample" value="../Samples/perc/room/bongoh/BongoH_Hit1_v1_rr1_Far.ogg" />
+	<opcode name="hivel" value="42" />
+	<opcode name="seq_length" value="8" />
+	<opcode name="amp_velcurve_42" value="1" />
+</region>
+<region>
+	<opcode name="sample" value="../Samples/perc/room/bongoh/BongoH_Hit1_v1_rr2_Far.ogg" />
+	<opcode name="hivel" value="42" />
+	<opcode name="seq_length" value="8" />
+	<opcode name="seq_position" value="2" />
+	<opcode name="amp_velcurve_42" value="1" />
+</region>
+<region>
+	<opcode name="sample" value="../Samples/perc/room/bongoh/BongoH_Hit1_v1_rr3_Far.ogg" />
+	<opcode name="hivel" value="42" />
+	<opcode name="seq_length" value="8" />
+	<opcode name="seq_position" value="3" />
+	<opcode name="amp_velcurve_42" value="1" />
+</region>
+<region>
+	<opcode name="sample" value="../Samples/perc/room/bongoh/BongoH_Hit1_v1_rr4_Far.ogg" />
+	<opcode name="hivel" value="42" />
+	<opcode name="seq_length" value="8" />
+	<opcode name="seq_position" value="4" />
+	<opcode name="amp_velcurve_42" value="1" />
+</region>
+<region>
+	<opcode name="sample" value="../Samples/perc/room/bongoh/BongoH_Hit1_v1_rr5_Far.ogg" />
+	<opcode name="hivel" value="42" />
+	<opcode name="seq_length" value="8" />
+	<opcode name="seq_position" value="5" />
+	<opcode name="amp_velcurve_42" value="1" />
+</region>
+<region>
+	<opcode name="sample" value="../Samples/perc/room/bongoh/BongoH_Hit1_v1_rr6_Far.ogg" />
+	<opcode name="hivel" value="42" />
+	<opcode name="seq_length" value="8" />
+	<opcode name="seq_position" value="6" />
+	<opcode name="amp_velcurve_42" value="1" />
+</region>
+<region>
+	<opcode name="sample" value="../Samples/perc/room/bongoh/BongoH_Hit1_v1_rr7_Far.ogg" />
+	<opcode name="hivel" value="42" />
+	<opcode name="seq_length" value="8" />
+	<opcode name="seq_position" value="7" />
+	<opcode name="amp_velcurve_42" value="1" />
+</region>
+<region>
+	<opcode name="sample" value="../Samples/perc/room/bongoh/BongoH_Hit1_v1_rr8_Far.ogg" />
+	<opcode name="hivel" value="42" />
+	<opcode name="seq_length" value="8" />
+	<opcode name="seq_position" value="8" />
+	<opcode name="amp_velcurve_42" value="1" />
+</region>
+<region>
+	<opcode name="sample" value="../Samples/perc/room/bongoh/BongoH_Hit1_v2_rr1_Far.ogg" />
+	<opcode name="lovel" value="43" />
+	<opcode name="hivel" value="84" />
+	<opcode name="seq_length" value="8" />
+	<opcode name="amp_velcurve_84" value="1" />
+</region>
+<region>
+	<opcode name="sample" value="../Samples/perc/room/bongoh/BongoH_Hit1_v2_rr2_Far.ogg" />
+	<opcode name="lovel" value="43" />
+	<opcode name="hivel" value="84" />
+	<opcode name="seq_length" value="8" />
+	<opcode name="seq_position" value="2" />
+	<opcode name="amp_velcurve_84" value="1" />
+</region>
+<region>
+	<opcode name="sample" value="../Samples/perc/room/bongoh/BongoH_Hit1_v2_rr3_Far.ogg" />
+	<opcode name="lovel" value="43" />
+	<opcode name="hivel" value="84" />
+	<opcode name="seq_length" value="8" />
+	<opcode name="seq_position" value="3" />
+	<opcode name="amp_velcurve_84" value="1" />
+</region>
+<region>
+	<opcode name="sample" value="../Samples/perc/room/bongoh/BongoH_Hit1_v2_rr4_Far.ogg" />
+	<opcode name="lovel" value="43" />
+	<opcode name="hivel" value="84" />
+	<opcode name="seq_length" value="8" />
+	<opcode name="seq_position" value="4" />
+	<opcode name="amp_velcurve_84" value="1" />
+</region>
+<region>
+	<opcode name="sample" value="../Samples/perc/room/bongoh/BongoH_Hit1_v2_rr5_Far.ogg" />
+	<opcode name="lovel" value="43" />
+	<opcode name="hivel" value="84" />
+	<opcode name="seq_length" value="8" />
+	<opcode name="seq_position" value="5" />
+	<opcode name="amp_velcurve_84" value="1" />
+</region>
+<region>
+	<opcode name="sample" value="../Samples/perc/room/bongoh/BongoH_Hit1_v2_rr6_Far.ogg" />
+	<opcode name="lovel" value="43" />
+	<opcode name="hivel" value="84" />
+	<opcode name="seq_length" value="8" />
+	<opcode name="seq_position" value="6" />
+	<opcode name="amp_velcurve_84" value="1" />
+</region>
+<region>
+	<opcode name="sample" value="../Samples/perc/room/bongoh/BongoH_Hit1_v2_rr7_Far.ogg" />
+	<opcode name="lovel" value="43" />
+	<opcode name="hivel" value="84" />
+	<opcode name="seq_length" value="8" />
+	<opcode name="seq_position" value="7" />
+	<opcode name="amp_velcurve_84" value="1" />
+</region>
+<region>
+	<opcode name="sample" value="../Samples/perc/room/bongoh/BongoH_Hit1_v2_rr8_Far.ogg" />
+	<opcode name="lovel" value="43" />
+	<opcode name="hivel" value="84" />
+	<opcode name="seq_length" value="8" />
+	<opcode name="seq_position" value="8" />
+	<opcode name="amp_velcurve_84" value="1" />
+</region>
+<region>
+	<opcode name="sample" value="../Samples/perc/room/bongoh/BongoH_Hit1_v3_rr1_Far.ogg" />
+	<opcode name="lovel" value="85" />
+	<opcode name="seq_length" value="8" />
+</region>
+<region>
+	<opcode name="sample" value="../Samples/perc/room/bongoh/BongoH_Hit1_v3_rr2_Far.ogg" />
+	<opcode name="lovel" value="85" />
+	<opcode name="seq_length" value="8" />
+	<opcode name="seq_position" value="2" />
+</region>
+<region>
+	<opcode name="sample" value="../Samples/perc/room/bongoh/BongoH_Hit1_v3_rr3_Far.ogg" />
+	<opcode name="lovel" value="85" />
+	<opcode name="seq_length" value="8" />
+	<opcode name="seq_position" value="3" />
+</region>
+<region>
+	<opcode name="sample" value="../Samples/perc/room/bongoh/BongoH_Hit1_v3_rr4_Far.ogg" />
+	<opcode name="lovel" value="85" />
+	<opcode name="seq_length" value="8" />
+	<opcode name="seq_position" value="4" />
+</region>
+<region>
+	<opcode name="sample" value="../Samples/perc/room/bongoh/BongoH_Hit1_v3_rr5_Far.ogg" />
+	<opcode name="lovel" value="85" />
+	<opcode name="seq_length" value="8" />
+	<opcode name="seq_position" value="5" />
+</region>
+<region>
+	<opcode name="sample" value="../Samples/perc/room/bongoh/BongoH_Hit1_v3_rr6_Far.ogg" />
+	<opcode name="lovel" value="85" />
+	<opcode name="seq_length" value="8" />
+	<opcode name="seq_position" value="6" />
+</region>
+<region>
+	<opcode name="sample" value="../Samples/perc/room/bongoh/BongoH_Hit1_v3_rr7_Far.ogg" />
+	<opcode name="lovel" value="85" />
+	<opcode name="seq_length" value="8" />
+	<opcode name="seq_position" value="7" />
+</region>
+<region>
+	<opcode name="sample" value="../Samples/perc/room/bongoh/BongoH_Hit1_v3_rr8_Far.ogg" />
+	<opcode name="lovel" value="85" />
+	<opcode name="seq_length" value="8" />
+	<opcode name="seq_position" value="8" />
+</region>
+<master>
+	<opcode name="ampeg_release" value="0.4" />
+	<opcode name="amp_veltrack" value="100" />
+	<opcode name="amp_velcurve_1" value="0.4" />
+	<opcode name="key" value="61" />
+	<opcode name="volume" value="3" />
+</master>
+<region>
+	<opcode name="sample" value="../Samples/perc/room/BongoL/BongoL_Hit1_v1_rr1_Far.ogg" />
+	<opcode name="hivel" value="42" />
+	<opcode name="seq_length" value="8" />
+	<opcode name="amp_velcurve_42" value="1" />
+</region>
+<region>
+	<opcode name="sample" value="../Samples/perc/room/BongoL/BongoL_Hit1_v1_rr2_Far.ogg" />
+	<opcode name="hivel" value="42" />
+	<opcode name="seq_length" value="8" />
+	<opcode name="seq_position" value="2" />
+	<opcode name="amp_velcurve_42" value="1" />
+</region>
+<region>
+	<opcode name="sample" value="../Samples/perc/room/BongoL/BongoL_Hit1_v1_rr3_Far.ogg" />
+	<opcode name="hivel" value="42" />
+	<opcode name="seq_length" value="8" />
+	<opcode name="seq_position" value="3" />
+	<opcode name="amp_velcurve_42" value="1" />
+</region>
+<region>
+	<opcode name="sample" value="../Samples/perc/room/BongoL/BongoL_Hit1_v1_rr4_Far.ogg" />
+	<opcode name="hivel" value="42" />
+	<opcode name="seq_length" value="8" />
+	<opcode name="seq_position" value="4" />
+	<opcode name="amp_velcurve_42" value="1" />
+</region>
+<region>
+	<opcode name="sample" value="../Samples/perc/room/BongoL/BongoL_Hit1_v1_rr5_Far.ogg" />
+	<opcode name="hivel" value="42" />
+	<opcode name="seq_length" value="8" />
+	<opcode name="seq_position" value="5" />
+	<opcode name="amp_velcurve_42" value="1" />
+</region>
+<region>
+	<opcode name="sample" value="../Samples/perc/room/BongoL/BongoL_Hit1_v1_rr6_Far.ogg" />
+	<opcode name="hivel" value="42" />
+	<opcode name="seq_length" value="8" />
+	<opcode name="seq_position" value="6" />
+	<opcode name="amp_velcurve_42" value="1" />
+</region>
+<region>
+	<opcode name="sample" value="../Samples/perc/room/BongoL/BongoL_Hit1_v1_rr7_Far.ogg" />
+	<opcode name="hivel" value="42" />
+	<opcode name="seq_length" value="8" />
+	<opcode name="seq_position" value="7" />
+	<opcode name="amp_velcurve_42" value="1" />
+</region>
+<region>
+	<opcode name="sample" value="../Samples/perc/room/BongoL/BongoL_Hit1_v1_rr8_Far.ogg" />
+	<opcode name="hivel" value="42" />
+	<opcode name="seq_length" value="8" />
+	<opcode name="seq_position" value="8" />
+	<opcode name="amp_velcurve_42" value="1" />
+</region>
+<region>
+	<opcode name="sample" value="../Samples/perc/room/BongoL/BongoL_Hit1_v2_rr1_Far.ogg" />
+	<opcode name="lovel" value="43" />
+	<opcode name="hivel" value="84" />
+	<opcode name="seq_length" value="8" />
+	<opcode name="amp_velcurve_84" value="1" />
+</region>
+<region>
+	<opcode name="sample" value="../Samples/perc/room/BongoL/BongoL_Hit1_v2_rr2_Far.ogg" />
+	<opcode name="lovel" value="43" />
+	<opcode name="hivel" value="84" />
+	<opcode name="seq_length" value="8" />
+	<opcode name="seq_position" value="2" />
+	<opcode name="amp_velcurve_84" value="1" />
+</region>
+<region>
+	<opcode name="sample" value="../Samples/perc/room/BongoL/BongoL_Hit1_v2_rr3_Far.ogg" />
+	<opcode name="lovel" value="43" />
+	<opcode name="hivel" value="84" />
+	<opcode name="seq_length" value="8" />
+	<opcode name="seq_position" value="3" />
+	<opcode name="amp_velcurve_84" value="1" />
+</region>
+<region>
+	<opcode name="sample" value="../Samples/perc/room/BongoL/BongoL_Hit1_v2_rr4_Far.ogg" />
+	<opcode name="lovel" value="43" />
+	<opcode name="hivel" value="84" />
+	<opcode name="seq_length" value="8" />
+	<opcode name="seq_position" value="4" />
+	<opcode name="amp_velcurve_84" value="1" />
+</region>
+<region>
+	<opcode name="sample" value="../Samples/perc/room/BongoL/BongoL_Hit1_v2_rr5_Far.ogg" />
+	<opcode name="lovel" value="43" />
+	<opcode name="hivel" value="84" />
+	<opcode name="seq_length" value="8" />
+	<opcode name="seq_position" value="5" />
+	<opcode name="amp_velcurve_84" value="1" />
+</region>
+<region>
+	<opcode name="sample" value="../Samples/perc/room/BongoL/BongoL_Hit1_v2_rr6_Far.ogg" />
+	<opcode name="lovel" value="43" />
+	<opcode name="hivel" value="84" />
+	<opcode name="seq_length" value="8" />
+	<opcode name="seq_position" value="6" />
+	<opcode name="amp_velcurve_84" value="1" />
+</region>
+<region>
+	<opcode name="sample" value="../Samples/perc/room/BongoL/BongoL_Hit1_v2_rr7_Far.ogg" />
+	<opcode name="lovel" value="43" />
+	<opcode name="hivel" value="84" />
+	<opcode name="seq_length" value="8" />
+	<opcode name="seq_position" value="7" />
+	<opcode name="amp_velcurve_84" value="1" />
+</region>
+<region>
+	<opcode name="sample" value="../Samples/perc/room/BongoL/BongoL_Hit1_v2_rr8_Far.ogg" />
+	<opcode name="lovel" value="43" />
+	<opcode name="hivel" value="84" />
+	<opcode name="seq_length" value="8" />
+	<opcode name="seq_position" value="8" />
+	<opcode name="amp_velcurve_84" value="1" />
+</region>
+<region>
+	<opcode name="sample" value="../Samples/perc/room/BongoL/BongoL_Hit1_v3_rr1_Far.ogg" />
+	<opcode name="lovel" value="85" />
+	<opcode name="seq_length" value="8" />
+</region>
+<region>
+	<opcode name="sample" value="../Samples/perc/room/BongoL/BongoL_Hit1_v3_rr2_Far.ogg" />
+	<opcode name="lovel" value="85" />
+	<opcode name="seq_length" value="8" />
+	<opcode name="seq_position" value="2" />
+</region>
+<region>
+	<opcode name="sample" value="../Samples/perc/room/BongoL/BongoL_Hit1_v3_rr3_Far.ogg" />
+	<opcode name="lovel" value="85" />
+	<opcode name="seq_length" value="8" />
+	<opcode name="seq_position" value="3" />
+</region>
+<region>
+	<opcode name="sample" value="../Samples/perc/room/BongoL/BongoL_Hit1_v3_rr4_Far.ogg" />
+	<opcode name="lovel" value="85" />
+	<opcode name="seq_length" value="8" />
+	<opcode name="seq_position" value="4" />
+</region>
+<region>
+	<opcode name="sample" value="../Samples/perc/room/BongoL/BongoL_Hit1_v3_rr5_Far.ogg" />
+	<opcode name="lovel" value="85" />
+	<opcode name="seq_length" value="8" />
+	<opcode name="seq_position" value="5" />
+</region>
+<region>
+	<opcode name="sample" value="../Samples/perc/room/BongoL/BongoL_Hit1_v3_rr6_Far.ogg" />
+	<opcode name="lovel" value="85" />
+	<opcode name="seq_length" value="8" />
+	<opcode name="seq_position" value="6" />
+</region>
+<region>
+	<opcode name="sample" value="../Samples/perc/room/BongoL/BongoL_Hit1_v3_rr7_Far.ogg" />
+	<opcode name="lovel" value="85" />
+	<opcode name="seq_length" value="8" />
+	<opcode name="seq_position" value="7" />
+</region>
+<region>
+	<opcode name="sample" value="../Samples/perc/room/BongoL/BongoL_Hit1_v3_rr8_Far.ogg" />
+	<opcode name="lovel" value="85" />
+	<opcode name="seq_length" value="8" />
+	<opcode name="seq_position" value="8" />
+</region>
+<master>
+	<opcode name="group" value="375" />
+	<opcode name="ampeg_release" value="0.4" />
+	<opcode name="amp_veltrack" value="100" />
+	<opcode name="amp_velcurve_1" value="0.4" />
+	<opcode name="key" value="62" />
+	<opcode name="volume" value="3" />
+</master>
+<region>
+	<opcode name="sample" value="../Samples/perc/room/conga/Conga_17_HitHM1_1_70_rr1_Far.ogg" />
+	<opcode name="hivel" value="63" />
+	<opcode name="seq_length" value="8" />
+	<opcode name="amp_velcurve_63" value="1" />
+</region>
+<region>
+	<opcode name="sample" value="../Samples/perc/room/conga/Conga_17_HitHM1_1_70_rr2_Far.ogg" />
+	<opcode name="hivel" value="63" />
+	<opcode name="seq_length" value="8" />
+	<opcode name="seq_position" value="2" />
+	<opcode name="amp_velcurve_63" value="1" />
+</region>
+<region>
+	<opcode name="sample" value="../Samples/perc/room/conga/Conga_17_HitHM1_1_70_rr3_Far.ogg" />
+	<opcode name="hivel" value="63" />
+	<opcode name="seq_length" value="8" />
+	<opcode name="seq_position" value="3" />
+	<opcode name="amp_velcurve_63" value="1" />
+</region>
+<region>
+	<opcode name="sample" value="../Samples/perc/room/conga/Conga_17_HitHM1_1_70_rr4_Far.ogg" />
+	<opcode name="hivel" value="63" />
+	<opcode name="seq_length" value="8" />
+	<opcode name="seq_position" value="4" />
+	<opcode name="amp_velcurve_63" value="1" />
+</region>
+<region>
+	<opcode name="sample" value="../Samples/perc/room/conga/Conga_17_HitHM1_1_70_rr5_Far.ogg" />
+	<opcode name="hivel" value="63" />
+	<opcode name="seq_length" value="8" />
+	<opcode name="seq_position" value="5" />
+	<opcode name="amp_velcurve_63" value="1" />
+</region>
+<region>
+	<opcode name="sample" value="../Samples/perc/room/conga/Conga_17_HitHM1_1_70_rr6_Far.ogg" />
+	<opcode name="hivel" value="63" />
+	<opcode name="seq_length" value="8" />
+	<opcode name="seq_position" value="6" />
+	<opcode name="amp_velcurve_63" value="1" />
+</region>
+<region>
+	<opcode name="sample" value="../Samples/perc/room/conga/Conga_17_HitHM1_1_70_rr7_Far.ogg" />
+	<opcode name="hivel" value="63" />
+	<opcode name="seq_length" value="8" />
+	<opcode name="seq_position" value="7" />
+	<opcode name="amp_velcurve_63" value="1" />
+</region>
+<region>
+	<opcode name="sample" value="../Samples/perc/room/conga/Conga_17_HitHM1_1_70_rr8_Far.ogg" />
+	<opcode name="hivel" value="63" />
+	<opcode name="seq_length" value="8" />
+	<opcode name="seq_position" value="8" />
+	<opcode name="amp_velcurve_63" value="1" />
+</region>
+<region>
+	<opcode name="sample" value="../Samples/perc/room/conga/Conga_17_HitHM1_71_127_rr1_Far.ogg" />
+	<opcode name="lovel" value="64" />
+	<opcode name="seq_length" value="8" />
+</region>
+<region>
+	<opcode name="sample" value="../Samples/perc/room/conga/Conga_17_HitHM1_71_127_rr2_Far.ogg" />
+	<opcode name="lovel" value="64" />
+	<opcode name="seq_length" value="8" />
+	<opcode name="seq_position" value="2" />
+</region>
+<region>
+	<opcode name="sample" value="../Samples/perc/room/conga/Conga_17_HitHM1_71_127_rr3_Far.ogg" />
+	<opcode name="lovel" value="64" />
+	<opcode name="seq_length" value="8" />
+	<opcode name="seq_position" value="3" />
+</region>
+<region>
+	<opcode name="sample" value="../Samples/perc/room/conga/Conga_17_HitHM1_71_127_rr4_Far.ogg" />
+	<opcode name="lovel" value="64" />
+	<opcode name="seq_length" value="8" />
+	<opcode name="seq_position" value="4" />
+</region>
+<region>
+	<opcode name="sample" value="../Samples/perc/room/conga/Conga_17_HitHM1_71_127_rr5_Far.ogg" />
+	<opcode name="lovel" value="64" />
+	<opcode name="seq_length" value="8" />
+	<opcode name="seq_position" value="5" />
+</region>
+<region>
+	<opcode name="sample" value="../Samples/perc/room/conga/Conga_17_HitHM1_71_127_rr6_Far.ogg" />
+	<opcode name="lovel" value="64" />
+	<opcode name="seq_length" value="8" />
+	<opcode name="seq_position" value="6" />
+</region>
+<region>
+	<opcode name="sample" value="../Samples/perc/room/conga/Conga_17_HitHM1_71_127_rr7_Far.ogg" />
+	<opcode name="lovel" value="64" />
+	<opcode name="seq_length" value="8" />
+	<opcode name="seq_position" value="7" />
+</region>
+<region>
+	<opcode name="sample" value="../Samples/perc/room/conga/Conga_17_HitHM1_71_127_rr8_Far.ogg" />
+	<opcode name="lovel" value="64" />
+	<opcode name="seq_length" value="8" />
+	<opcode name="seq_position" value="8" />
+</region>
+<master>
+	<opcode name="group" value="376" />
+	<opcode name="off_by" value="375" />
+	<opcode name="ampeg_release" value="0.4" />
+	<opcode name="amp_veltrack" value="100" />
+	<opcode name="amp_velcurve_1" value="0.4" />
+	<opcode name="key" value="63" />
+	<opcode name="volume" value="3" />
+</master>
+<region>
+	<opcode name="sample" value="../Samples/perc/room/conga/Conga_22_HitN_1_50_rr1_Far.ogg" />
+	<opcode name="hivel" value="42" />
+	<opcode name="seq_length" value="8" />
+	<opcode name="amp_velcurve_42" value="1" />
+</region>
+<region>
+	<opcode name="sample" value="../Samples/perc/room/conga/Conga_22_HitN_1_50_rr2_Far.ogg" />
+	<opcode name="hivel" value="42" />
+	<opcode name="seq_length" value="8" />
+	<opcode name="seq_position" value="2" />
+	<opcode name="amp_velcurve_42" value="1" />
+</region>
+<region>
+	<opcode name="sample" value="../Samples/perc/room/conga/Conga_22_HitN_1_50_rr3_Far.ogg" />
+	<opcode name="hivel" value="42" />
+	<opcode name="seq_length" value="8" />
+	<opcode name="seq_position" value="3" />
+	<opcode name="amp_velcurve_42" value="1" />
+</region>
+<region>
+	<opcode name="sample" value="../Samples/perc/room/conga/Conga_22_HitN_1_50_rr4_Far.ogg" />
+	<opcode name="hivel" value="42" />
+	<opcode name="seq_length" value="8" />
+	<opcode name="seq_position" value="4" />
+	<opcode name="amp_velcurve_42" value="1" />
+</region>
+<region>
+	<opcode name="sample" value="../Samples/perc/room/conga/Conga_22_HitN_1_50_rr5_Far.ogg" />
+	<opcode name="hivel" value="42" />
+	<opcode name="seq_length" value="8" />
+	<opcode name="seq_position" value="5" />
+	<opcode name="amp_velcurve_42" value="1" />
+</region>
+<region>
+	<opcode name="sample" value="../Samples/perc/room/conga/Conga_22_HitN_1_50_rr6_Far.ogg" />
+	<opcode name="hivel" value="42" />
+	<opcode name="seq_length" value="8" />
+	<opcode name="seq_position" value="6" />
+	<opcode name="amp_velcurve_42" value="1" />
+</region>
+<region>
+	<opcode name="sample" value="../Samples/perc/room/conga/Conga_22_HitN_1_50_rr7_Far.ogg" />
+	<opcode name="hivel" value="42" />
+	<opcode name="seq_length" value="8" />
+	<opcode name="seq_position" value="7" />
+	<opcode name="amp_velcurve_42" value="1" />
+</region>
+<region>
+	<opcode name="sample" value="../Samples/perc/room/conga/Conga_22_HitN_1_50_rr8_Far.ogg" />
+	<opcode name="hivel" value="42" />
+	<opcode name="seq_length" value="8" />
+	<opcode name="seq_position" value="8" />
+	<opcode name="amp_velcurve_42" value="1" />
+</region>
+<region>
+	<opcode name="sample" value="../Samples/perc/room/conga/Conga_22_HitN_101_127_rr1_Far.ogg" />
+	<opcode name="lovel" value="85" />
+	<opcode name="seq_length" value="8" />
+</region>
+<region>
+	<opcode name="sample" value="../Samples/perc/room/conga/Conga_22_HitN_101_127_rr2_Far.ogg" />
+	<opcode name="lovel" value="85" />
+	<opcode name="seq_length" value="8" />
+	<opcode name="seq_position" value="2" />
+</region>
+<region>
+	<opcode name="sample" value="../Samples/perc/room/conga/Conga_22_HitN_101_127_rr3_Far.ogg" />
+	<opcode name="lovel" value="85" />
+	<opcode name="seq_length" value="8" />
+	<opcode name="seq_position" value="3" />
+</region>
+<region>
+	<opcode name="sample" value="../Samples/perc/room/conga/Conga_22_HitN_101_127_rr4_Far.ogg" />
+	<opcode name="lovel" value="85" />
+	<opcode name="seq_length" value="8" />
+	<opcode name="seq_position" value="4" />
+</region>
+<region>
+	<opcode name="sample" value="../Samples/perc/room/conga/Conga_22_HitN_101_127_rr5_Far.ogg" />
+	<opcode name="lovel" value="85" />
+	<opcode name="seq_length" value="8" />
+	<opcode name="seq_position" value="5" />
+</region>
+<region>
+	<opcode name="sample" value="../Samples/perc/room/conga/Conga_22_HitN_101_127_rr6_Far.ogg" />
+	<opcode name="lovel" value="85" />
+	<opcode name="seq_length" value="8" />
+	<opcode name="seq_position" value="6" />
+</region>
+<region>
+	<opcode name="sample" value="../Samples/perc/room/conga/Conga_22_HitN_101_127_rr7_Far.ogg" />
+	<opcode name="lovel" value="85" />
+	<opcode name="seq_length" value="8" />
+	<opcode name="seq_position" value="7" />
+</region>
+<region>
+	<opcode name="sample" value="../Samples/perc/room/conga/Conga_22_HitN_101_127_rr8_Far.ogg" />
+	<opcode name="lovel" value="85" />
+	<opcode name="seq_length" value="8" />
+	<opcode name="seq_position" value="8" />
+</region>
+<region>
+	<opcode name="sample" value="../Samples/perc/room/conga/Conga_22_HitN_51_100_rr1_Far.ogg" />
+	<opcode name="lovel" value="43" />
+	<opcode name="hivel" value="84" />
+	<opcode name="seq_length" value="8" />
+	<opcode name="amp_velcurve_84" value="1" />
+</region>
+<region>
+	<opcode name="sample" value="../Samples/perc/room/conga/Conga_22_HitN_51_100_rr2_Far.ogg" />
+	<opcode name="lovel" value="43" />
+	<opcode name="hivel" value="84" />
+	<opcode name="seq_length" value="8" />
+	<opcode name="seq_position" value="2" />
+	<opcode name="amp_velcurve_84" value="1" />
+</region>
+<region>
+	<opcode name="sample" value="../Samples/perc/room/conga/Conga_22_HitN_51_100_rr3_Far.ogg" />
+	<opcode name="lovel" value="43" />
+	<opcode name="hivel" value="84" />
+	<opcode name="seq_length" value="8" />
+	<opcode name="seq_position" value="3" />
+	<opcode name="amp_velcurve_84" value="1" />
+</region>
+<region>
+	<opcode name="sample" value="../Samples/perc/room/conga/Conga_22_HitN_51_100_rr4_Far.ogg" />
+	<opcode name="lovel" value="43" />
+	<opcode name="hivel" value="84" />
+	<opcode name="seq_length" value="8" />
+	<opcode name="seq_position" value="4" />
+	<opcode name="amp_velcurve_84" value="1" />
+</region>
+<region>
+	<opcode name="sample" value="../Samples/perc/room/conga/Conga_22_HitN_51_100_rr5_Far.ogg" />
+	<opcode name="lovel" value="43" />
+	<opcode name="hivel" value="84" />
+	<opcode name="seq_length" value="8" />
+	<opcode name="seq_position" value="5" />
+	<opcode name="amp_velcurve_84" value="1" />
+</region>
+<region>
+	<opcode name="sample" value="../Samples/perc/room/conga/Conga_22_HitN_51_100_rr6_Far.ogg" />
+	<opcode name="lovel" value="43" />
+	<opcode name="hivel" value="84" />
+	<opcode name="seq_length" value="8" />
+	<opcode name="seq_position" value="6" />
+	<opcode name="amp_velcurve_84" value="1" />
+</region>
+<region>
+	<opcode name="sample" value="../Samples/perc/room/conga/Conga_22_HitN_51_100_rr7_Far.ogg" />
+	<opcode name="lovel" value="43" />
+	<opcode name="hivel" value="84" />
+	<opcode name="seq_length" value="8" />
+	<opcode name="seq_position" value="7" />
+	<opcode name="amp_velcurve_84" value="1" />
+</region>
+<region>
+	<opcode name="sample" value="../Samples/perc/room/conga/Conga_22_HitN_51_100_rr8_Far.ogg" />
+	<opcode name="lovel" value="43" />
+	<opcode name="hivel" value="84" />
+	<opcode name="seq_length" value="8" />
+	<opcode name="seq_position" value="8" />
+	<opcode name="amp_velcurve_84" value="1" />
+</region>
+<master>
+	<opcode name="ampeg_release" value="0.4" />
+	<opcode name="amp_veltrack" value="100" />
+	<opcode name="amp_velcurve_1" value="0.4" />
+	<opcode name="key" value="64" />
+	<opcode name="volume" value="3" />
+</master>
+<region>
+	<opcode name="sample" value="../Samples/perc/room/tumba/Tumba_24_HitN_1_40_rr1_Far.ogg" />
+	<opcode name="hivel" value="31" />
+	<opcode name="seq_length" value="8" />
+	<opcode name="amp_velcurve_31" value="1" />
+</region>
+<region>
+	<opcode name="sample" value="../Samples/perc/room/tumba/Tumba_24_HitN_1_40_rr2_Far.ogg" />
+	<opcode name="hivel" value="31" />
+	<opcode name="seq_length" value="8" />
+	<opcode name="seq_position" value="2" />
+	<opcode name="amp_velcurve_31" value="1" />
+</region>
+<region>
+	<opcode name="sample" value="../Samples/perc/room/tumba/Tumba_24_HitN_1_40_rr3_Far.ogg" />
+	<opcode name="hivel" value="31" />
+	<opcode name="seq_length" value="8" />
+	<opcode name="seq_position" value="3" />
+	<opcode name="amp_velcurve_31" value="1" />
+</region>
+<region>
+	<opcode name="sample" value="../Samples/perc/room/tumba/Tumba_24_HitN_1_40_rr4_Far.ogg" />
+	<opcode name="hivel" value="31" />
+	<opcode name="seq_length" value="8" />
+	<opcode name="seq_position" value="4" />
+	<opcode name="amp_velcurve_31" value="1" />
+</region>
+<region>
+	<opcode name="sample" value="../Samples/perc/room/tumba/Tumba_24_HitN_1_40_rr5_Far.ogg" />
+	<opcode name="hivel" value="31" />
+	<opcode name="seq_length" value="8" />
+	<opcode name="seq_position" value="5" />
+	<opcode name="amp_velcurve_31" value="1" />
+</region>
+<region>
+	<opcode name="sample" value="../Samples/perc/room/tumba/Tumba_24_HitN_1_40_rr6_Far.ogg" />
+	<opcode name="hivel" value="31" />
+	<opcode name="seq_length" value="8" />
+	<opcode name="seq_position" value="6" />
+	<opcode name="amp_velcurve_31" value="1" />
+</region>
+<region>
+	<opcode name="sample" value="../Samples/perc/room/tumba/Tumba_24_HitN_1_40_rr7_Far.ogg" />
+	<opcode name="hivel" value="31" />
+	<opcode name="seq_length" value="8" />
+	<opcode name="seq_position" value="7" />
+	<opcode name="amp_velcurve_31" value="1" />
+</region>
+<region>
+	<opcode name="sample" value="../Samples/perc/room/tumba/Tumba_24_HitN_1_40_rr8_Far.ogg" />
+	<opcode name="hivel" value="31" />
+	<opcode name="seq_length" value="8" />
+	<opcode name="seq_position" value="8" />
+	<opcode name="amp_velcurve_31" value="1" />
+</region>
+<region>
+	<opcode name="sample" value="../Samples/perc/room/tumba/Tumba_24_HitN_101_127_rr1_Far.ogg" />
+	<opcode name="lovel" value="96" />
+	<opcode name="seq_length" value="8" />
+</region>
+<region>
+	<opcode name="sample" value="../Samples/perc/room/tumba/Tumba_24_HitN_101_127_rr2_Far.ogg" />
+	<opcode name="lovel" value="96" />
+	<opcode name="seq_length" value="8" />
+	<opcode name="seq_position" value="2" />
+</region>
+<region>
+	<opcode name="sample" value="../Samples/perc/room/tumba/Tumba_24_HitN_101_127_rr3_Far.ogg" />
+	<opcode name="lovel" value="96" />
+	<opcode name="seq_length" value="8" />
+	<opcode name="seq_position" value="3" />
+</region>
+<region>
+	<opcode name="sample" value="../Samples/perc/room/tumba/Tumba_24_HitN_101_127_rr4_Far.ogg" />
+	<opcode name="lovel" value="96" />
+	<opcode name="seq_length" value="8" />
+	<opcode name="seq_position" value="4" />
+</region>
+<region>
+	<opcode name="sample" value="../Samples/perc/room/tumba/Tumba_24_HitN_101_127_rr5_Far.ogg" />
+	<opcode name="lovel" value="96" />
+	<opcode name="seq_length" value="8" />
+	<opcode name="seq_position" value="5" />
+</region>
+<region>
+	<opcode name="sample" value="../Samples/perc/room/tumba/Tumba_24_HitN_101_127_rr6_Far.ogg" />
+	<opcode name="lovel" value="96" />
+	<opcode name="seq_length" value="8" />
+	<opcode name="seq_position" value="6" />
+</region>
+<region>
+	<opcode name="sample" value="../Samples/perc/room/tumba/Tumba_24_HitN_101_127_rr7_Far.ogg" />
+	<opcode name="lovel" value="96" />
+	<opcode name="seq_length" value="8" />
+	<opcode name="seq_position" value="7" />
+</region>
+<region>
+	<opcode name="sample" value="../Samples/perc/room/tumba/Tumba_24_HitN_101_127_rr8_Far.ogg" />
+	<opcode name="lovel" value="96" />
+	<opcode name="seq_length" value="8" />
+	<opcode name="seq_position" value="8" />
+</region>
+<region>
+	<opcode name="sample" value="../Samples/perc/room/tumba/Tumba_24_HitN_41_70_rr1_Far.ogg" />
+	<opcode name="lovel" value="32" />
+	<opcode name="hivel" value="63" />
+	<opcode name="seq_length" value="8" />
+	<opcode name="amp_velcurve_63" value="1" />
+</region>
+<region>
+	<opcode name="sample" value="../Samples/perc/room/tumba/Tumba_24_HitN_41_70_rr2_Far.ogg" />
+	<opcode name="lovel" value="32" />
+	<opcode name="hivel" value="63" />
+	<opcode name="seq_length" value="8" />
+	<opcode name="seq_position" value="2" />
+	<opcode name="amp_velcurve_63" value="1" />
+</region>
+<region>
+	<opcode name="sample" value="../Samples/perc/room/tumba/Tumba_24_HitN_41_70_rr3_Far.ogg" />
+	<opcode name="lovel" value="32" />
+	<opcode name="hivel" value="63" />
+	<opcode name="seq_length" value="8" />
+	<opcode name="seq_position" value="3" />
+	<opcode name="amp_velcurve_63" value="1" />
+</region>
+<region>
+	<opcode name="sample" value="../Samples/perc/room/tumba/Tumba_24_HitN_41_70_rr4_Far.ogg" />
+	<opcode name="lovel" value="32" />
+	<opcode name="hivel" value="63" />
+	<opcode name="seq_length" value="8" />
+	<opcode name="seq_position" value="4" />
+	<opcode name="amp_velcurve_63" value="1" />
+</region>
+<region>
+	<opcode name="sample" value="../Samples/perc/room/tumba/Tumba_24_HitN_41_70_rr5_Far.ogg" />
+	<opcode name="lovel" value="32" />
+	<opcode name="hivel" value="63" />
+	<opcode name="seq_length" value="8" />
+	<opcode name="seq_position" value="5" />
+	<opcode name="amp_velcurve_63" value="1" />
+</region>
+<region>
+	<opcode name="sample" value="../Samples/perc/room/tumba/Tumba_24_HitN_41_70_rr6_Far.ogg" />
+	<opcode name="lovel" value="32" />
+	<opcode name="hivel" value="63" />
+	<opcode name="seq_length" value="8" />
+	<opcode name="seq_position" value="6" />
+	<opcode name="amp_velcurve_63" value="1" />
+</region>
+<region>
+	<opcode name="sample" value="../Samples/perc/room/tumba/Tumba_24_HitN_41_70_rr7_Far.ogg" />
+	<opcode name="lovel" value="32" />
+	<opcode name="hivel" value="63" />
+	<opcode name="seq_length" value="8" />
+	<opcode name="seq_position" value="7" />
+	<opcode name="amp_velcurve_63" value="1" />
+</region>
+<region>
+	<opcode name="sample" value="../Samples/perc/room/tumba/Tumba_24_HitN_41_70_rr8_Far.ogg" />
+	<opcode name="lovel" value="32" />
+	<opcode name="hivel" value="63" />
+	<opcode name="seq_length" value="8" />
+	<opcode name="seq_position" value="8" />
+	<opcode name="amp_velcurve_63" value="1" />
+</region>
+<region>
+	<opcode name="sample" value="../Samples/perc/room/tumba/Tumba_24_HitN_71_100_rr1_Far.ogg" />
+	<opcode name="lovel" value="64" />
+	<opcode name="hivel" value="95" />
+	<opcode name="seq_length" value="8" />
+	<opcode name="amp_velcurve_95" value="1" />
+</region>
+<region>
+	<opcode name="sample" value="../Samples/perc/room/tumba/Tumba_24_HitN_71_100_rr2_Far.ogg" />
+	<opcode name="lovel" value="64" />
+	<opcode name="hivel" value="95" />
+	<opcode name="seq_length" value="8" />
+	<opcode name="seq_position" value="2" />
+	<opcode name="amp_velcurve_95" value="1" />
+</region>
+<region>
+	<opcode name="sample" value="../Samples/perc/room/tumba/Tumba_24_HitN_71_100_rr3_Far.ogg" />
+	<opcode name="lovel" value="64" />
+	<opcode name="hivel" value="95" />
+	<opcode name="seq_length" value="8" />
+	<opcode name="seq_position" value="3" />
+	<opcode name="amp_velcurve_95" value="1" />
+</region>
+<region>
+	<opcode name="sample" value="../Samples/perc/room/tumba/Tumba_24_HitN_71_100_rr4_Far.ogg" />
+	<opcode name="lovel" value="64" />
+	<opcode name="hivel" value="95" />
+	<opcode name="seq_length" value="8" />
+	<opcode name="seq_position" value="4" />
+	<opcode name="amp_velcurve_95" value="1" />
+</region>
+<region>
+	<opcode name="sample" value="../Samples/perc/room/tumba/Tumba_24_HitN_71_100_rr5_Far.ogg" />
+	<opcode name="lovel" value="64" />
+	<opcode name="hivel" value="95" />
+	<opcode name="seq_length" value="8" />
+	<opcode name="seq_position" value="5" />
+	<opcode name="amp_velcurve_95" value="1" />
+</region>
+<region>
+	<opcode name="sample" value="../Samples/perc/room/tumba/Tumba_24_HitN_71_100_rr6_Far.ogg" />
+	<opcode name="lovel" value="64" />
+	<opcode name="hivel" value="95" />
+	<opcode name="seq_length" value="8" />
+	<opcode name="seq_position" value="6" />
+	<opcode name="amp_velcurve_95" value="1" />
+</region>
+<region>
+	<opcode name="sample" value="../Samples/perc/room/tumba/Tumba_24_HitN_71_100_rr7_Far.ogg" />
+	<opcode name="lovel" value="64" />
+	<opcode name="hivel" value="95" />
+	<opcode name="seq_length" value="8" />
+	<opcode name="seq_position" value="7" />
+	<opcode name="amp_velcurve_95" value="1" />
+</region>
+<region>
+	<opcode name="sample" value="../Samples/perc/room/tumba/Tumba_24_HitN_71_100_rr8_Far.ogg" />
+	<opcode name="lovel" value="64" />
+	<opcode name="hivel" value="95" />
+	<opcode name="seq_length" value="8" />
+	<opcode name="seq_position" value="8" />
+	<opcode name="amp_velcurve_95" value="1" />
+</region>
+<master>
+	<opcode name="ampeg_release" value="0.6" />
+	<opcode name="amp_veltrack" value="100" />
+	<opcode name="amp_velcurve_1" value="0.4" />
+	<opcode name="key" value="67" />
+</master>
+<region>
+	<opcode name="sample" value="../Samples/perc/room/agogo/Agogo_High_v1_rr1_Far.ogg" />
+	<opcode name="hivel" value="42" />
+	<opcode name="seq_length" value="8" />
+	<opcode name="amp_velcurve_42" value="1" />
+</region>
+<region>
+	<opcode name="sample" value="../Samples/perc/room/agogo/Agogo_High_v1_rr2_Far.ogg" />
+	<opcode name="hivel" value="42" />
+	<opcode name="seq_length" value="8" />
+	<opcode name="seq_position" value="2" />
+	<opcode name="amp_velcurve_42" value="1" />
+</region>
+<region>
+	<opcode name="sample" value="../Samples/perc/room/agogo/Agogo_High_v1_rr3_Far.ogg" />
+	<opcode name="hivel" value="42" />
+	<opcode name="seq_length" value="8" />
+	<opcode name="seq_position" value="3" />
+	<opcode name="amp_velcurve_42" value="1" />
+</region>
+<region>
+	<opcode name="sample" value="../Samples/perc/room/agogo/Agogo_High_v1_rr4_Far.ogg" />
+	<opcode name="hivel" value="42" />
+	<opcode name="seq_length" value="8" />
+	<opcode name="seq_position" value="4" />
+	<opcode name="amp_velcurve_42" value="1" />
+</region>
+<region>
+	<opcode name="sample" value="../Samples/perc/room/agogo/Agogo_High_v1_rr5_Far.ogg" />
+	<opcode name="hivel" value="42" />
+	<opcode name="seq_length" value="8" />
+	<opcode name="seq_position" value="5" />
+	<opcode name="amp_velcurve_42" value="1" />
+</region>
+<region>
+	<opcode name="sample" value="../Samples/perc/room/agogo/Agogo_High_v1_rr6_Far.ogg" />
+	<opcode name="hivel" value="42" />
+	<opcode name="seq_length" value="8" />
+	<opcode name="seq_position" value="6" />
+	<opcode name="amp_velcurve_42" value="1" />
+</region>
+<region>
+	<opcode name="sample" value="../Samples/perc/room/agogo/Agogo_High_v1_rr7_Far.ogg" />
+	<opcode name="hivel" value="42" />
+	<opcode name="seq_length" value="8" />
+	<opcode name="seq_position" value="7" />
+	<opcode name="amp_velcurve_42" value="1" />
+</region>
+<region>
+	<opcode name="sample" value="../Samples/perc/room/agogo/Agogo_High_v1_rr8_Far.ogg" />
+	<opcode name="hivel" value="42" />
+	<opcode name="seq_length" value="8" />
+	<opcode name="seq_position" value="8" />
+	<opcode name="amp_velcurve_42" value="1" />
+</region>
+<region>
+	<opcode name="sample" value="../Samples/perc/room/agogo/Agogo_High_v2_rr1_Far.ogg" />
+	<opcode name="lovel" value="43" />
+	<opcode name="hivel" value="84" />
+	<opcode name="seq_length" value="8" />
+	<opcode name="amp_velcurve_84" value="1" />
+</region>
+<region>
+	<opcode name="sample" value="../Samples/perc/room/agogo/Agogo_High_v2_rr2_Far.ogg" />
+	<opcode name="lovel" value="43" />
+	<opcode name="hivel" value="84" />
+	<opcode name="seq_length" value="8" />
+	<opcode name="seq_position" value="2" />
+	<opcode name="amp_velcurve_84" value="1" />
+</region>
+<region>
+	<opcode name="sample" value="../Samples/perc/room/agogo/Agogo_High_v2_rr3_Far.ogg" />
+	<opcode name="lovel" value="43" />
+	<opcode name="hivel" value="84" />
+	<opcode name="seq_length" value="8" />
+	<opcode name="seq_position" value="3" />
+	<opcode name="amp_velcurve_84" value="1" />
+</region>
+<region>
+	<opcode name="sample" value="../Samples/perc/room/agogo/Agogo_High_v2_rr4_Far.ogg" />
+	<opcode name="lovel" value="43" />
+	<opcode name="hivel" value="84" />
+	<opcode name="seq_length" value="8" />
+	<opcode name="seq_position" value="4" />
+	<opcode name="amp_velcurve_84" value="1" />
+</region>
+<region>
+	<opcode name="sample" value="../Samples/perc/room/agogo/Agogo_High_v2_rr5_Far.ogg" />
+	<opcode name="lovel" value="43" />
+	<opcode name="hivel" value="84" />
+	<opcode name="seq_length" value="8" />
+	<opcode name="seq_position" value="5" />
+	<opcode name="amp_velcurve_84" value="1" />
+</region>
+<region>
+	<opcode name="sample" value="../Samples/perc/room/agogo/Agogo_High_v2_rr6_Far.ogg" />
+	<opcode name="lovel" value="43" />
+	<opcode name="hivel" value="84" />
+	<opcode name="seq_length" value="8" />
+	<opcode name="seq_position" value="6" />
+	<opcode name="amp_velcurve_84" value="1" />
+</region>
+<region>
+	<opcode name="sample" value="../Samples/perc/room/agogo/Agogo_High_v2_rr7_Far.ogg" />
+	<opcode name="lovel" value="43" />
+	<opcode name="hivel" value="84" />
+	<opcode name="seq_length" value="8" />
+	<opcode name="seq_position" value="7" />
+	<opcode name="amp_velcurve_84" value="1" />
+</region>
+<region>
+	<opcode name="sample" value="../Samples/perc/room/agogo/Agogo_High_v2_rr8_Far.ogg" />
+	<opcode name="lovel" value="43" />
+	<opcode name="hivel" value="84" />
+	<opcode name="seq_length" value="8" />
+	<opcode name="seq_position" value="8" />
+	<opcode name="amp_velcurve_84" value="1" />
+</region>
+<region>
+	<opcode name="sample" value="../Samples/perc/room/agogo/Agogo_High_v3_rr1_Far.ogg" />
+	<opcode name="lovel" value="85" />
+	<opcode name="seq_length" value="8" />
+</region>
+<region>
+	<opcode name="sample" value="../Samples/perc/room/agogo/Agogo_High_v3_rr2_Far.ogg" />
+	<opcode name="lovel" value="85" />
+	<opcode name="seq_length" value="8" />
+	<opcode name="seq_position" value="2" />
+</region>
+<region>
+	<opcode name="sample" value="../Samples/perc/room/agogo/Agogo_High_v3_rr3_Far.ogg" />
+	<opcode name="lovel" value="85" />
+	<opcode name="seq_length" value="8" />
+	<opcode name="seq_position" value="3" />
+</region>
+<region>
+	<opcode name="sample" value="../Samples/perc/room/agogo/Agogo_High_v3_rr4_Far.ogg" />
+	<opcode name="lovel" value="85" />
+	<opcode name="seq_length" value="8" />
+	<opcode name="seq_position" value="4" />
+</region>
+<region>
+	<opcode name="sample" value="../Samples/perc/room/agogo/Agogo_High_v3_rr5_Far.ogg" />
+	<opcode name="lovel" value="85" />
+	<opcode name="seq_length" value="8" />
+	<opcode name="seq_position" value="5" />
+</region>
+<region>
+	<opcode name="sample" value="../Samples/perc/room/agogo/Agogo_High_v3_rr6_Far.ogg" />
+	<opcode name="lovel" value="85" />
+	<opcode name="seq_length" value="8" />
+	<opcode name="seq_position" value="6" />
+</region>
+<region>
+	<opcode name="sample" value="../Samples/perc/room/agogo/Agogo_High_v3_rr7_Far.ogg" />
+	<opcode name="lovel" value="85" />
+	<opcode name="seq_length" value="8" />
+	<opcode name="seq_position" value="7" />
+</region>
+<region>
+	<opcode name="sample" value="../Samples/perc/room/agogo/Agogo_High_v3_rr8_Far.ogg" />
+	<opcode name="lovel" value="85" />
+	<opcode name="seq_length" value="8" />
+	<opcode name="seq_position" value="8" />
+</region>
+<master>
+	<opcode name="ampeg_release" value="0.6" />
+	<opcode name="amp_veltrack" value="100" />
+	<opcode name="amp_velcurve_1" value="0.4" />
+	<opcode name="key" value="68" />
+</master>
+<region>
+	<opcode name="sample" value="../Samples/perc/room/agogo/Agogo_Low_v1_rr1_Far.ogg" />
+	<opcode name="hivel" value="63" />
+	<opcode name="amp_velcurve_63" value="1" />
+	<opcode name="seq_length" value="8" />
+</region>
+<region>
+	<opcode name="sample" value="../Samples/perc/room/agogo/Agogo_Low_v1_rr2_Far.ogg" />
+	<opcode name="hivel" value="63" />
+	<opcode name="amp_velcurve_63" value="1" />
+	<opcode name="seq_length" value="8" />
+	<opcode name="seq_position" value="2" />
+</region>
+<region>
+	<opcode name="sample" value="../Samples/perc/room/agogo/Agogo_Low_v1_rr3_Far.ogg" />
+	<opcode name="hivel" value="63" />
+	<opcode name="amp_velcurve_63" value="1" />
+	<opcode name="seq_length" value="8" />
+	<opcode name="seq_position" value="3" />
+</region>
+<region>
+	<opcode name="sample" value="../Samples/perc/room/agogo/Agogo_Low_v1_rr4_Far.ogg" />
+	<opcode name="hivel" value="63" />
+	<opcode name="amp_velcurve_63" value="1" />
+	<opcode name="seq_length" value="8" />
+	<opcode name="seq_position" value="4" />
+</region>
+<region>
+	<opcode name="sample" value="../Samples/perc/room/agogo/Agogo_Low_v1_rr5_Far.ogg" />
+	<opcode name="hivel" value="63" />
+	<opcode name="amp_velcurve_63" value="1" />
+	<opcode name="seq_length" value="8" />
+	<opcode name="seq_position" value="5" />
+</region>
+<region>
+	<opcode name="sample" value="../Samples/perc/room/agogo/Agogo_Low_v1_rr6_Far.ogg" />
+	<opcode name="hivel" value="63" />
+	<opcode name="amp_velcurve_63" value="1" />
+	<opcode name="seq_length" value="8" />
+	<opcode name="seq_position" value="6" />
+</region>
+<region>
+	<opcode name="sample" value="../Samples/perc/room/agogo/Agogo_Low_v1_rr7_Far.ogg" />
+	<opcode name="hivel" value="63" />
+	<opcode name="amp_velcurve_63" value="1" />
+	<opcode name="seq_length" value="8" />
+	<opcode name="seq_position" value="7" />
+</region>
+<region>
+	<opcode name="sample" value="../Samples/perc/room/agogo/Agogo_Low_v1_rr8_Far.ogg" />
+	<opcode name="hivel" value="63" />
+	<opcode name="amp_velcurve_63" value="1" />
+	<opcode name="seq_length" value="8" />
+	<opcode name="seq_position" value="8" />
+</region>
+<region>
+	<opcode name="sample" value="../Samples/perc/room/agogo/Agogo_Low_v2_rr1_Far.ogg" />
+	<opcode name="lovel" value="64" />
+	<opcode name="seq_length" value="8" />
+</region>
+<region>
+	<opcode name="sample" value="../Samples/perc/room/agogo/Agogo_Low_v2_rr2_Far.ogg" />
+	<opcode name="lovel" value="64" />
+	<opcode name="seq_length" value="8" />
+	<opcode name="seq_position" value="2" />
+</region>
+<region>
+	<opcode name="sample" value="../Samples/perc/room/agogo/Agogo_Low_v2_rr3_Far.ogg" />
+	<opcode name="lovel" value="64" />
+	<opcode name="seq_length" value="8" />
+	<opcode name="seq_position" value="3" />
+</region>
+<region>
+	<opcode name="sample" value="../Samples/perc/room/agogo/Agogo_Low_v2_rr4_Far.ogg" />
+	<opcode name="lovel" value="64" />
+	<opcode name="seq_length" value="8" />
+	<opcode name="seq_position" value="4" />
+</region>
+<region>
+	<opcode name="sample" value="../Samples/perc/room/agogo/Agogo_Low_v2_rr5_Far.ogg" />
+	<opcode name="lovel" value="64" />
+	<opcode name="seq_length" value="8" />
+	<opcode name="seq_position" value="5" />
+</region>
+<region>
+	<opcode name="sample" value="../Samples/perc/room/agogo/Agogo_Low_v2_rr6_Far.ogg" />
+	<opcode name="lovel" value="64" />
+	<opcode name="seq_length" value="8" />
+	<opcode name="seq_position" value="6" />
+</region>
+<region>
+	<opcode name="sample" value="../Samples/perc/room/agogo/Agogo_Low_v2_rr7_Far.ogg" />
+	<opcode name="lovel" value="64" />
+	<opcode name="seq_length" value="8" />
+	<opcode name="seq_position" value="7" />
+</region>
+<region>
+	<opcode name="sample" value="../Samples/perc/room/agogo/Agogo_Low_v2_rr8_Far.ogg" />
+	<opcode name="lovel" value="64" />
+	<opcode name="seq_length" value="8" />
+	<opcode name="seq_position" value="8" />
+</region>
+<master>
+	<opcode name="ampeg_release" value="1" />
+	<opcode name="amp_veltrack" value="100" />
+	<opcode name="amp_velcurve_1" value="0.4" />
+	<opcode name="key" value="69" />
+</master>
+<region>
+	<opcode name="sample" value="../Samples/perc/room/cabasa/Cabasa1_Rub_v1_rr1_Far.ogg" />
+	<opcode name="hivel" value="63" />
+	<opcode name="amp_velcurve_63" value="1" />
+	<opcode name="seq_length" value="8" />
+</region>
+<region>
+	<opcode name="sample" value="../Samples/perc/room/cabasa/Cabasa1_Rub_v1_rr2_Far.ogg" />
+	<opcode name="hivel" value="63" />
+	<opcode name="amp_velcurve_63" value="1" />
+	<opcode name="seq_length" value="8" />
+	<opcode name="seq_position" value="2" />
+</region>
+<region>
+	<opcode name="sample" value="../Samples/perc/room/cabasa/Cabasa1_Rub_v1_rr3_Far.ogg" />
+	<opcode name="hivel" value="63" />
+	<opcode name="amp_velcurve_63" value="1" />
+	<opcode name="seq_length" value="8" />
+	<opcode name="seq_position" value="3" />
+</region>
+<region>
+	<opcode name="sample" value="../Samples/perc/room/cabasa/Cabasa1_Rub_v1_rr4_Far.ogg" />
+	<opcode name="hivel" value="63" />
+	<opcode name="amp_velcurve_63" value="1" />
+	<opcode name="seq_length" value="8" />
+	<opcode name="seq_position" value="4" />
+</region>
+<region>
+	<opcode name="sample" value="../Samples/perc/room/cabasa/Cabasa1_Rub_v1_rr5_Far.ogg" />
+	<opcode name="hivel" value="63" />
+	<opcode name="amp_velcurve_63" value="1" />
+	<opcode name="seq_length" value="8" />
+	<opcode name="seq_position" value="5" />
+</region>
+<region>
+	<opcode name="sample" value="../Samples/perc/room/cabasa/Cabasa1_Rub_v1_rr6_Far.ogg" />
+	<opcode name="hivel" value="63" />
+	<opcode name="amp_velcurve_63" value="1" />
+	<opcode name="seq_length" value="8" />
+	<opcode name="seq_position" value="6" />
+</region>
+<region>
+	<opcode name="sample" value="../Samples/perc/room/cabasa/Cabasa1_Rub_v1_rr7_Far.ogg" />
+	<opcode name="hivel" value="63" />
+	<opcode name="amp_velcurve_63" value="1" />
+	<opcode name="seq_length" value="8" />
+	<opcode name="seq_position" value="7" />
+</region>
+<region>
+	<opcode name="sample" value="../Samples/perc/room/cabasa/Cabasa1_Rub_v1_rr8_Far.ogg" />
+	<opcode name="hivel" value="63" />
+	<opcode name="amp_velcurve_63" value="1" />
+	<opcode name="seq_length" value="8" />
+	<opcode name="seq_position" value="8" />
+</region>
+<region>
+	<opcode name="sample" value="../Samples/perc/room/cabasa/Cabasa1_Rub_v2_rr1_Far.ogg" />
+	<opcode name="lovel" value="64" />
+	<opcode name="seq_length" value="8" />
+</region>
+<region>
+	<opcode name="sample" value="../Samples/perc/room/cabasa/Cabasa1_Rub_v2_rr2_Far.ogg" />
+	<opcode name="lovel" value="64" />
+	<opcode name="seq_length" value="8" />
+	<opcode name="seq_position" value="2" />
+</region>
+<region>
+	<opcode name="sample" value="../Samples/perc/room/cabasa/Cabasa1_Rub_v2_rr3_Far.ogg" />
+	<opcode name="lovel" value="64" />
+	<opcode name="seq_length" value="8" />
+	<opcode name="seq_position" value="3" />
+</region>
+<region>
+	<opcode name="sample" value="../Samples/perc/room/cabasa/Cabasa1_Rub_v2_rr4_Far.ogg" />
+	<opcode name="lovel" value="64" />
+	<opcode name="seq_length" value="8" />
+	<opcode name="seq_position" value="4" />
+</region>
+<region>
+	<opcode name="sample" value="../Samples/perc/room/cabasa/Cabasa1_Rub_v2_rr5_Far.ogg" />
+	<opcode name="lovel" value="64" />
+	<opcode name="seq_length" value="8" />
+	<opcode name="seq_position" value="5" />
+</region>
+<region>
+	<opcode name="sample" value="../Samples/perc/room/cabasa/Cabasa1_Rub_v2_rr6_Far.ogg" />
+	<opcode name="lovel" value="64" />
+	<opcode name="seq_length" value="8" />
+	<opcode name="seq_position" value="6" />
+</region>
+<region>
+	<opcode name="sample" value="../Samples/perc/room/cabasa/Cabasa1_Rub_v2_rr7_Far.ogg" />
+	<opcode name="lovel" value="64" />
+	<opcode name="seq_length" value="8" />
+	<opcode name="seq_position" value="7" />
+</region>
+<region>
+	<opcode name="sample" value="../Samples/perc/room/cabasa/Cabasa1_Rub_v2_rr8_Far.ogg" />
+	<opcode name="lovel" value="64" />
+	<opcode name="seq_length" value="8" />
+	<opcode name="seq_position" value="8" />
+</region>
+<master>
+	<opcode name="ampeg_release" value="0.6" />
+	<opcode name="amp_veltrack" value="100" />
+	<opcode name="amp_velcurve_1" value="0.4" />
+	<opcode name="key" value="70" />
+</master>
+<region>
+	<opcode name="sample" value="../Samples/perc/room/shaker/LShaker_Shake1U_rr1_Far.ogg" />
+	<opcode name="seq_length" value="7" />
+</region>
+<region>
+	<opcode name="sample" value="../Samples/perc/room/shaker/LShaker_Shake1U_rr2_Far.ogg" />
+	<opcode name="seq_length" value="7" />
+	<opcode name="seq_position" value="2" />
+</region>
+<region>
+	<opcode name="sample" value="../Samples/perc/room/shaker/LShaker_Shake1U_rr3_Far.ogg" />
+	<opcode name="seq_length" value="7" />
+	<opcode name="seq_position" value="3" />
+</region>
+<region>
+	<opcode name="sample" value="../Samples/perc/room/shaker/LShaker_Shake1U_rr4_Far.ogg" />
+	<opcode name="seq_length" value="7" />
+	<opcode name="seq_position" value="4" />
+</region>
+<region>
+	<opcode name="sample" value="../Samples/perc/room/shaker/LShaker_Shake1U_rr5_Far.ogg" />
+	<opcode name="seq_length" value="7" />
+	<opcode name="seq_position" value="5" />
+</region>
+<region>
+	<opcode name="sample" value="../Samples/perc/room/shaker/LShaker_Shake1U_rr6_Far.ogg" />
+	<opcode name="seq_length" value="7" />
+	<opcode name="seq_position" value="6" />
+</region>
+<region>
+	<opcode name="sample" value="../Samples/perc/room/shaker/LShaker_Shake1U_rr7_Far.ogg" />
+	<opcode name="seq_length" value="7" />
+	<opcode name="seq_position" value="7" />
+</region>
+<master>
+	<opcode name="ampeg_release" value="0.6" />
+	<opcode name="amp_veltrack" value="100" />
+	<opcode name="amp_velcurve_1" value="0.4" />
+	<opcode name="key" value="73" />
+	<opcode name="volume" value="6" />
+</master>
+<region>
+	<opcode name="sample" value="../Samples/perc/room/guiro/Guiro_Med_rr1_Far.ogg" />
+	<opcode name="seq_length" value="8" />
+</region>
+<region>
+	<opcode name="sample" value="../Samples/perc/room/guiro/Guiro_Med_rr2_Far.ogg" />
+	<opcode name="seq_length" value="8" />
+	<opcode name="seq_position" value="2" />
+</region>
+<region>
+	<opcode name="sample" value="../Samples/perc/room/guiro/Guiro_Med_rr3_Far.ogg" />
+	<opcode name="seq_length" value="8" />
+	<opcode name="seq_position" value="3" />
+</region>
+<region>
+	<opcode name="sample" value="../Samples/perc/room/guiro/Guiro_Med_rr4_Far.ogg" />
+	<opcode name="seq_length" value="8" />
+	<opcode name="seq_position" value="4" />
+</region>
+<region>
+	<opcode name="sample" value="../Samples/perc/room/guiro/Guiro_Med_rr5_Far.ogg" />
+	<opcode name="seq_length" value="8" />
+	<opcode name="seq_position" value="5" />
+</region>
+<region>
+	<opcode name="sample" value="../Samples/perc/room/guiro/Guiro_Med_rr6_Far.ogg" />
+	<opcode name="seq_length" value="8" />
+	<opcode name="seq_position" value="6" />
+</region>
+<region>
+	<opcode name="sample" value="../Samples/perc/room/guiro/Guiro_Med_rr7_Far.ogg" />
+	<opcode name="seq_length" value="8" />
+	<opcode name="seq_position" value="7" />
+</region>
+<region>
+	<opcode name="sample" value="../Samples/perc/room/guiro/Guiro_Med_rr8_Far.ogg" />
+	<opcode name="seq_length" value="8" />
+	<opcode name="seq_position" value="8" />
+</region>
+<master>
+	<opcode name="ampeg_release" value="0.6" />
+	<opcode name="amp_veltrack" value="100" />
+	<opcode name="amp_velcurve_1" value="0.4" />
+	<opcode name="key" value="74" />
+	<opcode name="volume" value="6" />
+</master>
+<region>
+	<opcode name="sample" value="../Samples/perc/room/guiro/Guiro_Fast_rr1_Far.ogg" />
+	<opcode name="seq_length" value="8" />
+</region>
+<region>
+	<opcode name="sample" value="../Samples/perc/room/guiro/Guiro_Fast_rr2_Far.ogg" />
+	<opcode name="seq_length" value="8" />
+	<opcode name="seq_position" value="2" />
+</region>
+<region>
+	<opcode name="sample" value="../Samples/perc/room/guiro/Guiro_Fast_rr3_Far.ogg" />
+	<opcode name="seq_length" value="8" />
+	<opcode name="seq_position" value="3" />
+</region>
+<region>
+	<opcode name="sample" value="../Samples/perc/room/guiro/Guiro_Fast_rr4_Far.ogg" />
+	<opcode name="seq_length" value="8" />
+	<opcode name="seq_position" value="4" />
+</region>
+<region>
+	<opcode name="sample" value="../Samples/perc/room/guiro/Guiro_Fast_rr5_Far.ogg" />
+	<opcode name="seq_length" value="8" />
+	<opcode name="seq_position" value="5" />
+</region>
+<region>
+	<opcode name="sample" value="../Samples/perc/room/guiro/Guiro_Fast_rr6_Far.ogg" />
+	<opcode name="seq_length" value="8" />
+	<opcode name="seq_position" value="6" />
+</region>
+<region>
+	<opcode name="sample" value="../Samples/perc/room/guiro/Guiro_Fast_rr7_Far.ogg" />
+	<opcode name="seq_length" value="8" />
+	<opcode name="seq_position" value="7" />
+</region>
+<region>
+	<opcode name="sample" value="../Samples/perc/room/guiro/Guiro_Fast_rr8_Far.ogg" />
+	<opcode name="seq_length" value="8" />
+	<opcode name="seq_position" value="8" />
+</region>
+<master>
+	<opcode name="ampeg_release" value="0.4" />
+	<opcode name="amp_veltrack" value="100" />
+	<opcode name="amp_velcurve_1" value="0.4" />
+	<opcode name="key" value="75" />
+</master>
+<region>
+	<opcode name="sample" value="../Samples/perc/room/claves/Claves1_Hit_v1_rr1_Far.ogg" />
+	<opcode name="hivel" value="42" />
+	<opcode name="seq_length" value="8" />
+	<opcode name="amp_velcurve_42" value="1" />
+</region>
+<region>
+	<opcode name="sample" value="../Samples/perc/room/claves/Claves1_Hit_v1_rr2_Far.ogg" />
+	<opcode name="hivel" value="42" />
+	<opcode name="seq_length" value="8" />
+	<opcode name="seq_position" value="2" />
+	<opcode name="amp_velcurve_42" value="1" />
+</region>
+<region>
+	<opcode name="sample" value="../Samples/perc/room/claves/Claves1_Hit_v1_rr3_Far.ogg" />
+	<opcode name="hivel" value="42" />
+	<opcode name="seq_length" value="8" />
+	<opcode name="seq_position" value="3" />
+	<opcode name="amp_velcurve_42" value="1" />
+</region>
+<region>
+	<opcode name="sample" value="../Samples/perc/room/claves/Claves1_Hit_v1_rr4_Far.ogg" />
+	<opcode name="hivel" value="42" />
+	<opcode name="seq_length" value="8" />
+	<opcode name="seq_position" value="4" />
+	<opcode name="amp_velcurve_42" value="1" />
+</region>
+<region>
+	<opcode name="sample" value="../Samples/perc/room/claves/Claves1_Hit_v1_rr5_Far.ogg" />
+	<opcode name="hivel" value="42" />
+	<opcode name="seq_length" value="8" />
+	<opcode name="seq_position" value="5" />
+	<opcode name="amp_velcurve_42" value="1" />
+</region>
+<region>
+	<opcode name="sample" value="../Samples/perc/room/claves/Claves1_Hit_v1_rr6_Far.ogg" />
+	<opcode name="hivel" value="42" />
+	<opcode name="seq_length" value="8" />
+	<opcode name="seq_position" value="6" />
+	<opcode name="amp_velcurve_42" value="1" />
+</region>
+<region>
+	<opcode name="sample" value="../Samples/perc/room/claves/Claves1_Hit_v1_rr7_Far.ogg" />
+	<opcode name="hivel" value="42" />
+	<opcode name="seq_length" value="8" />
+	<opcode name="seq_position" value="7" />
+	<opcode name="amp_velcurve_42" value="1" />
+</region>
+<region>
+	<opcode name="sample" value="../Samples/perc/room/claves/Claves1_Hit_v1_rr8_Far.ogg" />
+	<opcode name="hivel" value="42" />
+	<opcode name="seq_length" value="8" />
+	<opcode name="seq_position" value="8" />
+	<opcode name="amp_velcurve_42" value="1" />
+</region>
+<region>
+	<opcode name="sample" value="../Samples/perc/room/claves/Claves1_Hit_v2_rr1_Far.ogg" />
+	<opcode name="lovel" value="43" />
+	<opcode name="hivel" value="84" />
+	<opcode name="seq_length" value="8" />
+	<opcode name="amp_velcurve_84" value="1" />
+</region>
+<region>
+	<opcode name="sample" value="../Samples/perc/room/claves/Claves1_Hit_v2_rr2_Far.ogg" />
+	<opcode name="lovel" value="43" />
+	<opcode name="hivel" value="84" />
+	<opcode name="seq_length" value="8" />
+	<opcode name="seq_position" value="2" />
+	<opcode name="amp_velcurve_84" value="1" />
+</region>
+<region>
+	<opcode name="sample" value="../Samples/perc/room/claves/Claves1_Hit_v2_rr3_Far.ogg" />
+	<opcode name="lovel" value="43" />
+	<opcode name="hivel" value="84" />
+	<opcode name="seq_length" value="8" />
+	<opcode name="seq_position" value="3" />
+	<opcode name="amp_velcurve_84" value="1" />
+</region>
+<region>
+	<opcode name="sample" value="../Samples/perc/room/claves/Claves1_Hit_v2_rr4_Far.ogg" />
+	<opcode name="lovel" value="43" />
+	<opcode name="hivel" value="84" />
+	<opcode name="seq_length" value="8" />
+	<opcode name="seq_position" value="4" />
+	<opcode name="amp_velcurve_84" value="1" />
+</region>
+<region>
+	<opcode name="sample" value="../Samples/perc/room/claves/Claves1_Hit_v2_rr5_Far.ogg" />
+	<opcode name="lovel" value="43" />
+	<opcode name="hivel" value="84" />
+	<opcode name="seq_length" value="8" />
+	<opcode name="seq_position" value="5" />
+	<opcode name="amp_velcurve_84" value="1" />
+</region>
+<region>
+	<opcode name="sample" value="../Samples/perc/room/claves/Claves1_Hit_v2_rr6_Far.ogg" />
+	<opcode name="lovel" value="43" />
+	<opcode name="hivel" value="84" />
+	<opcode name="seq_length" value="8" />
+	<opcode name="seq_position" value="6" />
+	<opcode name="amp_velcurve_84" value="1" />
+</region>
+<region>
+	<opcode name="sample" value="../Samples/perc/room/claves/Claves1_Hit_v2_rr7_Far.ogg" />
+	<opcode name="lovel" value="43" />
+	<opcode name="hivel" value="84" />
+	<opcode name="seq_length" value="8" />
+	<opcode name="seq_position" value="7" />
+	<opcode name="amp_velcurve_84" value="1" />
+</region>
+<region>
+	<opcode name="sample" value="../Samples/perc/room/claves/Claves1_Hit_v2_rr8_Far.ogg" />
+	<opcode name="lovel" value="43" />
+	<opcode name="hivel" value="84" />
+	<opcode name="seq_length" value="8" />
+	<opcode name="seq_position" value="8" />
+	<opcode name="amp_velcurve_84" value="1" />
+</region>
+<region>
+	<opcode name="sample" value="../Samples/perc/room/claves/Claves1_Hit_v3_rr1_Far.ogg" />
+	<opcode name="lovel" value="85" />
+	<opcode name="seq_length" value="8" />
+</region>
+<region>
+	<opcode name="sample" value="../Samples/perc/room/claves/Claves1_Hit_v3_rr2_Far.ogg" />
+	<opcode name="lovel" value="85" />
+	<opcode name="seq_length" value="8" />
+	<opcode name="seq_position" value="2" />
+</region>
+<region>
+	<opcode name="sample" value="../Samples/perc/room/claves/Claves1_Hit_v3_rr3_Far.ogg" />
+	<opcode name="lovel" value="85" />
+	<opcode name="seq_length" value="8" />
+	<opcode name="seq_position" value="3" />
+</region>
+<region>
+	<opcode name="sample" value="../Samples/perc/room/claves/Claves1_Hit_v3_rr4_Far.ogg" />
+	<opcode name="lovel" value="85" />
+	<opcode name="seq_length" value="8" />
+	<opcode name="seq_position" value="4" />
+</region>
+<region>
+	<opcode name="sample" value="../Samples/perc/room/claves/Claves1_Hit_v3_rr5_Far.ogg" />
+	<opcode name="lovel" value="85" />
+	<opcode name="seq_length" value="8" />
+	<opcode name="seq_position" value="5" />
+</region>
+<region>
+	<opcode name="sample" value="../Samples/perc/room/claves/Claves1_Hit_v3_rr6_Far.ogg" />
+	<opcode name="lovel" value="85" />
+	<opcode name="seq_length" value="8" />
+	<opcode name="seq_position" value="6" />
+</region>
+<region>
+	<opcode name="sample" value="../Samples/perc/room/claves/Claves1_Hit_v3_rr7_Far.ogg" />
+	<opcode name="lovel" value="85" />
+	<opcode name="seq_length" value="8" />
+	<opcode name="seq_position" value="7" />
+</region>
+<region>
+	<opcode name="sample" value="../Samples/perc/room/claves/Claves1_Hit_v3_rr8_Far.ogg" />
+	<opcode name="lovel" value="85" />
+	<opcode name="seq_length" value="8" />
+	<opcode name="seq_position" value="8" />
+</region>
+<master>
+	<opcode name="group" value="371" />
+	<opcode name="ampeg_release" value="0.4" />
+	<opcode name="amp_veltrack" value="100" />
+	<opcode name="amp_velcurve_1" value="0.4" />
+	<opcode name="key" value="80" />
+</master>
+<region>
+	<opcode name="sample" value="../Samples/perc/room/triangle/Triangle1_HitM_v1_rr1_Far.ogg" />
+	<opcode name="seq_length" value="8" />
+</region>
+<region>
+	<opcode name="sample" value="../Samples/perc/room/triangle/Triangle1_HitM_v1_rr2_Far.ogg" />
+	<opcode name="seq_length" value="8" />
+	<opcode name="seq_position" value="2" />
+</region>
+<region>
+	<opcode name="sample" value="../Samples/perc/room/triangle/Triangle1_HitM_v1_rr3_Far.ogg" />
+	<opcode name="seq_length" value="8" />
+	<opcode name="seq_position" value="3" />
+</region>
+<region>
+	<opcode name="sample" value="../Samples/perc/room/triangle/Triangle1_HitM_v1_rr4_Far.ogg" />
+	<opcode name="seq_length" value="8" />
+	<opcode name="seq_position" value="4" />
+</region>
+<region>
+	<opcode name="sample" value="../Samples/perc/room/triangle/Triangle1_HitM_v1_rr5_Far.ogg" />
+	<opcode name="seq_length" value="8" />
+	<opcode name="seq_position" value="5" />
+</region>
+<region>
+	<opcode name="sample" value="../Samples/perc/room/triangle/Triangle1_HitM_v1_rr6_Far.ogg" />
+	<opcode name="seq_length" value="8" />
+	<opcode name="seq_position" value="6" />
+</region>
+<region>
+	<opcode name="sample" value="../Samples/perc/room/triangle/Triangle1_HitM_v1_rr7_Far.ogg" />
+	<opcode name="seq_length" value="8" />
+	<opcode name="seq_position" value="7" />
+</region>
+<region>
+	<opcode name="sample" value="../Samples/perc/room/triangle/Triangle1_HitM_v1_rr8_Far.ogg" />
+	<opcode name="seq_length" value="8" />
+	<opcode name="seq_position" value="8" />
+</region>
+<master>
+	<opcode name="group" value="372" />
+	<opcode name="off_by" value="371" />
+	<opcode name="ampeg_release" value="0.6" />
+	<opcode name="amp_veltrack" value="100" />
+	<opcode name="amp_velcurve_1" value="0.4" />
+	<opcode name="key" value="81" />
+</master>
+<region>
+	<opcode name="sample" value="../Samples/perc/room/triangle/Triangle1_Hit_v1_rr1_Far.ogg" />
+	<opcode name="hivel" value="63" />
+	<opcode name="amp_velcurve_63" value="1" />
+	<opcode name="seq_length" value="8" />
+</region>
+<region>
+	<opcode name="sample" value="../Samples/perc/room/triangle/Triangle1_Hit_v1_rr2_Far.ogg" />
+	<opcode name="hivel" value="63" />
+	<opcode name="amp_velcurve_63" value="1" />
+	<opcode name="seq_length" value="8" />
+	<opcode name="seq_position" value="2" />
+</region>
+<region>
+	<opcode name="sample" value="../Samples/perc/room/triangle/Triangle1_Hit_v1_rr3_Far.ogg" />
+	<opcode name="hivel" value="63" />
+	<opcode name="amp_velcurve_63" value="1" />
+	<opcode name="seq_length" value="8" />
+	<opcode name="seq_position" value="3" />
+</region>
+<region>
+	<opcode name="sample" value="../Samples/perc/room/triangle/Triangle1_Hit_v1_rr4_Far.ogg" />
+	<opcode name="hivel" value="63" />
+	<opcode name="amp_velcurve_63" value="1" />
+	<opcode name="seq_length" value="8" />
+	<opcode name="seq_position" value="4" />
+</region>
+<region>
+	<opcode name="sample" value="../Samples/perc/room/triangle/Triangle1_Hit_v1_rr5_Far.ogg" />
+	<opcode name="hivel" value="63" />
+	<opcode name="amp_velcurve_63" value="1" />
+	<opcode name="seq_length" value="8" />
+	<opcode name="seq_position" value="5" />
+</region>
+<region>
+	<opcode name="sample" value="../Samples/perc/room/triangle/Triangle1_Hit_v1_rr6_Far.ogg" />
+	<opcode name="hivel" value="63" />
+	<opcode name="amp_velcurve_63" value="1" />
+	<opcode name="seq_length" value="8" />
+	<opcode name="seq_position" value="6" />
+</region>
+<region>
+	<opcode name="sample" value="../Samples/perc/room/triangle/Triangle1_Hit_v1_rr7_Far.ogg" />
+	<opcode name="hivel" value="63" />
+	<opcode name="amp_velcurve_63" value="1" />
+	<opcode name="seq_length" value="8" />
+	<opcode name="seq_position" value="7" />
+</region>
+<region>
+	<opcode name="sample" value="../Samples/perc/room/triangle/Triangle1_Hit_v1_rr8_Far.ogg" />
+	<opcode name="hivel" value="63" />
+	<opcode name="amp_velcurve_63" value="1" />
+	<opcode name="seq_length" value="8" />
+	<opcode name="seq_position" value="8" />
+</region>
+<region>
+	<opcode name="sample" value="../Samples/perc/room/triangle/Triangle1_Hit_v2_rr1_Far.ogg" />
+	<opcode name="lovel" value="64" />
+	<opcode name="seq_length" value="8" />
+</region>
+<region>
+	<opcode name="sample" value="../Samples/perc/room/triangle/Triangle1_Hit_v2_rr2_Far.ogg" />
+	<opcode name="lovel" value="64" />
+	<opcode name="seq_length" value="8" />
+	<opcode name="seq_position" value="2" />
+</region>
+<region>
+	<opcode name="sample" value="../Samples/perc/room/triangle/Triangle1_Hit_v2_rr3_Far.ogg" />
+	<opcode name="lovel" value="64" />
+	<opcode name="seq_length" value="8" />
+	<opcode name="seq_position" value="3" />
+</region>
+<region>
+	<opcode name="sample" value="../Samples/perc/room/triangle/Triangle1_Hit_v2_rr4_Far.ogg" />
+	<opcode name="lovel" value="64" />
+	<opcode name="seq_length" value="8" />
+	<opcode name="seq_position" value="4" />
+</region>
+<region>
+	<opcode name="sample" value="../Samples/perc/room/triangle/Triangle1_Hit_v2_rr5_Far.ogg" />
+	<opcode name="lovel" value="64" />
+	<opcode name="seq_length" value="8" />
+	<opcode name="seq_position" value="5" />
+</region>
+<region>
+	<opcode name="sample" value="../Samples/perc/room/triangle/Triangle1_Hit_v2_rr6_Far.ogg" />
+	<opcode name="lovel" value="64" />
+	<opcode name="seq_length" value="8" />
+	<opcode name="seq_position" value="6" />
+</region>
+<region>
+	<opcode name="sample" value="../Samples/perc/room/triangle/Triangle1_Hit_v2_rr7_Far.ogg" />
+	<opcode name="lovel" value="64" />
+	<opcode name="seq_length" value="8" />
+	<opcode name="seq_position" value="7" />
+</region>
+<region>
+	<opcode name="sample" value="../Samples/perc/room/triangle/Triangle1_Hit_v2_rr8_Far.ogg" />
+	<opcode name="lovel" value="64" />
+	<opcode name="seq_length" value="8" />
+	<opcode name="seq_position" value="8" />
+</region>
+<master>
+	<opcode name="ampeg_release" value="0.6" />
+	<opcode name="amp_veltrack" value="100" />
+	<opcode name="amp_velcurve_1" value="0.4" />
+	<opcode name="key" value="82" />
+</master>
+<region>
+	<opcode name="sample" value="../Samples/perc/room/shaker/LShaker_Shake1D_rr1_Far.ogg" />
+	<opcode name="seq_length" value="7" />
+</region>
+<region>
+	<opcode name="sample" value="../Samples/perc/room/shaker/LShaker_Shake1D_rr2_Far.ogg" />
+	<opcode name="seq_length" value="7" />
+	<opcode name="seq_position" value="2" />
+</region>
+<region>
+	<opcode name="sample" value="../Samples/perc/room/shaker/LShaker_Shake1D_rr3_Far.ogg" />
+	<opcode name="seq_length" value="7" />
+	<opcode name="seq_position" value="3" />
+</region>
+<region>
+	<opcode name="sample" value="../Samples/perc/room/shaker/LShaker_Shake1D_rr4_Far.ogg" />
+	<opcode name="seq_length" value="7" />
+	<opcode name="seq_position" value="4" />
+</region>
+<region>
+	<opcode name="sample" value="../Samples/perc/room/shaker/LShaker_Shake1D_rr5_Far.ogg" />
+	<opcode name="seq_length" value="7" />
+	<opcode name="seq_position" value="5" />
+</region>
+<region>
+	<opcode name="sample" value="../Samples/perc/room/shaker/LShaker_Shake1D_rr6_Far.ogg" />
+	<opcode name="seq_length" value="7" />
+	<opcode name="seq_position" value="6" />
+</region>
+<region>
+	<opcode name="sample" value="../Samples/perc/room/shaker/LShaker_Shake1D_rr7_Far.ogg" />
+	<opcode name="seq_length" value="7" />
+	<opcode name="seq_position" value="7" />
+</region>
+<master>
+	<opcode name="ampeg_release" value="1" />
+	<opcode name="amp_veltrack" value="100" />
+	<opcode name="amp_velcurve_1" value="0.4" />
+	<opcode name="key" value="83" />
+</master>
+<region>
+	<opcode name="sample" value="../Samples/perc/room/sleighbells/Sleighbells_Hit_rr1_Far.ogg" />
+	<opcode name="seq_length" value="8" />
+</region>
+<region>
+	<opcode name="sample" value="../Samples/perc/room/sleighbells/Sleighbells_Hit_rr2_Far.ogg" />
+	<opcode name="seq_length" value="8" />
+	<opcode name="seq_position" value="2" />
+</region>
+<region>
+	<opcode name="sample" value="../Samples/perc/room/sleighbells/Sleighbells_Hit_rr3_Far.ogg" />
+	<opcode name="seq_length" value="8" />
+	<opcode name="seq_position" value="3" />
+</region>
+<region>
+	<opcode name="sample" value="../Samples/perc/room/sleighbells/Sleighbells_Hit_rr4_Far.ogg" />
+	<opcode name="seq_length" value="8" />
+	<opcode name="seq_position" value="4" />
+</region>
+<region>
+	<opcode name="sample" value="../Samples/perc/room/sleighbells/Sleighbells_Hit_rr5_Far.ogg" />
+	<opcode name="seq_length" value="8" />
+	<opcode name="seq_position" value="5" />
+</region>
+<region>
+	<opcode name="sample" value="../Samples/perc/room/sleighbells/Sleighbells_Hit_rr6_Far.ogg" />
+	<opcode name="seq_length" value="8" />
+	<opcode name="seq_position" value="6" />
+</region>
+<region>
+	<opcode name="sample" value="../Samples/perc/room/sleighbells/Sleighbells_Hit_rr7_Far.ogg" />
+	<opcode name="seq_length" value="8" />
+	<opcode name="seq_position" value="7" />
+</region>
+<region>
+	<opcode name="sample" value="../Samples/perc/room/sleighbells/Sleighbells_Hit_rr8_Far.ogg" />
+	<opcode name="seq_length" value="8" />
+	<opcode name="seq_position" value="8" />
+</region>
+<master>
+	<opcode name="ampeg_release" value="1" />
+	<opcode name="amp_veltrack" value="100" />
+	<opcode name="amp_velcurve_1" value="0.4" />
+	<opcode name="key" value="84" />
+</master>
+<region>
+	<opcode name="sample" value="../Samples/perc/room/belltree/BellTree_Stroke_rr1_Far.ogg" />
+	<opcode name="seq_length" value="11" />
+</region>
+<region>
+	<opcode name="sample" value="../Samples/perc/room/belltree/BellTree_Stroke_rr10_Far.ogg" />
+	<opcode name="seq_length" value="11" />
+	<opcode name="seq_position" value="2" />
+</region>
+<region>
+	<opcode name="sample" value="../Samples/perc/room/belltree/BellTree_Stroke_rr11_Far.ogg" />
+	<opcode name="seq_length" value="11" />
+	<opcode name="seq_position" value="3" />
+</region>
+<region>
+	<opcode name="sample" value="../Samples/perc/room/belltree/BellTree_Stroke_rr2_Far.ogg" />
+	<opcode name="seq_length" value="11" />
+	<opcode name="seq_position" value="4" />
+</region>
+<region>
+	<opcode name="sample" value="../Samples/perc/room/belltree/BellTree_Stroke_rr3_Far.ogg" />
+	<opcode name="seq_length" value="11" />
+	<opcode name="seq_position" value="5" />
+</region>
+<region>
+	<opcode name="sample" value="../Samples/perc/room/belltree/BellTree_Stroke_rr4_Far.ogg" />
+	<opcode name="seq_length" value="11" />
+	<opcode name="seq_position" value="6" />
+</region>
+<region>
+	<opcode name="sample" value="../Samples/perc/room/belltree/BellTree_Stroke_rr5_Far.ogg" />
+	<opcode name="seq_length" value="11" />
+	<opcode name="seq_position" value="7" />
+</region>
+<region>
+	<opcode name="sample" value="../Samples/perc/room/belltree/BellTree_Stroke_rr6_Far.ogg" />
+	<opcode name="seq_length" value="11" />
+	<opcode name="seq_position" value="8" />
+</region>
+<region>
+	<opcode name="sample" value="../Samples/perc/room/belltree/BellTree_Stroke_rr7_Far.ogg" />
+	<opcode name="seq_length" value="11" />
+	<opcode name="seq_position" value="9" />
+</region>
+<region>
+	<opcode name="sample" value="../Samples/perc/room/belltree/BellTree_Stroke_rr8_Far.ogg" />
+	<opcode name="seq_length" value="11" />
+	<opcode name="seq_position" value="10" />
+</region>
+<region>
+	<opcode name="sample" value="../Samples/perc/room/belltree/BellTree_Stroke_rr9_Far.ogg" />
+	<opcode name="seq_length" value="11" />
+	<opcode name="seq_position" value="11" />
+</region>

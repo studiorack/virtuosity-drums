@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<region>
+	<opcode name="sample" value="../Samples/perc/close/whistle/Close_BallWhistle_Long-001.ogg" />
+	<opcode name="seq_length" value="2" />
+</region>
+<region>
+	<opcode name="sample" value="../Samples/perc/close/whistle/Close_BallWhistle_Long-002.ogg" />
+	<opcode name="seq_length" value="2" />
+	<opcode name="seq_position" value="2" />
+</region>

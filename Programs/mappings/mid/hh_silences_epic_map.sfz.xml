@@ -1,0 +1,108 @@
+<?xml version="1.0"?>
+<group>
+	<opcode name="sample" value="*silence" />
+	<opcode name="loop_mode" value="loop_continuous" />
+	<opcode name="off_mode" value="fast" />
+	<opcode name="ampeg_attack" value="0" />
+	<opcode name="ampeg_decay" value="0" />
+	<opcode name="ampeg_sustain" value="0" />
+	<opcode name="ampeg_release" value="0" />
+	<opcode name="group" value="186" />
+	<opcode name="off_by" value="186" />
+</group>
+<region>
+	<opcode name="key" value="94" />
+	<opcode name="locc4" value="0" />
+	<opcode name="hicc4" value="127" />
+</region>
+<region>
+	<opcode name="key" value="90" />
+	<opcode name="locc4" value="0" />
+	<opcode name="hicc4" value="127" />
+</region>
+<region>
+	<opcode name="key" value="42" />
+</region>
+<region>
+	<opcode name="key" value="44" />
+</region>
+<group>
+	<opcode name="sample" value="*silence" />
+	<opcode name="loop_mode" value="loop_continuous" />
+	<opcode name="off_mode" value="fast" />
+	<opcode name="ampeg_attack" value="0" />
+	<opcode name="ampeg_decay" value="0" />
+	<opcode name="ampeg_sustain" value="0" />
+	<opcode name="ampeg_release" value="0" />
+	<opcode name="group" value="184" />
+	<opcode name="off_by" value="183" />
+</group>
+<region>
+	<opcode name="key" value="94" />
+	<opcode name="locc4" value="0" />
+	<opcode name="hicc4" value="127" />
+</region>
+<region>
+	<opcode name="key" value="90" />
+	<opcode name="locc4" value="0" />
+	<opcode name="hicc4" value="127" />
+</region>
+<region>
+	<opcode name="key" value="42" />
+</region>
+<region>
+	<opcode name="key" value="44" />
+</region>
+<group>
+	<opcode name="sample" value="*silence" />
+	<opcode name="loop_mode" value="loop_continuous" />
+	<opcode name="off_mode" value="fast" />
+	<opcode name="ampeg_attack" value="0" />
+	<opcode name="ampeg_decay" value="0" />
+	<opcode name="ampeg_sustain" value="0" />
+	<opcode name="ampeg_release" value="0" />
+	<opcode name="group" value="183" />
+	<opcode name="off_by" value="182" />
+</group>
+<region>
+	<opcode name="key" value="90" />
+	<opcode name="locc4" value="0" />
+	<opcode name="hicc4" value="127" />
+</region>
+<region>
+	<opcode name="key" value="42" />
+</region>
+<region>
+	<opcode name="key" value="44" />
+</region>
+<group>
+	<opcode name="sample" value="*silence" />
+	<opcode name="loop_mode" value="loop_continuous" />
+	<opcode name="off_mode" value="fast" />
+	<opcode name="ampeg_attack" value="0" />
+	<opcode name="ampeg_decay" value="0" />
+	<opcode name="ampeg_sustain" value="0" />
+	<opcode name="ampeg_release" value="0" />
+	<opcode name="group" value="182" />
+	<opcode name="off_by" value="181" />
+</group>
+<region>
+	<opcode name="key" value="42" />
+</region>
+<region>
+	<opcode name="key" value="44" />
+</region>
+<group>
+	<opcode name="sample" value="*silence" />
+	<opcode name="loop_mode" value="loop_continuous" />
+	<opcode name="off_mode" value="fast" />
+	<opcode name="ampeg_attack" value="0" />
+	<opcode name="ampeg_decay" value="0" />
+	<opcode name="ampeg_sustain" value="0" />
+	<opcode name="ampeg_release" value="0" />
+	<opcode name="group" value="181" />
+	<opcode name="off_by" value="180" />
+</group>
+<region>
+	<opcode name="key" value="44" />
+</region>

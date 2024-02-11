@@ -1,0 +1,208 @@
+elements:
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: ../Samples/lofi/snareoff/lofi_snareoff_center_vl1.ogg
+      - type: element
+        name: opcode
+        attributes:
+          name: hivel
+          value: '10'
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: ../Samples/lofi/snareoff/lofi_snareoff_center_vl2.ogg
+      - type: element
+        name: opcode
+        attributes:
+          name: lovel
+          value: '11'
+      - type: element
+        name: opcode
+        attributes:
+          name: hivel
+          value: '21'
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: ../Samples/lofi/snareoff/lofi_snareoff_center_vl3.ogg
+      - type: element
+        name: opcode
+        attributes:
+          name: lovel
+          value: '22'
+      - type: element
+        name: opcode
+        attributes:
+          name: hivel
+          value: '32'
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: ../Samples/lofi/snareoff/lofi_snareoff_center_vl4.ogg
+      - type: element
+        name: opcode
+        attributes:
+          name: lovel
+          value: '33'
+      - type: element
+        name: opcode
+        attributes:
+          name: hivel
+          value: '42'
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: ../Samples/lofi/snareoff/lofi_snareoff_center_vl5.ogg
+      - type: element
+        name: opcode
+        attributes:
+          name: lovel
+          value: '43'
+      - type: element
+        name: opcode
+        attributes:
+          name: hivel
+          value: '53'
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: ../Samples/lofi/snareoff/lofi_snareoff_center_vl6.ogg
+      - type: element
+        name: opcode
+        attributes:
+          name: lovel
+          value: '54'
+      - type: element
+        name: opcode
+        attributes:
+          name: hivel
+          value: '63'
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: ../Samples/lofi/snareoff/lofi_snareoff_center_vl7.ogg
+      - type: element
+        name: opcode
+        attributes:
+          name: lovel
+          value: '64'
+      - type: element
+        name: opcode
+        attributes:
+          name: hivel
+          value: '74'
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: ../Samples/lofi/snareoff/lofi_snareoff_center_vl8.ogg
+      - type: element
+        name: opcode
+        attributes:
+          name: lovel
+          value: '75'
+      - type: element
+        name: opcode
+        attributes:
+          name: hivel
+          value: '85'
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: ../Samples/lofi/snareoff/lofi_snareoff_center_vl9.ogg
+      - type: element
+        name: opcode
+        attributes:
+          name: lovel
+          value: '86'
+      - type: element
+        name: opcode
+        attributes:
+          name: hivel
+          value: '95'
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: ../Samples/lofi/snareoff/lofi_snareoff_center_vl10.ogg
+      - type: element
+        name: opcode
+        attributes:
+          name: lovel
+          value: '96'
+      - type: element
+        name: opcode
+        attributes:
+          name: hivel
+          value: '106'
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: ../Samples/lofi/snareoff/lofi_snareoff_center_vl11.ogg
+      - type: element
+        name: opcode
+        attributes:
+          name: lovel
+          value: '107'
+      - type: element
+        name: opcode
+        attributes:
+          name: hivel
+          value: '117'
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: ../Samples/lofi/snareoff/lofi_snareoff_center_vl12.ogg
+      - type: element
+        name: opcode
+        attributes:
+          name: lovel
+          value: '118'
+

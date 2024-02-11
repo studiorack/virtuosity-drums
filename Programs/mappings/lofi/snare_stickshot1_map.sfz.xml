@@ -1,0 +1,39 @@
+<?xml version="1.0"?>
+<region>
+	<opcode name="sample" value="../Samples/lofi/snare/lofi_snare_stickshot1_vl1.ogg" />
+	<opcode name="hivel" value="15" />
+</region>
+<region>
+	<opcode name="sample" value="../Samples/lofi/snare/lofi_snare_stickshot1_vl2.ogg" />
+	<opcode name="lovel" value="16" />
+	<opcode name="hivel" value="31" />
+</region>
+<region>
+	<opcode name="sample" value="../Samples/lofi/snare/lofi_snare_stickshot1_vl3.ogg" />
+	<opcode name="lovel" value="32" />
+	<opcode name="hivel" value="47" />
+</region>
+<region>
+	<opcode name="sample" value="../Samples/lofi/snare/lofi_snare_stickshot1_vl4.ogg" />
+	<opcode name="lovel" value="48" />
+	<opcode name="hivel" value="63" />
+</region>
+<region>
+	<opcode name="sample" value="../Samples/lofi/snare/lofi_snare_stickshot1_vl5.ogg" />
+	<opcode name="lovel" value="64" />
+	<opcode name="hivel" value="79" />
+</region>
+<region>
+	<opcode name="sample" value="../Samples/lofi/snare/lofi_snare_stickshot1_vl6.ogg" />
+	<opcode name="lovel" value="80" />
+	<opcode name="hivel" value="95" />
+</region>
+<region>
+	<opcode name="sample" value="../Samples/lofi/snare/lofi_snare_stickshot1_vl7.ogg" />
+	<opcode name="lovel" value="96" />
+	<opcode name="hivel" value="111" />
+</region>
+<region>
+	<opcode name="sample" value="../Samples/lofi/snare/lofi_snare_stickshot1_vl8.ogg" />
+	<opcode name="lovel" value="112" />
+</region>

@@ -1,0 +1,151 @@
+<?xml version="1.0"?>
+<region>
+	<opcode name="sample" value="../Samples/perc/oh/woodblock/woodblock_lo_vl1_rr1.ogg" />
+	<opcode name="hivel" value="21" />
+	<opcode name="amp_velcurve_21" value="1" />
+</region>
+<region>
+	<opcode name="sample" value="../Samples/perc/oh/woodblock/woodblock_lo_vl1_rr2.ogg" />
+	<opcode name="hivel" value="21" />
+	<opcode name="seq_position" value="2" />
+	<opcode name="amp_velcurve_21" value="1" />
+</region>
+<region>
+	<opcode name="sample" value="../Samples/perc/oh/woodblock/woodblock_lo_vl1_rr3.ogg" />
+	<opcode name="hivel" value="21" />
+	<opcode name="seq_position" value="3" />
+	<opcode name="amp_velcurve_21" value="1" />
+</region>
+<region>
+	<opcode name="sample" value="../Samples/perc/oh/woodblock/woodblock_lo_vl1_rr4.ogg" />
+	<opcode name="hivel" value="21" />
+	<opcode name="seq_position" value="4" />
+	<opcode name="amp_velcurve_21" value="1" />
+</region>
+<region>
+	<opcode name="sample" value="../Samples/perc/oh/woodblock/woodblock_lo_vl2_rr1.ogg" />
+	<opcode name="lovel" value="22" />
+	<opcode name="hivel" value="42" />
+	<opcode name="amp_velcurve_42" value="1" />
+</region>
+<region>
+	<opcode name="sample" value="../Samples/perc/oh/woodblock/woodblock_lo_vl2_rr2.ogg" />
+	<opcode name="lovel" value="22" />
+	<opcode name="hivel" value="42" />
+	<opcode name="seq_position" value="2" />
+	<opcode name="amp_velcurve_42" value="1" />
+</region>
+<region>
+	<opcode name="sample" value="../Samples/perc/oh/woodblock/woodblock_lo_vl2_rr3.ogg" />
+	<opcode name="lovel" value="22" />
+	<opcode name="hivel" value="42" />
+	<opcode name="seq_position" value="3" />
+	<opcode name="amp_velcurve_42" value="1" />
+</region>
+<region>
+	<opcode name="sample" value="../Samples/perc/oh/woodblock/woodblock_lo_vl2_rr4.ogg" />
+	<opcode name="lovel" value="22" />
+	<opcode name="hivel" value="42" />
+	<opcode name="seq_position" value="4" />
+	<opcode name="amp_velcurve_42" value="1" />
+</region>
+<region>
+	<opcode name="sample" value="../Samples/perc/oh/woodblock/woodblock_lo_vl3_rr1.ogg" />
+	<opcode name="lovel" value="43" />
+	<opcode name="hivel" value="63" />
+	<opcode name="amp_velcurve_63" value="1" />
+</region>
+<region>
+	<opcode name="sample" value="../Samples/perc/oh/woodblock/woodblock_lo_vl3_rr2.ogg" />
+	<opcode name="lovel" value="43" />
+	<opcode name="hivel" value="63" />
+	<opcode name="seq_position" value="2" />
+	<opcode name="amp_velcurve_63" value="1" />
+</region>
+<region>
+	<opcode name="sample" value="../Samples/perc/oh/woodblock/woodblock_lo_vl3_rr3.ogg" />
+	<opcode name="lovel" value="43" />
+	<opcode name="hivel" value="63" />
+	<opcode name="seq_position" value="3" />
+	<opcode name="amp_velcurve_63" value="1" />
+</region>
+<region>
+	<opcode name="sample" value="../Samples/perc/oh/woodblock/woodblock_lo_vl3_rr4.ogg" />
+	<opcode name="lovel" value="43" />
+	<opcode name="hivel" value="63" />
+	<opcode name="seq_position" value="4" />
+	<opcode name="amp_velcurve_63" value="1" />
+</region>
+<region>
+	<opcode name="sample" value="../Samples/perc/oh/woodblock/woodblock_lo_vl4_rr1.ogg" />
+	<opcode name="lovel" value="64" />
+	<opcode name="hivel" value="84" />
+	<opcode name="amp_velcurve_84" value="1" />
+</region>
+<region>
+	<opcode name="sample" value="../Samples/perc/oh/woodblock/woodblock_lo_vl4_rr2.ogg" />
+	<opcode name="lovel" value="64" />
+	<opcode name="hivel" value="84" />
+	<opcode name="seq_position" value="2" />
+	<opcode name="amp_velcurve_84" value="1" />
+</region>
+<region>
+	<opcode name="sample" value="../Samples/perc/oh/woodblock/woodblock_lo_vl4_rr3.ogg" />
+	<opcode name="lovel" value="64" />
+	<opcode name="hivel" value="84" />
+	<opcode name="seq_position" value="3" />
+	<opcode name="amp_velcurve_84" value="1" />
+</region>
+<region>
+	<opcode name="sample" value="../Samples/perc/oh/woodblock/woodblock_lo_vl4_rr4.ogg" />
+	<opcode name="lovel" value="64" />
+	<opcode name="hivel" value="84" />
+	<opcode name="seq_position" value="4" />
+	<opcode name="amp_velcurve_84" value="1" />
+</region>
+<region>
+	<opcode name="sample" value="../Samples/perc/oh/woodblock/woodblock_lo_vl5_rr1.ogg" />
+	<opcode name="lovel" value="85" />
+	<opcode name="hivel" value="105" />
+	<opcode name="amp_velcurve_105" value="1" />
+</region>
+<region>
+	<opcode name="sample" value="../Samples/perc/oh/woodblock/woodblock_lo_vl5_rr2.ogg" />
+	<opcode name="lovel" value="85" />
+	<opcode name="hivel" value="105" />
+	<opcode name="seq_position" value="2" />
+	<opcode name="amp_velcurve_105" value="1" />
+</region>
+<region>
+	<opcode name="sample" value="../Samples/perc/oh/woodblock/woodblock_lo_vl5_rr3.ogg" />
+	<opcode name="lovel" value="85" />
+	<opcode name="hivel" value="105" />
+	<opcode name="seq_position" value="3" />
+	<opcode name="amp_velcurve_105" value="1" />
+</region>
+<region>
+	<opcode name="sample" value="../Samples/perc/oh/woodblock/woodblock_lo_vl5_rr4.ogg" />
+	<opcode name="lovel" value="85" />
+	<opcode name="hivel" value="105" />
+	<opcode name="seq_position" value="4" />
+	<opcode name="amp_velcurve_105" value="1" />
+</region>
+<region>
+	<opcode name="sample" value="../Samples/perc/oh/woodblock/woodblock_lo_vl6_rr1.ogg" />
+	<opcode name="lovel" value="106" />
+</region>
+<region>
+	<opcode name="sample" value="../Samples/perc/oh/woodblock/woodblock_lo_vl6_rr2.ogg" />
+	<opcode name="lovel" value="106" />
+	<opcode name="seq_position" value="2" />
+</region>
+<region>
+	<opcode name="sample" value="../Samples/perc/oh/woodblock/woodblock_lo_vl6_rr3.ogg" />
+	<opcode name="lovel" value="106" />
+	<opcode name="seq_position" value="3" />
+</region>
+<region>
+	<opcode name="sample" value="../Samples/perc/oh/woodblock/woodblock_lo_vl6_rr4.ogg" />
+	<opcode name="lovel" value="106" />
+	<opcode name="seq_position" value="4" />
+</region>

@@ -1,0 +1,166 @@
+<?xml version="1.0"?>
+<region>
+	<opcode name="sample" value="../Samples/perc/room/conga/Conga_22_HitN_1_50_rr1_Far.ogg" />
+	<opcode name="hivel" value="42" />
+	<opcode name="seq_length" value="8" />
+	<opcode name="amp_velcurve_42" value="1" />
+</region>
+<region>
+	<opcode name="sample" value="../Samples/perc/room/conga/Conga_22_HitN_1_50_rr2_Far.ogg" />
+	<opcode name="hivel" value="42" />
+	<opcode name="seq_length" value="8" />
+	<opcode name="seq_position" value="2" />
+	<opcode name="amp_velcurve_42" value="1" />
+</region>
+<region>
+	<opcode name="sample" value="../Samples/perc/room/conga/Conga_22_HitN_1_50_rr3_Far.ogg" />
+	<opcode name="hivel" value="42" />
+	<opcode name="seq_length" value="8" />
+	<opcode name="seq_position" value="3" />
+	<opcode name="amp_velcurve_42" value="1" />
+</region>
+<region>
+	<opcode name="sample" value="../Samples/perc/room/conga/Conga_22_HitN_1_50_rr4_Far.ogg" />
+	<opcode name="hivel" value="42" />
+	<opcode name="seq_length" value="8" />
+	<opcode name="seq_position" value="4" />
+	<opcode name="amp_velcurve_42" value="1" />
+</region>
+<region>
+	<opcode name="sample" value="../Samples/perc/room/conga/Conga_22_HitN_1_50_rr5_Far.ogg" />
+	<opcode name="hivel" value="42" />
+	<opcode name="seq_length" value="8" />
+	<opcode name="seq_position" value="5" />
+	<opcode name="amp_velcurve_42" value="1" />
+</region>
+<region>
+	<opcode name="sample" value="../Samples/perc/room/conga/Conga_22_HitN_1_50_rr6_Far.ogg" />
+	<opcode name="hivel" value="42" />
+	<opcode name="seq_length" value="8" />
+	<opcode name="seq_position" value="6" />
+	<opcode name="amp_velcurve_42" value="1" />
+</region>
+<region>
+	<opcode name="sample" value="../Samples/perc/room/conga/Conga_22_HitN_1_50_rr7_Far.ogg" />
+	<opcode name="hivel" value="42" />
+	<opcode name="seq_length" value="8" />
+	<opcode name="seq_position" value="7" />
+	<opcode name="amp_velcurve_42" value="1" />
+</region>
+<region>
+	<opcode name="sample" value="../Samples/perc/room/conga/Conga_22_HitN_1_50_rr8_Far.ogg" />
+	<opcode name="hivel" value="42" />
+	<opcode name="seq_length" value="8" />
+	<opcode name="seq_position" value="8" />
+	<opcode name="amp_velcurve_42" value="1" />
+</region>
+<region>
+	<opcode name="sample" value="../Samples/perc/room/conga/Conga_22_HitN_101_127_rr1_Far.ogg" />
+	<opcode name="lovel" value="85" />
+	<opcode name="seq_length" value="8" />
+</region>
+<region>
+	<opcode name="sample" value="../Samples/perc/room/conga/Conga_22_HitN_101_127_rr2_Far.ogg" />
+	<opcode name="lovel" value="85" />
+	<opcode name="seq_length" value="8" />
+	<opcode name="seq_position" value="2" />
+</region>
+<region>
+	<opcode name="sample" value="../Samples/perc/room/conga/Conga_22_HitN_101_127_rr3_Far.ogg" />
+	<opcode name="lovel" value="85" />
+	<opcode name="seq_length" value="8" />
+	<opcode name="seq_position" value="3" />
+</region>
+<region>
+	<opcode name="sample" value="../Samples/perc/room/conga/Conga_22_HitN_101_127_rr4_Far.ogg" />
+	<opcode name="lovel" value="85" />
+	<opcode name="seq_length" value="8" />
+	<opcode name="seq_position" value="4" />
+</region>
+<region>
+	<opcode name="sample" value="../Samples/perc/room/conga/Conga_22_HitN_101_127_rr5_Far.ogg" />
+	<opcode name="lovel" value="85" />
+	<opcode name="seq_length" value="8" />
+	<opcode name="seq_position" value="5" />
+</region>
+<region>
+	<opcode name="sample" value="../Samples/perc/room/conga/Conga_22_HitN_101_127_rr6_Far.ogg" />
+	<opcode name="lovel" value="85" />
+	<opcode name="seq_length" value="8" />
+	<opcode name="seq_position" value="6" />
+</region>
+<region>
+	<opcode name="sample" value="../Samples/perc/room/conga/Conga_22_HitN_101_127_rr7_Far.ogg" />
+	<opcode name="lovel" value="85" />
+	<opcode name="seq_length" value="8" />
+	<opcode name="seq_position" value="7" />
+</region>
+<region>
+	<opcode name="sample" value="../Samples/perc/room/conga/Conga_22_HitN_101_127_rr8_Far.ogg" />
+	<opcode name="lovel" value="85" />
+	<opcode name="seq_length" value="8" />
+	<opcode name="seq_position" value="8" />
+</region>
+<region>
+	<opcode name="sample" value="../Samples/perc/room/conga/Conga_22_HitN_51_100_rr1_Far.ogg" />
+	<opcode name="lovel" value="43" />
+	<opcode name="hivel" value="84" />
+	<opcode name="seq_length" value="8" />
+	<opcode name="amp_velcurve_84" value="1" />
+</region>
+<region>
+	<opcode name="sample" value="../Samples/perc/room/conga/Conga_22_HitN_51_100_rr2_Far.ogg" />
+	<opcode name="lovel" value="43" />
+	<opcode name="hivel" value="84" />
+	<opcode name="seq_length" value="8" />
+	<opcode name="seq_position" value="2" />
+	<opcode name="amp_velcurve_84" value="1" />
+</region>
+<region>
+	<opcode name="sample" value="../Samples/perc/room/conga/Conga_22_HitN_51_100_rr3_Far.ogg" />
+	<opcode name="lovel" value="43" />
+	<opcode name="hivel" value="84" />
+	<opcode name="seq_length" value="8" />
+	<opcode name="seq_position" value="3" />
+	<opcode name="amp_velcurve_84" value="1" />
+</region>
+<region>
+	<opcode name="sample" value="../Samples/perc/room/conga/Conga_22_HitN_51_100_rr4_Far.ogg" />
+	<opcode name="lovel" value="43" />
+	<opcode name="hivel" value="84" />
+	<opcode name="seq_length" value="8" />
+	<opcode name="seq_position" value="4" />
+	<opcode name="amp_velcurve_84" value="1" />
+</region>
+<region>
+	<opcode name="sample" value="../Samples/perc/room/conga/Conga_22_HitN_51_100_rr5_Far.ogg" />
+	<opcode name="lovel" value="43" />
+	<opcode name="hivel" value="84" />
+	<opcode name="seq_length" value="8" />
+	<opcode name="seq_position" value="5" />
+	<opcode name="amp_velcurve_84" value="1" />
+</region>
+<region>
+	<opcode name="sample" value="../Samples/perc/room/conga/Conga_22_HitN_51_100_rr6_Far.ogg" />
+	<opcode name="lovel" value="43" />
+	<opcode name="hivel" value="84" />
+	<opcode name="seq_length" value="8" />
+	<opcode name="seq_position" value="6" />
+	<opcode name="amp_velcurve_84" value="1" />
+</region>
+<region>
+	<opcode name="sample" value="../Samples/perc/room/conga/Conga_22_HitN_51_100_rr7_Far.ogg" />
+	<opcode name="lovel" value="43" />
+	<opcode name="hivel" value="84" />
+	<opcode name="seq_length" value="8" />
+	<opcode name="seq_position" value="7" />
+	<opcode name="amp_velcurve_84" value="1" />
+</region>
+<region>
+	<opcode name="sample" value="../Samples/perc/room/conga/Conga_22_HitN_51_100_rr8_Far.ogg" />
+	<opcode name="lovel" value="43" />
+	<opcode name="hivel" value="84" />
+	<opcode name="seq_length" value="8" />
+	<opcode name="seq_position" value="8" />
+	<opcode name="amp_velcurve_84" value="1" />
+</region>

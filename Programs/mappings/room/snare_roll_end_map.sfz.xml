@@ -1,0 +1,32 @@
+<?xml version="1.0"?>
+<region>
+	<opcode name="sample" value="../Samples/room/snare/room_snare_center_vl4.ogg" />
+	<opcode name="xfin_locc1" value="1" />
+	<opcode name="xfin_hicc1" value="21" />
+	<opcode name="hicc1" value="21" />
+</region>
+<region>
+	<opcode name="sample" value="../Samples/room/snare/room_snare_center_vl8.ogg" />
+	<opcode name="locc1" value="22" />
+	<opcode name="hicc1" value="42" />
+</region>
+<region>
+	<opcode name="sample" value="../Samples/room/snare/room_snare_center_vl12.ogg" />
+	<opcode name="locc1" value="43" />
+	<opcode name="hicc1" value="63" />
+</region>
+<region>
+	<opcode name="sample" value="../Samples/room/snare/room_snare_center_vl16.ogg" />
+	<opcode name="locc1" value="64" />
+	<opcode name="hicc1" value="85" />
+</region>
+<region>
+	<opcode name="sample" value="../Samples/room/snare/room_snare_center_vl20.ogg" />
+	<opcode name="locc1" value="86" />
+	<opcode name="hicc1" value="106" />
+</region>
+<region>
+	<opcode name="sample" value="../Samples/room/snare/room_snare_center_vl24.ogg" />
+	<opcode name="locc1" value="107" />
+	<opcode name="hicc1" value="127" />
+</region>

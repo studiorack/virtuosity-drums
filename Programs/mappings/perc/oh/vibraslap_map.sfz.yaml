@@ -1,0 +1,408 @@
+elements:
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: ../Samples/perc/oh/vibraslap/Vibraslap1_1_Hit_1_70_rr1_Overhead.ogg
+      - type: element
+        name: opcode
+        attributes:
+          name: hivel
+          value: '63'
+      - type: element
+        name: opcode
+        attributes:
+          name: seq_length
+          value: '8'
+      - type: element
+        name: opcode
+        attributes:
+          name: amp_velcurve_63
+          value: '1'
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: ../Samples/perc/oh/vibraslap/Vibraslap1_1_Hit_1_70_rr2_Overhead.ogg
+      - type: element
+        name: opcode
+        attributes:
+          name: hivel
+          value: '63'
+      - type: element
+        name: opcode
+        attributes:
+          name: seq_length
+          value: '8'
+      - type: element
+        name: opcode
+        attributes:
+          name: seq_position
+          value: '2'
+      - type: element
+        name: opcode
+        attributes:
+          name: amp_velcurve_63
+          value: '1'
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: ../Samples/perc/oh/vibraslap/Vibraslap1_1_Hit_1_70_rr3_Overhead.ogg
+      - type: element
+        name: opcode
+        attributes:
+          name: hivel
+          value: '63'
+      - type: element
+        name: opcode
+        attributes:
+          name: seq_length
+          value: '8'
+      - type: element
+        name: opcode
+        attributes:
+          name: seq_position
+          value: '3'
+      - type: element
+        name: opcode
+        attributes:
+          name: amp_velcurve_63
+          value: '1'
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: ../Samples/perc/oh/vibraslap/Vibraslap1_1_Hit_1_70_rr4_Overhead.ogg
+      - type: element
+        name: opcode
+        attributes:
+          name: hivel
+          value: '63'
+      - type: element
+        name: opcode
+        attributes:
+          name: seq_length
+          value: '8'
+      - type: element
+        name: opcode
+        attributes:
+          name: seq_position
+          value: '4'
+      - type: element
+        name: opcode
+        attributes:
+          name: amp_velcurve_63
+          value: '1'
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: ../Samples/perc/oh/vibraslap/Vibraslap1_1_Hit_1_70_rr5_Overhead.ogg
+      - type: element
+        name: opcode
+        attributes:
+          name: hivel
+          value: '63'
+      - type: element
+        name: opcode
+        attributes:
+          name: seq_length
+          value: '8'
+      - type: element
+        name: opcode
+        attributes:
+          name: seq_position
+          value: '5'
+      - type: element
+        name: opcode
+        attributes:
+          name: amp_velcurve_63
+          value: '1'
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: ../Samples/perc/oh/vibraslap/Vibraslap1_1_Hit_1_70_rr6_Overhead.ogg
+      - type: element
+        name: opcode
+        attributes:
+          name: hivel
+          value: '63'
+      - type: element
+        name: opcode
+        attributes:
+          name: seq_length
+          value: '8'
+      - type: element
+        name: opcode
+        attributes:
+          name: seq_position
+          value: '6'
+      - type: element
+        name: opcode
+        attributes:
+          name: amp_velcurve_63
+          value: '1'
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: ../Samples/perc/oh/vibraslap/Vibraslap1_1_Hit_1_70_rr7_Overhead.ogg
+      - type: element
+        name: opcode
+        attributes:
+          name: hivel
+          value: '63'
+      - type: element
+        name: opcode
+        attributes:
+          name: seq_length
+          value: '8'
+      - type: element
+        name: opcode
+        attributes:
+          name: seq_position
+          value: '7'
+      - type: element
+        name: opcode
+        attributes:
+          name: amp_velcurve_63
+          value: '1'
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: ../Samples/perc/oh/vibraslap/Vibraslap1_1_Hit_1_70_rr8_Overhead.ogg
+      - type: element
+        name: opcode
+        attributes:
+          name: hivel
+          value: '63'
+      - type: element
+        name: opcode
+        attributes:
+          name: seq_length
+          value: '8'
+      - type: element
+        name: opcode
+        attributes:
+          name: seq_position
+          value: '8'
+      - type: element
+        name: opcode
+        attributes:
+          name: amp_velcurve_63
+          value: '1'
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: >-
+            ../Samples/perc/oh/vibraslap/Vibraslap1_1_Hit_71_127_rr1_Overhead.ogg
+      - type: element
+        name: opcode
+        attributes:
+          name: lovel
+          value: '64'
+      - type: element
+        name: opcode
+        attributes:
+          name: seq_length
+          value: '8'
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: >-
+            ../Samples/perc/oh/vibraslap/Vibraslap1_1_Hit_71_127_rr2_Overhead.ogg
+      - type: element
+        name: opcode
+        attributes:
+          name: lovel
+          value: '64'
+      - type: element
+        name: opcode
+        attributes:
+          name: seq_length
+          value: '8'
+      - type: element
+        name: opcode
+        attributes:
+          name: seq_position
+          value: '2'
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: >-
+            ../Samples/perc/oh/vibraslap/Vibraslap1_1_Hit_71_127_rr3_Overhead.ogg
+      - type: element
+        name: opcode
+        attributes:
+          name: lovel
+          value: '64'
+      - type: element
+        name: opcode
+        attributes:
+          name: seq_length
+          value: '8'
+      - type: element
+        name: opcode
+        attributes:
+          name: seq_position
+          value: '3'
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: >-
+            ../Samples/perc/oh/vibraslap/Vibraslap1_1_Hit_71_127_rr4_Overhead.ogg
+      - type: element
+        name: opcode
+        attributes:
+          name: lovel
+          value: '64'
+      - type: element
+        name: opcode
+        attributes:
+          name: seq_length
+          value: '8'
+      - type: element
+        name: opcode
+        attributes:
+          name: seq_position
+          value: '4'
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: >-
+            ../Samples/perc/oh/vibraslap/Vibraslap1_1_Hit_71_127_rr5_Overhead.ogg
+      - type: element
+        name: opcode
+        attributes:
+          name: lovel
+          value: '64'
+      - type: element
+        name: opcode
+        attributes:
+          name: seq_length
+          value: '8'
+      - type: element
+        name: opcode
+        attributes:
+          name: seq_position
+          value: '5'
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: >-
+            ../Samples/perc/oh/vibraslap/Vibraslap1_1_Hit_71_127_rr6_Overhead.ogg
+      - type: element
+        name: opcode
+        attributes:
+          name: lovel
+          value: '64'
+      - type: element
+        name: opcode
+        attributes:
+          name: seq_length
+          value: '8'
+      - type: element
+        name: opcode
+        attributes:
+          name: seq_position
+          value: '6'
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: >-
+            ../Samples/perc/oh/vibraslap/Vibraslap1_1_Hit_71_127_rr7_Overhead.ogg
+      - type: element
+        name: opcode
+        attributes:
+          name: lovel
+          value: '64'
+      - type: element
+        name: opcode
+        attributes:
+          name: seq_length
+          value: '8'
+      - type: element
+        name: opcode
+        attributes:
+          name: seq_position
+          value: '7'
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: >-
+            ../Samples/perc/oh/vibraslap/Vibraslap1_1_Hit_71_127_rr8_Overhead.ogg
+      - type: element
+        name: opcode
+        attributes:
+          name: lovel
+          value: '64'
+      - type: element
+        name: opcode
+        attributes:
+          name: seq_length
+          value: '8'
+      - type: element
+        name: opcode
+        attributes:
+          name: seq_position
+          value: '8'
+

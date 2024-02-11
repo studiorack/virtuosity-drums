@@ -1,0 +1,50 @@
+<?xml version="1.0"?>
+<region>
+	<opcode name="sample" value="../Samples/perc/mid/tambourine/Tamb1_Shake_rr1_mid.ogg" />
+	<opcode name="seq_length" value="10" />
+</region>
+<region>
+	<opcode name="sample" value="../Samples/perc/mid/tambourine/Tamb1_Shake_rr2_mid.ogg" />
+	<opcode name="seq_length" value="10" />
+	<opcode name="seq_position" value="2" />
+</region>
+<region>
+	<opcode name="sample" value="../Samples/perc/mid/tambourine/Tamb1_Shake_rr3_mid.ogg" />
+	<opcode name="seq_length" value="10" />
+	<opcode name="seq_position" value="3" />
+</region>
+<region>
+	<opcode name="sample" value="../Samples/perc/mid/tambourine/Tamb1_Shake_rr4_mid.ogg" />
+	<opcode name="seq_length" value="10" />
+	<opcode name="seq_position" value="4" />
+</region>
+<region>
+	<opcode name="sample" value="../Samples/perc/mid/tambourine/Tamb1_Shake_rr5_mid.ogg" />
+	<opcode name="seq_length" value="10" />
+	<opcode name="seq_position" value="5" />
+</region>
+<region>
+	<opcode name="sample" value="../Samples/perc/mid/tambourine/Tamb1_Shake_rr6_mid.ogg" />
+	<opcode name="seq_length" value="10" />
+	<opcode name="seq_position" value="6" />
+</region>
+<region>
+	<opcode name="sample" value="../Samples/perc/mid/tambourine/Tamb1_Shake_rr7_mid.ogg" />
+	<opcode name="seq_length" value="10" />
+	<opcode name="seq_position" value="7" />
+</region>
+<region>
+	<opcode name="sample" value="../Samples/perc/mid/tambourine/Tamb1_Shake_rr8_mid.ogg" />
+	<opcode name="seq_length" value="10" />
+	<opcode name="seq_position" value="8" />
+</region>
+<region>
+	<opcode name="sample" value="../Samples/perc/mid/tambourine/Tamb1_Shake_rr9_mid.ogg" />
+	<opcode name="seq_length" value="10" />
+	<opcode name="seq_position" value="9" />
+</region>
+<region>
+	<opcode name="sample" value="../Samples/perc/mid/tambourine/Tamb1_Shake_rr10_mid.ogg" />
+	<opcode name="seq_length" value="10" />
+	<opcode name="seq_position" value="10" />
+</region>

@@ -1,0 +1,69 @@
+elements:
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: ../Samples/snaremic/hh/snaremic_hh_splash_rr1.ogg
+      - type: element
+        name: opcode
+        attributes:
+          name: seq_length
+          value: '4'
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: ../Samples/snaremic/hh/snaremic_hh_splash_rr2.ogg
+      - type: element
+        name: opcode
+        attributes:
+          name: seq_length
+          value: '4'
+      - type: element
+        name: opcode
+        attributes:
+          name: seq_position
+          value: '2'
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: ../Samples/snaremic/hh/snaremic_hh_splash_rr3.ogg
+      - type: element
+        name: opcode
+        attributes:
+          name: seq_length
+          value: '4'
+      - type: element
+        name: opcode
+        attributes:
+          name: seq_position
+          value: '3'
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: ../Samples/snaremic/hh/snaremic_hh_splash_rr4.ogg
+      - type: element
+        name: opcode
+        attributes:
+          name: seq_length
+          value: '4'
+      - type: element
+        name: opcode
+        attributes:
+          name: seq_position
+          value: '4'
+

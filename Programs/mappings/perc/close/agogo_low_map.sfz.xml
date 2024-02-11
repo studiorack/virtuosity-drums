@@ -1,0 +1,103 @@
+<?xml version="1.0"?>
+<region>
+	<opcode name="sample" value="../Samples/perc/close/agogo/Agogo_Low_v1_rr1_Close.ogg" />
+	<opcode name="hivel" value="63" />
+	<opcode name="amp_velcurve_63" value="1" />
+	<opcode name="seq_length" value="8" />
+</region>
+<region>
+	<opcode name="sample" value="../Samples/perc/close/agogo/Agogo_Low_v1_rr2_Close.ogg" />
+	<opcode name="hivel" value="63" />
+	<opcode name="amp_velcurve_63" value="1" />
+	<opcode name="seq_length" value="8" />
+	<opcode name="seq_position" value="2" />
+</region>
+<region>
+	<opcode name="sample" value="../Samples/perc/close/agogo/Agogo_Low_v1_rr3_Close.ogg" />
+	<opcode name="hivel" value="63" />
+	<opcode name="amp_velcurve_63" value="1" />
+	<opcode name="seq_length" value="8" />
+	<opcode name="seq_position" value="3" />
+</region>
+<region>
+	<opcode name="sample" value="../Samples/perc/close/agogo/Agogo_Low_v1_rr4_Close.ogg" />
+	<opcode name="hivel" value="63" />
+	<opcode name="amp_velcurve_63" value="1" />
+	<opcode name="seq_length" value="8" />
+	<opcode name="seq_position" value="4" />
+</region>
+<region>
+	<opcode name="sample" value="../Samples/perc/close/agogo/Agogo_Low_v1_rr5_Close.ogg" />
+	<opcode name="hivel" value="63" />
+	<opcode name="amp_velcurve_63" value="1" />
+	<opcode name="seq_length" value="8" />
+	<opcode name="seq_position" value="5" />
+</region>
+<region>
+	<opcode name="sample" value="../Samples/perc/close/agogo/Agogo_Low_v1_rr6_Close.ogg" />
+	<opcode name="hivel" value="63" />
+	<opcode name="amp_velcurve_63" value="1" />
+	<opcode name="seq_length" value="8" />
+	<opcode name="seq_position" value="6" />
+</region>
+<region>
+	<opcode name="sample" value="../Samples/perc/close/agogo/Agogo_Low_v1_rr7_Close.ogg" />
+	<opcode name="hivel" value="63" />
+	<opcode name="amp_velcurve_63" value="1" />
+	<opcode name="seq_length" value="8" />
+	<opcode name="seq_position" value="7" />
+</region>
+<region>
+	<opcode name="sample" value="../Samples/perc/close/agogo/Agogo_Low_v1_rr8_Close.ogg" />
+	<opcode name="hivel" value="63" />
+	<opcode name="amp_velcurve_63" value="1" />
+	<opcode name="seq_length" value="8" />
+	<opcode name="seq_position" value="8" />
+</region>
+<region>
+	<opcode name="sample" value="../Samples/perc/close/agogo/Agogo_Low_v2_rr1_Close.ogg" />
+	<opcode name="lovel" value="64" />
+	<opcode name="seq_length" value="8" />
+</region>
+<region>
+	<opcode name="sample" value="../Samples/perc/close/agogo/Agogo_Low_v2_rr2_Close.ogg" />
+	<opcode name="lovel" value="64" />
+	<opcode name="seq_length" value="8" />
+	<opcode name="seq_position" value="2" />
+</region>
+<region>
+	<opcode name="sample" value="../Samples/perc/close/agogo/Agogo_Low_v2_rr3_Close.ogg" />
+	<opcode name="lovel" value="64" />
+	<opcode name="seq_length" value="8" />
+	<opcode name="seq_position" value="3" />
+</region>
+<region>
+	<opcode name="sample" value="../Samples/perc/close/agogo/Agogo_Low_v2_rr4_Close.ogg" />
+	<opcode name="lovel" value="64" />
+	<opcode name="seq_length" value="8" />
+	<opcode name="seq_position" value="4" />
+</region>
+<region>
+	<opcode name="sample" value="../Samples/perc/close/agogo/Agogo_Low_v2_rr5_Close.ogg" />
+	<opcode name="lovel" value="64" />
+	<opcode name="seq_length" value="8" />
+	<opcode name="seq_position" value="5" />
+</region>
+<region>
+	<opcode name="sample" value="../Samples/perc/close/agogo/Agogo_Low_v2_rr6_Close.ogg" />
+	<opcode name="lovel" value="64" />
+	<opcode name="seq_length" value="8" />
+	<opcode name="seq_position" value="6" />
+</region>
+<region>
+	<opcode name="sample" value="../Samples/perc/close/agogo/Agogo_Low_v2_rr7_Close.ogg" />
+	<opcode name="lovel" value="64" />
+	<opcode name="seq_length" value="8" />
+	<opcode name="seq_position" value="7" />
+</region>
+<region>
+	<opcode name="sample" value="../Samples/perc/close/agogo/Agogo_Low_v2_rr8_Close.ogg" />
+	<opcode name="lovel" value="64" />
+	<opcode name="seq_length" value="8" />
+	<opcode name="seq_position" value="8" />
+</region>

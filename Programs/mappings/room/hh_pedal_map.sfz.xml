@@ -1,0 +1,85 @@
+<?xml version="1.0"?>
+<region>
+	<opcode name="sample" value="../Samples/room/hh/room_hh_pedal_vl1_rr1.ogg" />
+	<opcode name="hivel" value="42" />
+	<opcode name="seq_length" value="4" />
+	<opcode name="amp_velcurve_42" value="1" />
+</region>
+<region>
+	<opcode name="sample" value="../Samples/room/hh/room_hh_pedal_vl1_rr2.ogg" />
+	<opcode name="hivel" value="42" />
+	<opcode name="seq_length" value="4" />
+	<opcode name="seq_position" value="2" />
+	<opcode name="amp_velcurve_42" value="1" />
+</region>
+<region>
+	<opcode name="sample" value="../Samples/room/hh/room_hh_pedal_vl1_rr3.ogg" />
+	<opcode name="hivel" value="42" />
+	<opcode name="seq_length" value="4" />
+	<opcode name="seq_position" value="3" />
+	<opcode name="amp_velcurve_42" value="1" />
+</region>
+<region>
+	<opcode name="sample" value="../Samples/room/hh/room_hh_pedal_vl1_rr4.ogg" />
+	<opcode name="hivel" value="42" />
+	<opcode name="seq_length" value="4" />
+	<opcode name="seq_position" value="4" />
+	<opcode name="amp_velcurve_42" value="1" />
+</region>
+<region>
+	<opcode name="sample" value="../Samples/room/hh/room_hh_pedal_vl2_rr1.ogg" />
+	<opcode name="lovel" value="43" />
+	<opcode name="hivel" value="85" />
+	<opcode name="seq_length" value="4" />
+	<opcode name="amp_velcurve_85" value="1" />
+</region>
+<region>
+	<opcode name="sample" value="../Samples/room/hh/room_hh_pedal_vl2_rr2.ogg" />
+	<opcode name="lovel" value="43" />
+	<opcode name="hivel" value="85" />
+	<opcode name="seq_length" value="4" />
+	<opcode name="seq_position" value="2" />
+	<opcode name="amp_velcurve_85" value="1" />
+</region>
+<region>
+	<opcode name="sample" value="../Samples/room/hh/room_hh_pedal_vl2_rr3.ogg" />
+	<opcode name="lovel" value="43" />
+	<opcode name="hivel" value="85" />
+	<opcode name="seq_length" value="4" />
+	<opcode name="seq_position" value="3" />
+	<opcode name="amp_velcurve_85" value="1" />
+</region>
+<region>
+	<opcode name="sample" value="../Samples/room/hh/room_hh_pedal_vl2_rr4.ogg" />
+	<opcode name="lovel" value="43" />
+	<opcode name="hivel" value="85" />
+	<opcode name="seq_length" value="4" />
+	<opcode name="seq_position" value="4" />
+	<opcode name="amp_velcurve_85" value="1" />
+</region>
+<region>
+	<opcode name="sample" value="../Samples/room/hh/room_hh_pedal_vl3_rr1.ogg" />
+	<opcode name="lovel" value="86" />
+	<opcode name="seq_length" value="4" />
+	<opcode name="amp_velcurve_95" value="1" />
+</region>
+<region>
+	<opcode name="sample" value="../Samples/room/hh/room_hh_pedal_vl3_rr2.ogg" />
+	<opcode name="lovel" value="86" />
+	<opcode name="seq_length" value="4" />
+	<opcode name="seq_position" value="2" />
+	<opcode name="amp_velcurve_95" value="1" />
+</region>
+<region>
+	<opcode name="sample" value="../Samples/room/hh/room_hh_pedal_vl3_rr3.ogg" />
+	<opcode name="lovel" value="86" />
+	<opcode name="seq_length" value="4" />
+	<opcode name="seq_position" value="3" />
+	<opcode name="amp_velcurve_95" value="1" />
+</region>
+<region>
+	<opcode name="sample" value="../Samples/room/hh/room_hh_pedal_vl3_rr4.ogg" />
+	<opcode name="lovel" value="86" />
+	<opcode name="seq_length" value="4" />
+	<opcode name="seq_position" value="4" />
+</region>

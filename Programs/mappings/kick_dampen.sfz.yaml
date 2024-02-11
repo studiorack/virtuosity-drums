@@ -1,0 +1,53 @@
+elements:
+  elements:
+    - type: element
+      name: opcode
+      attributes:
+        name: amp_veltrack
+        value: '100'
+    - type: element
+      name: opcode
+      attributes:
+        name: ampeg_hold
+        value: '0.2'
+    - type: element
+      name: opcode
+      attributes:
+        name: ampeg_hold_oncc71
+        value: '-0.15'
+    - type: element
+      name: opcode
+      attributes:
+        name: ampeg_decay
+        value: '2.5'
+    - type: element
+      name: opcode
+      attributes:
+        name: ampeg_decay_oncc71
+        value: '-2.4'
+    - type: element
+      name: opcode
+      attributes:
+        name: ampeg_sustain
+        value: '100'
+    - type: element
+      name: opcode
+      attributes:
+        name: ampeg_sustain_oncc71
+        value: '-100'
+    - type: element
+      name: opcode
+      attributes:
+        name: ampeg_hold_curvecc71
+        value: '8'
+    - type: element
+      name: opcode
+      attributes:
+        name: ampeg_decay_curvecc71
+        value: '8'
+    - type: element
+      name: opcode
+      attributes:
+        name: ampeg_sustain_curvecc71
+        value: '7'
+

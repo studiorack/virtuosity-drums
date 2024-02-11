@@ -1,0 +1,144 @@
+<?xml version="1.0"?>
+<region>
+	<opcode name="sample" value="../Samples/perc/oh/timbales/timb13_vl1_rr1.ogg" />
+	<opcode name="hivel" value="26" />
+	<opcode name="seq_length" value="4" />
+	<opcode name="amp_velcurve_26" value="1" />
+</region>
+<region>
+	<opcode name="sample" value="../Samples/perc/oh/timbales/timb13_vl1_rr2.ogg" />
+	<opcode name="hivel" value="26" />
+	<opcode name="seq_length" value="4" />
+	<opcode name="seq_position" value="2" />
+	<opcode name="amp_velcurve_26" value="1" />
+</region>
+<region>
+	<opcode name="sample" value="../Samples/perc/oh/timbales/timb13_vl1_rr3.ogg" />
+	<opcode name="hivel" value="26" />
+	<opcode name="seq_length" value="4" />
+	<opcode name="seq_position" value="3" />
+	<opcode name="amp_velcurve_26" value="1" />
+</region>
+<region>
+	<opcode name="sample" value="../Samples/perc/oh/timbales/timb13_vl1_rr4.ogg" />
+	<opcode name="hivel" value="26" />
+	<opcode name="seq_length" value="4" />
+	<opcode name="seq_position" value="4" />
+	<opcode name="amp_velcurve_26" value="1" />
+</region>
+<region>
+	<opcode name="sample" value="../Samples/perc/oh/timbales/timb13_vl2_rr1.ogg" />
+	<opcode name="lovel" value="27" />
+	<opcode name="hivel" value="51" />
+	<opcode name="seq_length" value="4" />
+	<opcode name="amp_velcurve_51" value="1" />
+</region>
+<region>
+	<opcode name="sample" value="../Samples/perc/oh/timbales/timb13_vl2_rr2.ogg" />
+	<opcode name="lovel" value="27" />
+	<opcode name="hivel" value="51" />
+	<opcode name="seq_length" value="4" />
+	<opcode name="seq_position" value="2" />
+	<opcode name="amp_velcurve_51" value="1" />
+</region>
+<region>
+	<opcode name="sample" value="../Samples/perc/oh/timbales/timb13_vl2_rr3.ogg" />
+	<opcode name="lovel" value="27" />
+	<opcode name="hivel" value="51" />
+	<opcode name="seq_length" value="4" />
+	<opcode name="seq_position" value="3" />
+	<opcode name="amp_velcurve_51" value="1" />
+</region>
+<region>
+	<opcode name="sample" value="../Samples/perc/oh/timbales/timb13_vl2_rr4.ogg" />
+	<opcode name="lovel" value="27" />
+	<opcode name="hivel" value="51" />
+	<opcode name="seq_length" value="4" />
+	<opcode name="seq_position" value="4" />
+	<opcode name="amp_velcurve_51" value="1" />
+</region>
+<region>
+	<opcode name="sample" value="../Samples/perc/oh/timbales/timb13_vl3_rr1.ogg" />
+	<opcode name="lovel" value="52" />
+	<opcode name="hivel" value="77" />
+	<opcode name="seq_length" value="4" />
+	<opcode name="amp_velcurve_77" value="1" />
+</region>
+<region>
+	<opcode name="sample" value="../Samples/perc/oh/timbales/timb13_vl3_rr2.ogg" />
+	<opcode name="lovel" value="52" />
+	<opcode name="hivel" value="77" />
+	<opcode name="seq_length" value="4" />
+	<opcode name="seq_position" value="2" />
+	<opcode name="amp_velcurve_77" value="1" />
+</region>
+<region>
+	<opcode name="sample" value="../Samples/perc/oh/timbales/timb13_vl3_rr3.ogg" />
+	<opcode name="lovel" value="52" />
+	<opcode name="hivel" value="77" />
+	<opcode name="seq_length" value="4" />
+	<opcode name="seq_position" value="3" />
+	<opcode name="amp_velcurve_77" value="1" />
+</region>
+<region>
+	<opcode name="sample" value="../Samples/perc/oh/timbales/timb13_vl3_rr4.ogg" />
+	<opcode name="lovel" value="52" />
+	<opcode name="hivel" value="77" />
+	<opcode name="seq_length" value="4" />
+	<opcode name="seq_position" value="4" />
+	<opcode name="amp_velcurve_77" value="1" />
+</region>
+<region>
+	<opcode name="sample" value="../Samples/perc/oh/timbales/timb13_vl4_rr1.ogg" />
+	<opcode name="lovel" value="78" />
+	<opcode name="hivel" value="102" />
+	<opcode name="seq_length" value="4" />
+	<opcode name="amp_velcurve_102" value="1" />
+</region>
+<region>
+	<opcode name="sample" value="../Samples/perc/oh/timbales/timb13_vl4_rr2.ogg" />
+	<opcode name="lovel" value="78" />
+	<opcode name="hivel" value="102" />
+	<opcode name="seq_length" value="4" />
+	<opcode name="seq_position" value="2" />
+	<opcode name="amp_velcurve_102" value="1" />
+</region>
+<region>
+	<opcode name="sample" value="../Samples/perc/oh/timbales/timb13_vl4_rr3.ogg" />
+	<opcode name="lovel" value="78" />
+	<opcode name="hivel" value="102" />
+	<opcode name="seq_length" value="4" />
+	<opcode name="seq_position" value="3" />
+	<opcode name="amp_velcurve_102" value="1" />
+</region>
+<region>
+	<opcode name="sample" value="../Samples/perc/oh/timbales/timb13_vl4_rr4.ogg" />
+	<opcode name="lovel" value="78" />
+	<opcode name="hivel" value="102" />
+	<opcode name="seq_length" value="4" />
+	<opcode name="seq_position" value="4" />
+	<opcode name="amp_velcurve_102" value="1" />
+</region>
+<region>
+	<opcode name="sample" value="../Samples/perc/oh/timbales/timb13_vl5_rr1.ogg" />
+	<opcode name="lovel" value="103" />
+	<opcode name="seq_length" value="4" />
+</region>
+<region>
+	<opcode name="sample" value="../Samples/perc/oh/timbales/timb13_vl5_rr2.ogg" />
+	<opcode name="lovel" value="103" />
+	<opcode name="seq_length" value="4" />
+	<opcode name="seq_position" value="2" />
+</region>
+<region>
+	<opcode name="sample" value="../Samples/perc/oh/timbales/timb13_vl5_rr3.ogg" />
+	<opcode name="lovel" value="103" />
+	<opcode name="seq_length" value="4" />
+	<opcode name="seq_position" value="3" />
+</region>
+<region>
+	<opcode name="sample" value="../Samples/perc/oh/timbales/timb13_vl5_rr4.ogg" />
+	<opcode name="lovel" value="103" />
+	<opcode name="seq_length" value="4" />
+	<opcode name="seq_position" value="4" />
+</region>

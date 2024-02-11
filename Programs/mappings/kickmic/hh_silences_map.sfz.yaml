@@ -1,0 +1,404 @@
+elements:
+  - type: element
+    name: group
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: '*silence'
+      - type: element
+        name: opcode
+        attributes:
+          name: loop_mode
+          value: loop_continuous
+      - type: element
+        name: opcode
+        attributes:
+          name: off_mode
+          value: fast
+      - type: element
+        name: opcode
+        attributes:
+          name: ampeg_attack
+          value: '0'
+      - type: element
+        name: opcode
+        attributes:
+          name: ampeg_decay
+          value: '0'
+      - type: element
+        name: opcode
+        attributes:
+          name: ampeg_sustain
+          value: '0'
+      - type: element
+        name: opcode
+        attributes:
+          name: ampeg_release
+          value: '0'
+      - type: element
+        name: opcode
+        attributes:
+          name: group
+          value: '46'
+      - type: element
+        name: opcode
+        attributes:
+          name: off_by
+          value: '46'
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: key
+          value: '94'
+      - type: element
+        name: opcode
+        attributes:
+          name: locc4
+          value: '0'
+      - type: element
+        name: opcode
+        attributes:
+          name: hicc4
+          value: '127'
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: key
+          value: '90'
+      - type: element
+        name: opcode
+        attributes:
+          name: locc4
+          value: '0'
+      - type: element
+        name: opcode
+        attributes:
+          name: hicc4
+          value: '127'
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: key
+          value: '42'
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: key
+          value: '44'
+  - type: element
+    name: group
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: '*silence'
+      - type: element
+        name: opcode
+        attributes:
+          name: loop_mode
+          value: loop_continuous
+      - type: element
+        name: opcode
+        attributes:
+          name: off_mode
+          value: fast
+      - type: element
+        name: opcode
+        attributes:
+          name: ampeg_attack
+          value: '0'
+      - type: element
+        name: opcode
+        attributes:
+          name: ampeg_decay
+          value: '0'
+      - type: element
+        name: opcode
+        attributes:
+          name: ampeg_sustain
+          value: '0'
+      - type: element
+        name: opcode
+        attributes:
+          name: ampeg_release
+          value: '0'
+      - type: element
+        name: opcode
+        attributes:
+          name: group
+          value: '44'
+      - type: element
+        name: opcode
+        attributes:
+          name: off_by
+          value: '43'
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: key
+          value: '94'
+      - type: element
+        name: opcode
+        attributes:
+          name: locc4
+          value: '0'
+      - type: element
+        name: opcode
+        attributes:
+          name: hicc4
+          value: '127'
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: key
+          value: '90'
+      - type: element
+        name: opcode
+        attributes:
+          name: locc4
+          value: '0'
+      - type: element
+        name: opcode
+        attributes:
+          name: hicc4
+          value: '127'
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: key
+          value: '42'
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: key
+          value: '44'
+  - type: element
+    name: group
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: '*silence'
+      - type: element
+        name: opcode
+        attributes:
+          name: loop_mode
+          value: loop_continuous
+      - type: element
+        name: opcode
+        attributes:
+          name: off_mode
+          value: fast
+      - type: element
+        name: opcode
+        attributes:
+          name: ampeg_attack
+          value: '0'
+      - type: element
+        name: opcode
+        attributes:
+          name: ampeg_decay
+          value: '0'
+      - type: element
+        name: opcode
+        attributes:
+          name: ampeg_sustain
+          value: '0'
+      - type: element
+        name: opcode
+        attributes:
+          name: ampeg_release
+          value: '0'
+      - type: element
+        name: opcode
+        attributes:
+          name: group
+          value: '43'
+      - type: element
+        name: opcode
+        attributes:
+          name: off_by
+          value: '42'
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: key
+          value: '90'
+      - type: element
+        name: opcode
+        attributes:
+          name: locc4
+          value: '0'
+      - type: element
+        name: opcode
+        attributes:
+          name: hicc4
+          value: '127'
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: key
+          value: '42'
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: key
+          value: '44'
+  - type: element
+    name: group
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: '*silence'
+      - type: element
+        name: opcode
+        attributes:
+          name: loop_mode
+          value: loop_continuous
+      - type: element
+        name: opcode
+        attributes:
+          name: off_mode
+          value: fast
+      - type: element
+        name: opcode
+        attributes:
+          name: ampeg_attack
+          value: '0'
+      - type: element
+        name: opcode
+        attributes:
+          name: ampeg_decay
+          value: '0'
+      - type: element
+        name: opcode
+        attributes:
+          name: ampeg_sustain
+          value: '0'
+      - type: element
+        name: opcode
+        attributes:
+          name: ampeg_release
+          value: '0'
+      - type: element
+        name: opcode
+        attributes:
+          name: group
+          value: '42'
+      - type: element
+        name: opcode
+        attributes:
+          name: off_by
+          value: '41'
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: key
+          value: '42'
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: key
+          value: '44'
+  - type: element
+    name: group
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: '*silence'
+      - type: element
+        name: opcode
+        attributes:
+          name: loop_mode
+          value: loop_continuous
+      - type: element
+        name: opcode
+        attributes:
+          name: off_mode
+          value: fast
+      - type: element
+        name: opcode
+        attributes:
+          name: ampeg_attack
+          value: '0'
+      - type: element
+        name: opcode
+        attributes:
+          name: ampeg_decay
+          value: '0'
+      - type: element
+        name: opcode
+        attributes:
+          name: ampeg_sustain
+          value: '0'
+      - type: element
+        name: opcode
+        attributes:
+          name: ampeg_release
+          value: '0'
+      - type: element
+        name: opcode
+        attributes:
+          name: group
+          value: '41'
+      - type: element
+        name: opcode
+        attributes:
+          name: off_by
+          value: '40'
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: key
+          value: '44'
+

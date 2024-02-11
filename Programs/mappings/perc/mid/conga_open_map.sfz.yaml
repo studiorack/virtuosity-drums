@@ -1,0 +1,659 @@
+elements:
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: ../Samples/perc/mid/conga/Conga_22_HitN_1_50_rr1_Mid.ogg
+      - type: element
+        name: opcode
+        attributes:
+          name: hivel
+          value: '42'
+      - type: element
+        name: opcode
+        attributes:
+          name: seq_length
+          value: '8'
+      - type: element
+        name: opcode
+        attributes:
+          name: amp_velcurve_42
+          value: '1'
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: ../Samples/perc/mid/conga/Conga_22_HitN_1_50_rr2_Mid.ogg
+      - type: element
+        name: opcode
+        attributes:
+          name: hivel
+          value: '42'
+      - type: element
+        name: opcode
+        attributes:
+          name: seq_length
+          value: '8'
+      - type: element
+        name: opcode
+        attributes:
+          name: seq_position
+          value: '2'
+      - type: element
+        name: opcode
+        attributes:
+          name: amp_velcurve_42
+          value: '1'
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: ../Samples/perc/mid/conga/Conga_22_HitN_1_50_rr3_Mid.ogg
+      - type: element
+        name: opcode
+        attributes:
+          name: hivel
+          value: '42'
+      - type: element
+        name: opcode
+        attributes:
+          name: seq_length
+          value: '8'
+      - type: element
+        name: opcode
+        attributes:
+          name: seq_position
+          value: '3'
+      - type: element
+        name: opcode
+        attributes:
+          name: amp_velcurve_42
+          value: '1'
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: ../Samples/perc/mid/conga/Conga_22_HitN_1_50_rr4_Mid.ogg
+      - type: element
+        name: opcode
+        attributes:
+          name: hivel
+          value: '42'
+      - type: element
+        name: opcode
+        attributes:
+          name: seq_length
+          value: '8'
+      - type: element
+        name: opcode
+        attributes:
+          name: seq_position
+          value: '4'
+      - type: element
+        name: opcode
+        attributes:
+          name: amp_velcurve_42
+          value: '1'
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: ../Samples/perc/mid/conga/Conga_22_HitN_1_50_rr5_Mid.ogg
+      - type: element
+        name: opcode
+        attributes:
+          name: hivel
+          value: '42'
+      - type: element
+        name: opcode
+        attributes:
+          name: seq_length
+          value: '8'
+      - type: element
+        name: opcode
+        attributes:
+          name: seq_position
+          value: '5'
+      - type: element
+        name: opcode
+        attributes:
+          name: amp_velcurve_42
+          value: '1'
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: ../Samples/perc/mid/conga/Conga_22_HitN_1_50_rr6_Mid.ogg
+      - type: element
+        name: opcode
+        attributes:
+          name: hivel
+          value: '42'
+      - type: element
+        name: opcode
+        attributes:
+          name: seq_length
+          value: '8'
+      - type: element
+        name: opcode
+        attributes:
+          name: seq_position
+          value: '6'
+      - type: element
+        name: opcode
+        attributes:
+          name: amp_velcurve_42
+          value: '1'
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: ../Samples/perc/mid/conga/Conga_22_HitN_1_50_rr7_Mid.ogg
+      - type: element
+        name: opcode
+        attributes:
+          name: hivel
+          value: '42'
+      - type: element
+        name: opcode
+        attributes:
+          name: seq_length
+          value: '8'
+      - type: element
+        name: opcode
+        attributes:
+          name: seq_position
+          value: '7'
+      - type: element
+        name: opcode
+        attributes:
+          name: amp_velcurve_42
+          value: '1'
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: ../Samples/perc/mid/conga/Conga_22_HitN_1_50_rr8_Mid.ogg
+      - type: element
+        name: opcode
+        attributes:
+          name: hivel
+          value: '42'
+      - type: element
+        name: opcode
+        attributes:
+          name: seq_length
+          value: '8'
+      - type: element
+        name: opcode
+        attributes:
+          name: seq_position
+          value: '8'
+      - type: element
+        name: opcode
+        attributes:
+          name: amp_velcurve_42
+          value: '1'
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: ../Samples/perc/mid/conga/Conga_22_HitN_101_127_rr1_Mid.ogg
+      - type: element
+        name: opcode
+        attributes:
+          name: lovel
+          value: '85'
+      - type: element
+        name: opcode
+        attributes:
+          name: seq_length
+          value: '8'
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: ../Samples/perc/mid/conga/Conga_22_HitN_101_127_rr2_Mid.ogg
+      - type: element
+        name: opcode
+        attributes:
+          name: lovel
+          value: '85'
+      - type: element
+        name: opcode
+        attributes:
+          name: seq_length
+          value: '8'
+      - type: element
+        name: opcode
+        attributes:
+          name: seq_position
+          value: '2'
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: ../Samples/perc/mid/conga/Conga_22_HitN_101_127_rr3_Mid.ogg
+      - type: element
+        name: opcode
+        attributes:
+          name: lovel
+          value: '85'
+      - type: element
+        name: opcode
+        attributes:
+          name: seq_length
+          value: '8'
+      - type: element
+        name: opcode
+        attributes:
+          name: seq_position
+          value: '3'
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: ../Samples/perc/mid/conga/Conga_22_HitN_101_127_rr4_Mid.ogg
+      - type: element
+        name: opcode
+        attributes:
+          name: lovel
+          value: '85'
+      - type: element
+        name: opcode
+        attributes:
+          name: seq_length
+          value: '8'
+      - type: element
+        name: opcode
+        attributes:
+          name: seq_position
+          value: '4'
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: ../Samples/perc/mid/conga/Conga_22_HitN_101_127_rr5_Mid.ogg
+      - type: element
+        name: opcode
+        attributes:
+          name: lovel
+          value: '85'
+      - type: element
+        name: opcode
+        attributes:
+          name: seq_length
+          value: '8'
+      - type: element
+        name: opcode
+        attributes:
+          name: seq_position
+          value: '5'
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: ../Samples/perc/mid/conga/Conga_22_HitN_101_127_rr6_Mid.ogg
+      - type: element
+        name: opcode
+        attributes:
+          name: lovel
+          value: '85'
+      - type: element
+        name: opcode
+        attributes:
+          name: seq_length
+          value: '8'
+      - type: element
+        name: opcode
+        attributes:
+          name: seq_position
+          value: '6'
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: ../Samples/perc/mid/conga/Conga_22_HitN_101_127_rr7_Mid.ogg
+      - type: element
+        name: opcode
+        attributes:
+          name: lovel
+          value: '85'
+      - type: element
+        name: opcode
+        attributes:
+          name: seq_length
+          value: '8'
+      - type: element
+        name: opcode
+        attributes:
+          name: seq_position
+          value: '7'
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: ../Samples/perc/mid/conga/Conga_22_HitN_101_127_rr8_Mid.ogg
+      - type: element
+        name: opcode
+        attributes:
+          name: lovel
+          value: '85'
+      - type: element
+        name: opcode
+        attributes:
+          name: seq_length
+          value: '8'
+      - type: element
+        name: opcode
+        attributes:
+          name: seq_position
+          value: '8'
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: ../Samples/perc/mid/conga/Conga_22_HitN_51_100_rr1_Mid.ogg
+      - type: element
+        name: opcode
+        attributes:
+          name: lovel
+          value: '43'
+      - type: element
+        name: opcode
+        attributes:
+          name: hivel
+          value: '84'
+      - type: element
+        name: opcode
+        attributes:
+          name: seq_length
+          value: '8'
+      - type: element
+        name: opcode
+        attributes:
+          name: amp_velcurve_84
+          value: '1'
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: ../Samples/perc/mid/conga/Conga_22_HitN_51_100_rr2_Mid.ogg
+      - type: element
+        name: opcode
+        attributes:
+          name: lovel
+          value: '43'
+      - type: element
+        name: opcode
+        attributes:
+          name: hivel
+          value: '84'
+      - type: element
+        name: opcode
+        attributes:
+          name: seq_length
+          value: '8'
+      - type: element
+        name: opcode
+        attributes:
+          name: seq_position
+          value: '2'
+      - type: element
+        name: opcode
+        attributes:
+          name: amp_velcurve_84
+          value: '1'
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: ../Samples/perc/mid/conga/Conga_22_HitN_51_100_rr3_Mid.ogg
+      - type: element
+        name: opcode
+        attributes:
+          name: lovel
+          value: '43'
+      - type: element
+        name: opcode
+        attributes:
+          name: hivel
+          value: '84'
+      - type: element
+        name: opcode
+        attributes:
+          name: seq_length
+          value: '8'
+      - type: element
+        name: opcode
+        attributes:
+          name: seq_position
+          value: '3'
+      - type: element
+        name: opcode
+        attributes:
+          name: amp_velcurve_84
+          value: '1'
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: ../Samples/perc/mid/conga/Conga_22_HitN_51_100_rr4_Mid.ogg
+      - type: element
+        name: opcode
+        attributes:
+          name: lovel
+          value: '43'
+      - type: element
+        name: opcode
+        attributes:
+          name: hivel
+          value: '84'
+      - type: element
+        name: opcode
+        attributes:
+          name: seq_length
+          value: '8'
+      - type: element
+        name: opcode
+        attributes:
+          name: seq_position
+          value: '4'
+      - type: element
+        name: opcode
+        attributes:
+          name: amp_velcurve_84
+          value: '1'
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: ../Samples/perc/mid/conga/Conga_22_HitN_51_100_rr5_Mid.ogg
+      - type: element
+        name: opcode
+        attributes:
+          name: lovel
+          value: '43'
+      - type: element
+        name: opcode
+        attributes:
+          name: hivel
+          value: '84'
+      - type: element
+        name: opcode
+        attributes:
+          name: seq_length
+          value: '8'
+      - type: element
+        name: opcode
+        attributes:
+          name: seq_position
+          value: '5'
+      - type: element
+        name: opcode
+        attributes:
+          name: amp_velcurve_84
+          value: '1'
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: ../Samples/perc/mid/conga/Conga_22_HitN_51_100_rr6_Mid.ogg
+      - type: element
+        name: opcode
+        attributes:
+          name: lovel
+          value: '43'
+      - type: element
+        name: opcode
+        attributes:
+          name: hivel
+          value: '84'
+      - type: element
+        name: opcode
+        attributes:
+          name: seq_length
+          value: '8'
+      - type: element
+        name: opcode
+        attributes:
+          name: seq_position
+          value: '6'
+      - type: element
+        name: opcode
+        attributes:
+          name: amp_velcurve_84
+          value: '1'
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: ../Samples/perc/mid/conga/Conga_22_HitN_51_100_rr7_Mid.ogg
+      - type: element
+        name: opcode
+        attributes:
+          name: lovel
+          value: '43'
+      - type: element
+        name: opcode
+        attributes:
+          name: hivel
+          value: '84'
+      - type: element
+        name: opcode
+        attributes:
+          name: seq_length
+          value: '8'
+      - type: element
+        name: opcode
+        attributes:
+          name: seq_position
+          value: '7'
+      - type: element
+        name: opcode
+        attributes:
+          name: amp_velcurve_84
+          value: '1'
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: ../Samples/perc/mid/conga/Conga_22_HitN_51_100_rr8_Mid.ogg
+      - type: element
+        name: opcode
+        attributes:
+          name: lovel
+          value: '43'
+      - type: element
+        name: opcode
+        attributes:
+          name: hivel
+          value: '84'
+      - type: element
+        name: opcode
+        attributes:
+          name: seq_length
+          value: '8'
+      - type: element
+        name: opcode
+        attributes:
+          name: seq_position
+          value: '8'
+      - type: element
+        name: opcode
+        attributes:
+          name: amp_velcurve_84
+          value: '1'
+

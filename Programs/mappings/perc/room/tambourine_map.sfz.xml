@@ -1,0 +1,50 @@
+<?xml version="1.0"?>
+<region>
+	<opcode name="sample" value="../Samples/perc/room/tambourine/Tamb1_Shake_rr1_Far.ogg" />
+	<opcode name="seq_length" value="10" />
+</region>
+<region>
+	<opcode name="sample" value="../Samples/perc/room/tambourine/Tamb1_Shake_rr2_Far.ogg" />
+	<opcode name="seq_length" value="10" />
+	<opcode name="seq_position" value="2" />
+</region>
+<region>
+	<opcode name="sample" value="../Samples/perc/room/tambourine/Tamb1_Shake_rr3_Far.ogg" />
+	<opcode name="seq_length" value="10" />
+	<opcode name="seq_position" value="3" />
+</region>
+<region>
+	<opcode name="sample" value="../Samples/perc/room/tambourine/Tamb1_Shake_rr4_Far.ogg" />
+	<opcode name="seq_length" value="10" />
+	<opcode name="seq_position" value="4" />
+</region>
+<region>
+	<opcode name="sample" value="../Samples/perc/room/tambourine/Tamb1_Shake_rr5_Far.ogg" />
+	<opcode name="seq_length" value="10" />
+	<opcode name="seq_position" value="5" />
+</region>
+<region>
+	<opcode name="sample" value="../Samples/perc/room/tambourine/Tamb1_Shake_rr6_Far.ogg" />
+	<opcode name="seq_length" value="10" />
+	<opcode name="seq_position" value="6" />
+</region>
+<region>
+	<opcode name="sample" value="../Samples/perc/room/tambourine/Tamb1_Shake_rr7_Far.ogg" />
+	<opcode name="seq_length" value="10" />
+	<opcode name="seq_position" value="7" />
+</region>
+<region>
+	<opcode name="sample" value="../Samples/perc/room/tambourine/Tamb1_Shake_rr8_Far.ogg" />
+	<opcode name="seq_length" value="10" />
+	<opcode name="seq_position" value="8" />
+</region>
+<region>
+	<opcode name="sample" value="../Samples/perc/room/tambourine/Tamb1_Shake_rr9_Far.ogg" />
+	<opcode name="seq_length" value="10" />
+	<opcode name="seq_position" value="9" />
+</region>
+<region>
+	<opcode name="sample" value="../Samples/perc/room/tambourine/Tamb1_Shake_rr10_Far.ogg" />
+	<opcode name="seq_length" value="10" />
+	<opcode name="seq_position" value="10" />
+</region>

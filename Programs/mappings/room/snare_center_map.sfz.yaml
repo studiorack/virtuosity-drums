@@ -1,0 +1,640 @@
+elements:
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: ../Samples/room/snare/room_snare_center_vl1.ogg
+      - type: element
+        name: opcode
+        attributes:
+          name: hivel
+          value: '3'
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: ../Samples/room/snare/room_snare_center_vl2.ogg
+      - type: element
+        name: opcode
+        attributes:
+          name: lovel
+          value: '4'
+      - type: element
+        name: opcode
+        attributes:
+          name: hivel
+          value: '7'
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: ../Samples/room/snare/room_snare_center_vl3.ogg
+      - type: element
+        name: opcode
+        attributes:
+          name: lovel
+          value: '8'
+      - type: element
+        name: opcode
+        attributes:
+          name: hivel
+          value: '10'
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: ../Samples/room/snare/room_snare_center_vl4.ogg
+      - type: element
+        name: opcode
+        attributes:
+          name: lovel
+          value: '11'
+      - type: element
+        name: opcode
+        attributes:
+          name: hivel
+          value: '14'
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: ../Samples/room/snare/room_snare_center_vl5.ogg
+      - type: element
+        name: opcode
+        attributes:
+          name: lovel
+          value: '15'
+      - type: element
+        name: opcode
+        attributes:
+          name: hivel
+          value: '17'
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: ../Samples/room/snare/room_snare_center_vl6.ogg
+      - type: element
+        name: opcode
+        attributes:
+          name: lovel
+          value: '18'
+      - type: element
+        name: opcode
+        attributes:
+          name: hivel
+          value: '21'
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: ../Samples/room/snare/room_snare_center_vl7.ogg
+      - type: element
+        name: opcode
+        attributes:
+          name: lovel
+          value: '22'
+      - type: element
+        name: opcode
+        attributes:
+          name: hivel
+          value: '24'
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: ../Samples/room/snare/room_snare_center_vl8.ogg
+      - type: element
+        name: opcode
+        attributes:
+          name: lovel
+          value: '25'
+      - type: element
+        name: opcode
+        attributes:
+          name: hivel
+          value: '27'
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: ../Samples/room/snare/room_snare_center_vl9.ogg
+      - type: element
+        name: opcode
+        attributes:
+          name: lovel
+          value: '28'
+      - type: element
+        name: opcode
+        attributes:
+          name: hivel
+          value: '31'
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: ../Samples/room/snare/room_snare_center_vl10.ogg
+      - type: element
+        name: opcode
+        attributes:
+          name: lovel
+          value: '32'
+      - type: element
+        name: opcode
+        attributes:
+          name: hivel
+          value: '34'
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: ../Samples/room/snare/room_snare_center_vl11.ogg
+      - type: element
+        name: opcode
+        attributes:
+          name: lovel
+          value: '35'
+      - type: element
+        name: opcode
+        attributes:
+          name: hivel
+          value: '38'
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: ../Samples/room/snare/room_snare_center_vl12.ogg
+      - type: element
+        name: opcode
+        attributes:
+          name: lovel
+          value: '39'
+      - type: element
+        name: opcode
+        attributes:
+          name: hivel
+          value: '41'
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: ../Samples/room/snare/room_snare_center_vl13.ogg
+      - type: element
+        name: opcode
+        attributes:
+          name: lovel
+          value: '42'
+      - type: element
+        name: opcode
+        attributes:
+          name: hivel
+          value: '45'
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: ../Samples/room/snare/room_snare_center_vl14.ogg
+      - type: element
+        name: opcode
+        attributes:
+          name: lovel
+          value: '46'
+      - type: element
+        name: opcode
+        attributes:
+          name: hivel
+          value: '48'
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: ../Samples/room/snare/room_snare_center_vl15.ogg
+      - type: element
+        name: opcode
+        attributes:
+          name: lovel
+          value: '49'
+      - type: element
+        name: opcode
+        attributes:
+          name: hivel
+          value: '52'
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: ../Samples/room/snare/room_snare_center_vl16.ogg
+      - type: element
+        name: opcode
+        attributes:
+          name: lovel
+          value: '53'
+      - type: element
+        name: opcode
+        attributes:
+          name: hivel
+          value: '55'
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: ../Samples/room/snare/room_snare_center_vl17.ogg
+      - type: element
+        name: opcode
+        attributes:
+          name: lovel
+          value: '56'
+      - type: element
+        name: opcode
+        attributes:
+          name: hivel
+          value: '59'
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: ../Samples/room/snare/room_snare_center_vl18.ogg
+      - type: element
+        name: opcode
+        attributes:
+          name: lovel
+          value: '60'
+      - type: element
+        name: opcode
+        attributes:
+          name: hivel
+          value: '63'
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: ../Samples/room/snare/room_snare_center_vl19.ogg
+      - type: element
+        name: opcode
+        attributes:
+          name: lovel
+          value: '64'
+      - type: element
+        name: opcode
+        attributes:
+          name: hivel
+          value: '66'
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: ../Samples/room/snare/room_snare_center_vl20.ogg
+      - type: element
+        name: opcode
+        attributes:
+          name: lovel
+          value: '67'
+      - type: element
+        name: opcode
+        attributes:
+          name: hivel
+          value: '70'
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: ../Samples/room/snare/room_snare_center_vl21.ogg
+      - type: element
+        name: opcode
+        attributes:
+          name: lovel
+          value: '71'
+      - type: element
+        name: opcode
+        attributes:
+          name: hivel
+          value: '73'
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: ../Samples/room/snare/room_snare_center_vl22.ogg
+      - type: element
+        name: opcode
+        attributes:
+          name: lovel
+          value: '74'
+      - type: element
+        name: opcode
+        attributes:
+          name: hivel
+          value: '77'
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: ../Samples/room/snare/room_snare_center_vl23.ogg
+      - type: element
+        name: opcode
+        attributes:
+          name: lovel
+          value: '78'
+      - type: element
+        name: opcode
+        attributes:
+          name: hivel
+          value: '80'
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: ../Samples/room/snare/room_snare_center_vl24.ogg
+      - type: element
+        name: opcode
+        attributes:
+          name: lovel
+          value: '81'
+      - type: element
+        name: opcode
+        attributes:
+          name: hivel
+          value: '84'
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: ../Samples/room/snare/room_snare_center_vl25.ogg
+      - type: element
+        name: opcode
+        attributes:
+          name: lovel
+          value: '85'
+      - type: element
+        name: opcode
+        attributes:
+          name: hivel
+          value: '87'
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: ../Samples/room/snare/room_snare_center_vl26.ogg
+      - type: element
+        name: opcode
+        attributes:
+          name: lovel
+          value: '88'
+      - type: element
+        name: opcode
+        attributes:
+          name: hivel
+          value: '91'
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: ../Samples/room/snare/room_snare_center_vl27.ogg
+      - type: element
+        name: opcode
+        attributes:
+          name: lovel
+          value: '92'
+      - type: element
+        name: opcode
+        attributes:
+          name: hivel
+          value: '95'
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: ../Samples/room/snare/room_snare_center_vl28.ogg
+      - type: element
+        name: opcode
+        attributes:
+          name: lovel
+          value: '96'
+      - type: element
+        name: opcode
+        attributes:
+          name: hivel
+          value: '98'
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: ../Samples/room/snare/room_snare_center_vl29.ogg
+      - type: element
+        name: opcode
+        attributes:
+          name: lovel
+          value: '99'
+      - type: element
+        name: opcode
+        attributes:
+          name: hivel
+          value: '102'
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: ../Samples/room/snare/room_snare_center_vl30.ogg
+      - type: element
+        name: opcode
+        attributes:
+          name: lovel
+          value: '103'
+      - type: element
+        name: opcode
+        attributes:
+          name: hivel
+          value: '105'
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: ../Samples/room/snare/room_snare_center_vl31.ogg
+      - type: element
+        name: opcode
+        attributes:
+          name: lovel
+          value: '106'
+      - type: element
+        name: opcode
+        attributes:
+          name: hivel
+          value: '109'
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: ../Samples/room/snare/room_snare_center_vl32.ogg
+      - type: element
+        name: opcode
+        attributes:
+          name: lovel
+          value: '110'
+      - type: element
+        name: opcode
+        attributes:
+          name: hivel
+          value: '112'
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: ../Samples/room/snare/room_snare_center_vl33.ogg
+      - type: element
+        name: opcode
+        attributes:
+          name: lovel
+          value: '113'
+      - type: element
+        name: opcode
+        attributes:
+          name: hivel
+          value: '116'
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: ../Samples/room/snare/room_snare_center_vl34.ogg
+      - type: element
+        name: opcode
+        attributes:
+          name: lovel
+          value: '117'
+      - type: element
+        name: opcode
+        attributes:
+          name: hivel
+          value: '119'
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: ../Samples/room/snare/room_snare_center_vl35.ogg
+      - type: element
+        name: opcode
+        attributes:
+          name: lovel
+          value: '120'
+      - type: element
+        name: opcode
+        attributes:
+          name: hivel
+          value: '123'
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: ../Samples/room/snare/room_snare_center_vl36.ogg
+      - type: element
+        name: opcode
+        attributes:
+          name: lovel
+          value: '124'
+

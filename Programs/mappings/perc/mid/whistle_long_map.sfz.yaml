@@ -1,0 +1,33 @@
+elements:
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: ../Samples/perc/mid/whistle/Main_BallWhistle_Long-001.ogg
+      - type: element
+        name: opcode
+        attributes:
+          name: seq_length
+          value: '2'
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: ../Samples/perc/mid/whistle/Main_BallWhistle_Long-002.ogg
+      - type: element
+        name: opcode
+        attributes:
+          name: seq_length
+          value: '2'
+      - type: element
+        name: opcode
+        attributes:
+          name: seq_position
+          value: '2'
+

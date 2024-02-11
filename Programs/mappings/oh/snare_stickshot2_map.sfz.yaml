@@ -1,0 +1,280 @@
+elements:
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: ../Samples/oh/snare/oh_snare_stickshot2_vl1.ogg
+      - type: element
+        name: opcode
+        attributes:
+          name: hivel
+          value: '7'
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: ../Samples/oh/snare/oh_snare_stickshot2_vl2.ogg
+      - type: element
+        name: opcode
+        attributes:
+          name: lovel
+          value: '8'
+      - type: element
+        name: opcode
+        attributes:
+          name: hivel
+          value: '15'
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: ../Samples/oh/snare/oh_snare_stickshot2_vl3.ogg
+      - type: element
+        name: opcode
+        attributes:
+          name: lovel
+          value: '16'
+      - type: element
+        name: opcode
+        attributes:
+          name: hivel
+          value: '23'
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: ../Samples/oh/snare/oh_snare_stickshot2_vl4.ogg
+      - type: element
+        name: opcode
+        attributes:
+          name: lovel
+          value: '24'
+      - type: element
+        name: opcode
+        attributes:
+          name: hivel
+          value: '31'
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: ../Samples/oh/snare/oh_snare_stickshot2_vl5.ogg
+      - type: element
+        name: opcode
+        attributes:
+          name: lovel
+          value: '32'
+      - type: element
+        name: opcode
+        attributes:
+          name: hivel
+          value: '39'
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: ../Samples/oh/snare/oh_snare_stickshot2_vl6.ogg
+      - type: element
+        name: opcode
+        attributes:
+          name: lovel
+          value: '40'
+      - type: element
+        name: opcode
+        attributes:
+          name: hivel
+          value: '47'
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: ../Samples/oh/snare/oh_snare_stickshot2_vl7.ogg
+      - type: element
+        name: opcode
+        attributes:
+          name: lovel
+          value: '48'
+      - type: element
+        name: opcode
+        attributes:
+          name: hivel
+          value: '55'
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: ../Samples/oh/snare/oh_snare_stickshot2_vl8.ogg
+      - type: element
+        name: opcode
+        attributes:
+          name: lovel
+          value: '56'
+      - type: element
+        name: opcode
+        attributes:
+          name: hivel
+          value: '63'
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: ../Samples/oh/snare/oh_snare_stickshot2_vl9.ogg
+      - type: element
+        name: opcode
+        attributes:
+          name: lovel
+          value: '64'
+      - type: element
+        name: opcode
+        attributes:
+          name: hivel
+          value: '71'
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: ../Samples/oh/snare/oh_snare_stickshot2_vl10.ogg
+      - type: element
+        name: opcode
+        attributes:
+          name: lovel
+          value: '72'
+      - type: element
+        name: opcode
+        attributes:
+          name: hivel
+          value: '79'
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: ../Samples/oh/snare/oh_snare_stickshot2_vl11.ogg
+      - type: element
+        name: opcode
+        attributes:
+          name: lovel
+          value: '80'
+      - type: element
+        name: opcode
+        attributes:
+          name: hivel
+          value: '87'
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: ../Samples/oh/snare/oh_snare_stickshot2_vl12.ogg
+      - type: element
+        name: opcode
+        attributes:
+          name: lovel
+          value: '88'
+      - type: element
+        name: opcode
+        attributes:
+          name: hivel
+          value: '95'
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: ../Samples/oh/snare/oh_snare_stickshot2_vl13.ogg
+      - type: element
+        name: opcode
+        attributes:
+          name: lovel
+          value: '96'
+      - type: element
+        name: opcode
+        attributes:
+          name: hivel
+          value: '103'
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: ../Samples/oh/snare/oh_snare_stickshot2_vl14.ogg
+      - type: element
+        name: opcode
+        attributes:
+          name: lovel
+          value: '104'
+      - type: element
+        name: opcode
+        attributes:
+          name: hivel
+          value: '111'
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: ../Samples/oh/snare/oh_snare_stickshot2_vl15.ogg
+      - type: element
+        name: opcode
+        attributes:
+          name: lovel
+          value: '112'
+      - type: element
+        name: opcode
+        attributes:
+          name: hivel
+          value: '119'
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: ../Samples/oh/snare/oh_snare_stickshot2_vl16.ogg
+      - type: element
+        name: opcode
+        attributes:
+          name: lovel
+          value: '120'
+

@@ -1,0 +1,103 @@
+<?xml version="1.0"?>
+<region>
+	<opcode name="sample" value="../Samples/perc/oh/vibraslap/Vibraslap1_1_Hit_1_70_rr1_Overhead.ogg" />
+	<opcode name="hivel" value="63" />
+	<opcode name="seq_length" value="8" />
+	<opcode name="amp_velcurve_63" value="1" />
+</region>
+<region>
+	<opcode name="sample" value="../Samples/perc/oh/vibraslap/Vibraslap1_1_Hit_1_70_rr2_Overhead.ogg" />
+	<opcode name="hivel" value="63" />
+	<opcode name="seq_length" value="8" />
+	<opcode name="seq_position" value="2" />
+	<opcode name="amp_velcurve_63" value="1" />
+</region>
+<region>
+	<opcode name="sample" value="../Samples/perc/oh/vibraslap/Vibraslap1_1_Hit_1_70_rr3_Overhead.ogg" />
+	<opcode name="hivel" value="63" />
+	<opcode name="seq_length" value="8" />
+	<opcode name="seq_position" value="3" />
+	<opcode name="amp_velcurve_63" value="1" />
+</region>
+<region>
+	<opcode name="sample" value="../Samples/perc/oh/vibraslap/Vibraslap1_1_Hit_1_70_rr4_Overhead.ogg" />
+	<opcode name="hivel" value="63" />
+	<opcode name="seq_length" value="8" />
+	<opcode name="seq_position" value="4" />
+	<opcode name="amp_velcurve_63" value="1" />
+</region>
+<region>
+	<opcode name="sample" value="../Samples/perc/oh/vibraslap/Vibraslap1_1_Hit_1_70_rr5_Overhead.ogg" />
+	<opcode name="hivel" value="63" />
+	<opcode name="seq_length" value="8" />
+	<opcode name="seq_position" value="5" />
+	<opcode name="amp_velcurve_63" value="1" />
+</region>
+<region>
+	<opcode name="sample" value="../Samples/perc/oh/vibraslap/Vibraslap1_1_Hit_1_70_rr6_Overhead.ogg" />
+	<opcode name="hivel" value="63" />
+	<opcode name="seq_length" value="8" />
+	<opcode name="seq_position" value="6" />
+	<opcode name="amp_velcurve_63" value="1" />
+</region>
+<region>
+	<opcode name="sample" value="../Samples/perc/oh/vibraslap/Vibraslap1_1_Hit_1_70_rr7_Overhead.ogg" />
+	<opcode name="hivel" value="63" />
+	<opcode name="seq_length" value="8" />
+	<opcode name="seq_position" value="7" />
+	<opcode name="amp_velcurve_63" value="1" />
+</region>
+<region>
+	<opcode name="sample" value="../Samples/perc/oh/vibraslap/Vibraslap1_1_Hit_1_70_rr8_Overhead.ogg" />
+	<opcode name="hivel" value="63" />
+	<opcode name="seq_length" value="8" />
+	<opcode name="seq_position" value="8" />
+	<opcode name="amp_velcurve_63" value="1" />
+</region>
+<region>
+	<opcode name="sample" value="../Samples/perc/oh/vibraslap/Vibraslap1_1_Hit_71_127_rr1_Overhead.ogg" />
+	<opcode name="lovel" value="64" />
+	<opcode name="seq_length" value="8" />
+</region>
+<region>
+	<opcode name="sample" value="../Samples/perc/oh/vibraslap/Vibraslap1_1_Hit_71_127_rr2_Overhead.ogg" />
+	<opcode name="lovel" value="64" />
+	<opcode name="seq_length" value="8" />
+	<opcode name="seq_position" value="2" />
+</region>
+<region>
+	<opcode name="sample" value="../Samples/perc/oh/vibraslap/Vibraslap1_1_Hit_71_127_rr3_Overhead.ogg" />
+	<opcode name="lovel" value="64" />
+	<opcode name="seq_length" value="8" />
+	<opcode name="seq_position" value="3" />
+</region>
+<region>
+	<opcode name="sample" value="../Samples/perc/oh/vibraslap/Vibraslap1_1_Hit_71_127_rr4_Overhead.ogg" />
+	<opcode name="lovel" value="64" />
+	<opcode name="seq_length" value="8" />
+	<opcode name="seq_position" value="4" />
+</region>
+<region>
+	<opcode name="sample" value="../Samples/perc/oh/vibraslap/Vibraslap1_1_Hit_71_127_rr5_Overhead.ogg" />
+	<opcode name="lovel" value="64" />
+	<opcode name="seq_length" value="8" />
+	<opcode name="seq_position" value="5" />
+</region>
+<region>
+	<opcode name="sample" value="../Samples/perc/oh/vibraslap/Vibraslap1_1_Hit_71_127_rr6_Overhead.ogg" />
+	<opcode name="lovel" value="64" />
+	<opcode name="seq_length" value="8" />
+	<opcode name="seq_position" value="6" />
+</region>
+<region>
+	<opcode name="sample" value="../Samples/perc/oh/vibraslap/Vibraslap1_1_Hit_71_127_rr7_Overhead.ogg" />
+	<opcode name="lovel" value="64" />
+	<opcode name="seq_length" value="8" />
+	<opcode name="seq_position" value="7" />
+</region>
+<region>
+	<opcode name="sample" value="../Samples/perc/oh/vibraslap/Vibraslap1_1_Hit_71_127_rr8_Overhead.ogg" />
+	<opcode name="lovel" value="64" />
+	<opcode name="seq_length" value="8" />
+	<opcode name="seq_position" value="8" />
+</region>

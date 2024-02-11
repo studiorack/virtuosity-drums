@@ -1,0 +1,50 @@
+<?xml version="1.0"?>
+<region>
+	<opcode name="sample" value="../Samples/kickmic/ltom/kickmic_ltom_rimshot_vl1.ogg" />
+	<opcode name="hivel" value="12" />
+</region>
+<region>
+	<opcode name="sample" value="../Samples/kickmic/ltom/kickmic_ltom_rimshot_vl2.ogg" />
+	<opcode name="lovel" value="13" />
+	<opcode name="hivel" value="25" />
+</region>
+<region>
+	<opcode name="sample" value="../Samples/kickmic/ltom/kickmic_ltom_rimshot_vl3.ogg" />
+	<opcode name="lovel" value="26" />
+	<opcode name="hivel" value="37" />
+</region>
+<region>
+	<opcode name="sample" value="../Samples/kickmic/ltom/kickmic_ltom_rimshot_vl4.ogg" />
+	<opcode name="lovel" value="38" />
+	<opcode name="hivel" value="50" />
+</region>
+<region>
+	<opcode name="sample" value="../Samples/kickmic/ltom/kickmic_ltom_rimshot_vl5.ogg" />
+	<opcode name="lovel" value="51" />
+	<opcode name="hivel" value="63" />
+</region>
+<region>
+	<opcode name="sample" value="../Samples/kickmic/ltom/kickmic_ltom_rimshot_vl6.ogg" />
+	<opcode name="lovel" value="64" />
+	<opcode name="hivel" value="75" />
+</region>
+<region>
+	<opcode name="sample" value="../Samples/kickmic/ltom/kickmic_ltom_rimshot_vl7.ogg" />
+	<opcode name="lovel" value="76" />
+	<opcode name="hivel" value="88" />
+</region>
+<region>
+	<opcode name="sample" value="../Samples/kickmic/ltom/kickmic_ltom_rimshot_vl8.ogg" />
+	<opcode name="lovel" value="89" />
+	<opcode name="hivel" value="101" />
+</region>
+<region>
+	<opcode name="sample" value="../Samples/kickmic/ltom/kickmic_ltom_rimshot_vl9.ogg" />
+	<opcode name="lovel" value="102" />
+	<opcode name="hivel" value="113" />
+</region>
+<region>
+	<opcode name="sample" value="../Samples/kickmic/ltom/kickmic_ltom_rimshot_vl10.ogg" />
+	<opcode name="lovel" value="114" />
+	<opcode name="hivel" value="127" />
+</region>

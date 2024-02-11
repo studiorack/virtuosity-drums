@@ -1,0 +1,79 @@
+<?xml version="1.0"?>
+<region>
+	<opcode name="sample" value="../Samples/mid/snare/mid_snare_stickshot2_vl1.ogg" />
+	<opcode name="hivel" value="7" />
+</region>
+<region>
+	<opcode name="sample" value="../Samples/mid/snare/mid_snare_stickshot2_vl2.ogg" />
+	<opcode name="lovel" value="8" />
+	<opcode name="hivel" value="15" />
+</region>
+<region>
+	<opcode name="sample" value="../Samples/mid/snare/mid_snare_stickshot2_vl3.ogg" />
+	<opcode name="lovel" value="16" />
+	<opcode name="hivel" value="23" />
+</region>
+<region>
+	<opcode name="sample" value="../Samples/mid/snare/mid_snare_stickshot2_vl4.ogg" />
+	<opcode name="lovel" value="24" />
+	<opcode name="hivel" value="31" />
+</region>
+<region>
+	<opcode name="sample" value="../Samples/mid/snare/mid_snare_stickshot2_vl5.ogg" />
+	<opcode name="lovel" value="32" />
+	<opcode name="hivel" value="39" />
+</region>
+<region>
+	<opcode name="sample" value="../Samples/mid/snare/mid_snare_stickshot2_vl6.ogg" />
+	<opcode name="lovel" value="40" />
+	<opcode name="hivel" value="47" />
+</region>
+<region>
+	<opcode name="sample" value="../Samples/mid/snare/mid_snare_stickshot2_vl7.ogg" />
+	<opcode name="lovel" value="48" />
+	<opcode name="hivel" value="55" />
+</region>
+<region>
+	<opcode name="sample" value="../Samples/mid/snare/mid_snare_stickshot2_vl8.ogg" />
+	<opcode name="lovel" value="56" />
+	<opcode name="hivel" value="63" />
+</region>
+<region>
+	<opcode name="sample" value="../Samples/mid/snare/mid_snare_stickshot2_vl9.ogg" />
+	<opcode name="lovel" value="64" />
+	<opcode name="hivel" value="71" />
+</region>
+<region>
+	<opcode name="sample" value="../Samples/mid/snare/mid_snare_stickshot2_vl10.ogg" />
+	<opcode name="lovel" value="72" />
+	<opcode name="hivel" value="79" />
+</region>
+<region>
+	<opcode name="sample" value="../Samples/mid/snare/mid_snare_stickshot2_vl11.ogg" />
+	<opcode name="lovel" value="80" />
+	<opcode name="hivel" value="87" />
+</region>
+<region>
+	<opcode name="sample" value="../Samples/mid/snare/mid_snare_stickshot2_vl12.ogg" />
+	<opcode name="lovel" value="88" />
+	<opcode name="hivel" value="95" />
+</region>
+<region>
+	<opcode name="sample" value="../Samples/mid/snare/mid_snare_stickshot2_vl13.ogg" />
+	<opcode name="lovel" value="96" />
+	<opcode name="hivel" value="103" />
+</region>
+<region>
+	<opcode name="sample" value="../Samples/mid/snare/mid_snare_stickshot2_vl14.ogg" />
+	<opcode name="lovel" value="104" />
+	<opcode name="hivel" value="111" />
+</region>
+<region>
+	<opcode name="sample" value="../Samples/mid/snare/mid_snare_stickshot2_vl15.ogg" />
+	<opcode name="lovel" value="112" />
+	<opcode name="hivel" value="119" />
+</region>
+<region>
+	<opcode name="sample" value="../Samples/mid/snare/mid_snare_stickshot2_vl16.ogg" />
+	<opcode name="lovel" value="120" />
+</region>

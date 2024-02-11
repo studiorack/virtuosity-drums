@@ -1,0 +1,338 @@
+elements:
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: ../Samples/kickmic/crash/kickmic_crash_sizzle_vl1_rr1.ogg
+      - type: element
+        name: opcode
+        attributes:
+          name: hivel
+          value: '42'
+      - type: element
+        name: opcode
+        attributes:
+          name: seq_length
+          value: '4'
+      - type: element
+        name: opcode
+        attributes:
+          name: amp_velcurve_42
+          value: '1'
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: ../Samples/kickmic/crash/kickmic_crash_sizzle_vl1_rr2.ogg
+      - type: element
+        name: opcode
+        attributes:
+          name: hivel
+          value: '42'
+      - type: element
+        name: opcode
+        attributes:
+          name: seq_length
+          value: '4'
+      - type: element
+        name: opcode
+        attributes:
+          name: seq_position
+          value: '2'
+      - type: element
+        name: opcode
+        attributes:
+          name: amp_velcurve_42
+          value: '1'
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: ../Samples/kickmic/crash/kickmic_crash_sizzle_vl1_rr3.ogg
+      - type: element
+        name: opcode
+        attributes:
+          name: hivel
+          value: '42'
+      - type: element
+        name: opcode
+        attributes:
+          name: seq_length
+          value: '4'
+      - type: element
+        name: opcode
+        attributes:
+          name: seq_position
+          value: '3'
+      - type: element
+        name: opcode
+        attributes:
+          name: amp_velcurve_42
+          value: '1'
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: ../Samples/kickmic/crash/kickmic_crash_sizzle_vl1_rr4.ogg
+      - type: element
+        name: opcode
+        attributes:
+          name: hivel
+          value: '42'
+      - type: element
+        name: opcode
+        attributes:
+          name: seq_length
+          value: '4'
+      - type: element
+        name: opcode
+        attributes:
+          name: seq_position
+          value: '4'
+      - type: element
+        name: opcode
+        attributes:
+          name: amp_velcurve_42
+          value: '1'
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: ../Samples/kickmic/crash/kickmic_crash_sizzle_vl2_rr1.ogg
+      - type: element
+        name: opcode
+        attributes:
+          name: lovel
+          value: '43'
+      - type: element
+        name: opcode
+        attributes:
+          name: hivel
+          value: '85'
+      - type: element
+        name: opcode
+        attributes:
+          name: seq_length
+          value: '4'
+      - type: element
+        name: opcode
+        attributes:
+          name: amp_velcurve_85
+          value: '1'
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: ../Samples/kickmic/crash/kickmic_crash_sizzle_vl2_rr2.ogg
+      - type: element
+        name: opcode
+        attributes:
+          name: lovel
+          value: '43'
+      - type: element
+        name: opcode
+        attributes:
+          name: hivel
+          value: '85'
+      - type: element
+        name: opcode
+        attributes:
+          name: seq_length
+          value: '4'
+      - type: element
+        name: opcode
+        attributes:
+          name: seq_position
+          value: '2'
+      - type: element
+        name: opcode
+        attributes:
+          name: amp_velcurve_85
+          value: '1'
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: ../Samples/kickmic/crash/kickmic_crash_sizzle_vl2_rr3.ogg
+      - type: element
+        name: opcode
+        attributes:
+          name: lovel
+          value: '43'
+      - type: element
+        name: opcode
+        attributes:
+          name: hivel
+          value: '85'
+      - type: element
+        name: opcode
+        attributes:
+          name: seq_length
+          value: '4'
+      - type: element
+        name: opcode
+        attributes:
+          name: seq_position
+          value: '3'
+      - type: element
+        name: opcode
+        attributes:
+          name: amp_velcurve_85
+          value: '1'
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: ../Samples/kickmic/crash/kickmic_crash_sizzle_vl2_rr4.ogg
+      - type: element
+        name: opcode
+        attributes:
+          name: lovel
+          value: '43'
+      - type: element
+        name: opcode
+        attributes:
+          name: hivel
+          value: '85'
+      - type: element
+        name: opcode
+        attributes:
+          name: seq_length
+          value: '4'
+      - type: element
+        name: opcode
+        attributes:
+          name: seq_position
+          value: '4'
+      - type: element
+        name: opcode
+        attributes:
+          name: amp_velcurve_85
+          value: '1'
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: ../Samples/kickmic/crash/kickmic_crash_sizzle_vl3_rr1.ogg
+      - type: element
+        name: opcode
+        attributes:
+          name: lovel
+          value: '86'
+      - type: element
+        name: opcode
+        attributes:
+          name: seq_length
+          value: '4'
+      - type: element
+        name: opcode
+        attributes:
+          name: amp_velcurve_95
+          value: '1'
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: ../Samples/kickmic/crash/kickmic_crash_sizzle_vl3_rr2.ogg
+      - type: element
+        name: opcode
+        attributes:
+          name: lovel
+          value: '86'
+      - type: element
+        name: opcode
+        attributes:
+          name: seq_length
+          value: '4'
+      - type: element
+        name: opcode
+        attributes:
+          name: seq_position
+          value: '2'
+      - type: element
+        name: opcode
+        attributes:
+          name: amp_velcurve_95
+          value: '1'
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: ../Samples/kickmic/crash/kickmic_crash_sizzle_vl3_rr3.ogg
+      - type: element
+        name: opcode
+        attributes:
+          name: lovel
+          value: '86'
+      - type: element
+        name: opcode
+        attributes:
+          name: seq_length
+          value: '4'
+      - type: element
+        name: opcode
+        attributes:
+          name: seq_position
+          value: '3'
+      - type: element
+        name: opcode
+        attributes:
+          name: amp_velcurve_95
+          value: '1'
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: ../Samples/kickmic/crash/kickmic_crash_sizzle_vl3_rr4.ogg
+      - type: element
+        name: opcode
+        attributes:
+          name: lovel
+          value: '86'
+      - type: element
+        name: opcode
+        attributes:
+          name: seq_length
+          value: '4'
+      - type: element
+        name: opcode
+        attributes:
+          name: seq_position
+          value: '4'
+

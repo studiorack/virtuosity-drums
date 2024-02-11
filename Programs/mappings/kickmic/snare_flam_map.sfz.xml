@@ -1,0 +1,59 @@
+<?xml version="1.0"?>
+<region>
+	<opcode name="sample" value="../Samples/kickmic/snare/kickmic_snare_flam_vl1.ogg" />
+	<opcode name="hivel" value="10" />
+</region>
+<region>
+	<opcode name="sample" value="../Samples/kickmic/snare/kickmic_snare_flam_vl2.ogg" />
+	<opcode name="lovel" value="11" />
+	<opcode name="hivel" value="21" />
+</region>
+<region>
+	<opcode name="sample" value="../Samples/kickmic/snare/kickmic_snare_flam_vl3.ogg" />
+	<opcode name="lovel" value="22" />
+	<opcode name="hivel" value="32" />
+</region>
+<region>
+	<opcode name="sample" value="../Samples/kickmic/snare/kickmic_snare_flam_vl4.ogg" />
+	<opcode name="lovel" value="33" />
+	<opcode name="hivel" value="42" />
+</region>
+<region>
+	<opcode name="sample" value="../Samples/kickmic/snare/kickmic_snare_flam_vl5.ogg" />
+	<opcode name="lovel" value="43" />
+	<opcode name="hivel" value="53" />
+</region>
+<region>
+	<opcode name="sample" value="../Samples/kickmic/snare/kickmic_snare_flam_vl6.ogg" />
+	<opcode name="lovel" value="54" />
+	<opcode name="hivel" value="63" />
+</region>
+<region>
+	<opcode name="sample" value="../Samples/kickmic/snare/kickmic_snare_flam_vl7.ogg" />
+	<opcode name="lovel" value="64" />
+	<opcode name="hivel" value="74" />
+</region>
+<region>
+	<opcode name="sample" value="../Samples/kickmic/snare/kickmic_snare_flam_vl8.ogg" />
+	<opcode name="lovel" value="75" />
+	<opcode name="hivel" value="85" />
+</region>
+<region>
+	<opcode name="sample" value="../Samples/kickmic/snare/kickmic_snare_flam_vl9.ogg" />
+	<opcode name="lovel" value="86" />
+	<opcode name="hivel" value="95" />
+</region>
+<region>
+	<opcode name="sample" value="../Samples/kickmic/snare/kickmic_snare_flam_vl10.ogg" />
+	<opcode name="lovel" value="96" />
+	<opcode name="hivel" value="106" />
+</region>
+<region>
+	<opcode name="sample" value="../Samples/kickmic/snare/kickmic_snare_flam_vl11.ogg" />
+	<opcode name="lovel" value="107" />
+	<opcode name="hivel" value="117" />
+</region>
+<region>
+	<opcode name="sample" value="../Samples/kickmic/snare/kickmic_snare_flam_vl12.ogg" />
+	<opcode name="lovel" value="118" />
+</region>

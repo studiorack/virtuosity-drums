@@ -1,0 +1,84 @@
+<?xml version="1.0"?>
+<region>
+	<opcode name="sample" value="../Samples/kickmic/hh/kickmic_hh_open_vl1_rr1.ogg" />
+	<opcode name="hivel" value="31" />
+	<opcode name="seq_length" value="3" />
+	<opcode name="amp_velcurve_31" value="1" />
+</region>
+<region>
+	<opcode name="sample" value="../Samples/kickmic/hh/kickmic_hh_open_vl1_rr2.ogg" />
+	<opcode name="hivel" value="31" />
+	<opcode name="seq_length" value="3" />
+	<opcode name="seq_position" value="2" />
+	<opcode name="amp_velcurve_31" value="1" />
+</region>
+<region>
+	<opcode name="sample" value="../Samples/kickmic/hh/kickmic_hh_open_vl1_rr3.ogg" />
+	<opcode name="hivel" value="31" />
+	<opcode name="seq_length" value="3" />
+	<opcode name="seq_position" value="3" />
+	<opcode name="amp_velcurve_31" value="1" />
+</region>
+<region>
+	<opcode name="sample" value="../Samples/kickmic/hh/kickmic_hh_open_vl2_rr1.ogg" />
+	<opcode name="lovel" value="32" />
+	<opcode name="hivel" value="63" />
+	<opcode name="seq_length" value="3" />
+	<opcode name="amp_velcurve_63" value="1" />
+</region>
+<region>
+	<opcode name="sample" value="../Samples/kickmic/hh/kickmic_hh_open_vl2_rr2.ogg" />
+	<opcode name="lovel" value="32" />
+	<opcode name="hivel" value="63" />
+	<opcode name="seq_length" value="3" />
+	<opcode name="seq_position" value="2" />
+	<opcode name="amp_velcurve_63" value="1" />
+</region>
+<region>
+	<opcode name="sample" value="../Samples/kickmic/hh/kickmic_hh_open_vl2_rr3.ogg" />
+	<opcode name="lovel" value="32" />
+	<opcode name="hivel" value="63" />
+	<opcode name="seq_length" value="3" />
+	<opcode name="seq_position" value="3" />
+	<opcode name="amp_velcurve_63" value="1" />
+</region>
+<region>
+	<opcode name="sample" value="../Samples/kickmic/hh/kickmic_hh_open_vl3_rr1.ogg" />
+	<opcode name="lovel" value="64" />
+	<opcode name="hivel" value="95" />
+	<opcode name="seq_length" value="3" />
+	<opcode name="amp_velcurve_95" value="1" />
+</region>
+<region>
+	<opcode name="sample" value="../Samples/kickmic/hh/kickmic_hh_open_vl3_rr2.ogg" />
+	<opcode name="lovel" value="64" />
+	<opcode name="hivel" value="95" />
+	<opcode name="seq_length" value="3" />
+	<opcode name="seq_position" value="2" />
+	<opcode name="amp_velcurve_95" value="1" />
+</region>
+<region>
+	<opcode name="sample" value="../Samples/kickmic/hh/kickmic_hh_open_vl3_rr3.ogg" />
+	<opcode name="lovel" value="64" />
+	<opcode name="hivel" value="95" />
+	<opcode name="seq_length" value="3" />
+	<opcode name="seq_position" value="3" />
+	<opcode name="amp_velcurve_95" value="1" />
+</region>
+<region>
+	<opcode name="sample" value="../Samples/kickmic/hh/kickmic_hh_open_vl4_rr1.ogg" />
+	<opcode name="lovel" value="96" />
+	<opcode name="seq_length" value="3" />
+</region>
+<region>
+	<opcode name="sample" value="../Samples/kickmic/hh/kickmic_hh_open_vl4_rr2.ogg" />
+	<opcode name="lovel" value="96" />
+	<opcode name="seq_length" value="3" />
+	<opcode name="seq_position" value="2" />
+</region>
+<region>
+	<opcode name="sample" value="../Samples/kickmic/hh/kickmic_hh_open_vl4_rr3.ogg" />
+	<opcode name="lovel" value="96" />
+	<opcode name="seq_length" value="3" />
+	<opcode name="seq_position" value="3" />
+</region>

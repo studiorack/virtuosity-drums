@@ -1,0 +1,179 @@
+<?xml version="1.0"?>
+<region>
+	<opcode name="sample" value="../Samples/mid/snare/mid_snare_center_vl1.ogg" />
+	<opcode name="hivel" value="3" />
+</region>
+<region>
+	<opcode name="sample" value="../Samples/mid/snare/mid_snare_center_vl2.ogg" />
+	<opcode name="lovel" value="4" />
+	<opcode name="hivel" value="7" />
+</region>
+<region>
+	<opcode name="sample" value="../Samples/mid/snare/mid_snare_center_vl3.ogg" />
+	<opcode name="lovel" value="8" />
+	<opcode name="hivel" value="10" />
+</region>
+<region>
+	<opcode name="sample" value="../Samples/mid/snare/mid_snare_center_vl4.ogg" />
+	<opcode name="lovel" value="11" />
+	<opcode name="hivel" value="14" />
+</region>
+<region>
+	<opcode name="sample" value="../Samples/mid/snare/mid_snare_center_vl5.ogg" />
+	<opcode name="lovel" value="15" />
+	<opcode name="hivel" value="17" />
+</region>
+<region>
+	<opcode name="sample" value="../Samples/mid/snare/mid_snare_center_vl6.ogg" />
+	<opcode name="lovel" value="18" />
+	<opcode name="hivel" value="21" />
+</region>
+<region>
+	<opcode name="sample" value="../Samples/mid/snare/mid_snare_center_vl7.ogg" />
+	<opcode name="lovel" value="22" />
+	<opcode name="hivel" value="24" />
+</region>
+<region>
+	<opcode name="sample" value="../Samples/mid/snare/mid_snare_center_vl8.ogg" />
+	<opcode name="lovel" value="25" />
+	<opcode name="hivel" value="27" />
+</region>
+<region>
+	<opcode name="sample" value="../Samples/mid/snare/mid_snare_center_vl9.ogg" />
+	<opcode name="lovel" value="28" />
+	<opcode name="hivel" value="31" />
+</region>
+<region>
+	<opcode name="sample" value="../Samples/mid/snare/mid_snare_center_vl10.ogg" />
+	<opcode name="lovel" value="32" />
+	<opcode name="hivel" value="34" />
+</region>
+<region>
+	<opcode name="sample" value="../Samples/mid/snare/mid_snare_center_vl11.ogg" />
+	<opcode name="lovel" value="35" />
+	<opcode name="hivel" value="38" />
+</region>
+<region>
+	<opcode name="sample" value="../Samples/mid/snare/mid_snare_center_vl12.ogg" />
+	<opcode name="lovel" value="39" />
+	<opcode name="hivel" value="41" />
+</region>
+<region>
+	<opcode name="sample" value="../Samples/mid/snare/mid_snare_center_vl13.ogg" />
+	<opcode name="lovel" value="42" />
+	<opcode name="hivel" value="45" />
+</region>
+<region>
+	<opcode name="sample" value="../Samples/mid/snare/mid_snare_center_vl14.ogg" />
+	<opcode name="lovel" value="46" />
+	<opcode name="hivel" value="48" />
+</region>
+<region>
+	<opcode name="sample" value="../Samples/mid/snare/mid_snare_center_vl15.ogg" />
+	<opcode name="lovel" value="49" />
+	<opcode name="hivel" value="52" />
+</region>
+<region>
+	<opcode name="sample" value="../Samples/mid/snare/mid_snare_center_vl16.ogg" />
+	<opcode name="lovel" value="53" />
+	<opcode name="hivel" value="55" />
+</region>
+<region>
+	<opcode name="sample" value="../Samples/mid/snare/mid_snare_center_vl17.ogg" />
+	<opcode name="lovel" value="56" />
+	<opcode name="hivel" value="59" />
+</region>
+<region>
+	<opcode name="sample" value="../Samples/mid/snare/mid_snare_center_vl18.ogg" />
+	<opcode name="lovel" value="60" />
+	<opcode name="hivel" value="63" />
+</region>
+<region>
+	<opcode name="sample" value="../Samples/mid/snare/mid_snare_center_vl19.ogg" />
+	<opcode name="lovel" value="64" />
+	<opcode name="hivel" value="66" />
+</region>
+<region>
+	<opcode name="sample" value="../Samples/mid/snare/mid_snare_center_vl20.ogg" />
+	<opcode name="lovel" value="67" />
+	<opcode name="hivel" value="70" />
+</region>
+<region>
+	<opcode name="sample" value="../Samples/mid/snare/mid_snare_center_vl21.ogg" />
+	<opcode name="lovel" value="71" />
+	<opcode name="hivel" value="73" />
+</region>
+<region>
+	<opcode name="sample" value="../Samples/mid/snare/mid_snare_center_vl22.ogg" />
+	<opcode name="lovel" value="74" />
+	<opcode name="hivel" value="77" />
+</region>
+<region>
+	<opcode name="sample" value="../Samples/mid/snare/mid_snare_center_vl23.ogg" />
+	<opcode name="lovel" value="78" />
+	<opcode name="hivel" value="80" />
+</region>
+<region>
+	<opcode name="sample" value="../Samples/mid/snare/mid_snare_center_vl24.ogg" />
+	<opcode name="lovel" value="81" />
+	<opcode name="hivel" value="84" />
+</region>
+<region>
+	<opcode name="sample" value="../Samples/mid/snare/mid_snare_center_vl25.ogg" />
+	<opcode name="lovel" value="85" />
+	<opcode name="hivel" value="87" />
+</region>
+<region>
+	<opcode name="sample" value="../Samples/mid/snare/mid_snare_center_vl26.ogg" />
+	<opcode name="lovel" value="88" />
+	<opcode name="hivel" value="91" />
+</region>
+<region>
+	<opcode name="sample" value="../Samples/mid/snare/mid_snare_center_vl27.ogg" />
+	<opcode name="lovel" value="92" />
+	<opcode name="hivel" value="95" />
+</region>
+<region>
+	<opcode name="sample" value="../Samples/mid/snare/mid_snare_center_vl28.ogg" />
+	<opcode name="lovel" value="96" />
+	<opcode name="hivel" value="98" />
+</region>
+<region>
+	<opcode name="sample" value="../Samples/mid/snare/mid_snare_center_vl29.ogg" />
+	<opcode name="lovel" value="99" />
+	<opcode name="hivel" value="102" />
+</region>
+<region>
+	<opcode name="sample" value="../Samples/mid/snare/mid_snare_center_vl30.ogg" />
+	<opcode name="lovel" value="103" />
+	<opcode name="hivel" value="105" />
+</region>
+<region>
+	<opcode name="sample" value="../Samples/mid/snare/mid_snare_center_vl31.ogg" />
+	<opcode name="lovel" value="106" />
+	<opcode name="hivel" value="109" />
+</region>
+<region>
+	<opcode name="sample" value="../Samples/mid/snare/mid_snare_center_vl32.ogg" />
+	<opcode name="lovel" value="110" />
+	<opcode name="hivel" value="112" />
+</region>
+<region>
+	<opcode name="sample" value="../Samples/mid/snare/mid_snare_center_vl33.ogg" />
+	<opcode name="lovel" value="113" />
+	<opcode name="hivel" value="116" />
+</region>
+<region>
+	<opcode name="sample" value="../Samples/mid/snare/mid_snare_center_vl34.ogg" />
+	<opcode name="lovel" value="117" />
+	<opcode name="hivel" value="119" />
+</region>
+<region>
+	<opcode name="sample" value="../Samples/mid/snare/mid_snare_center_vl35.ogg" />
+	<opcode name="lovel" value="120" />
+	<opcode name="hivel" value="123" />
+</region>
+<region>
+	<opcode name="sample" value="../Samples/mid/snare/mid_snare_center_vl36.ogg" />
+	<opcode name="lovel" value="124" />
+</region>
