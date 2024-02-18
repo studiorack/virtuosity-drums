@@ -1,5 +1,4 @@
 elements:
-  - {}
   - type: element
     name: control
     elements:
